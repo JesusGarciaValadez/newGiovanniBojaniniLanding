@@ -18,7 +18,7 @@
 		"inputAbbreviatedPath": "\/apple-touch-icon-114x114-precomposed.png",
 		"outputAbbreviatedPath": "\/apple-touch-icon-114x114-precomposed.png",
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/apple-touch-icon-144x144-precomposed.png": {
 		"fileType": 32768,
@@ -28,7 +28,7 @@
 		"inputAbbreviatedPath": "\/apple-touch-icon-144x144-precomposed.png",
 		"outputAbbreviatedPath": "\/apple-touch-icon-144x144-precomposed.png",
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/apple-touch-icon-57x57-precomposed.png": {
 		"fileType": 32768,
@@ -38,7 +38,7 @@
 		"inputAbbreviatedPath": "\/apple-touch-icon-57x57-precomposed.png",
 		"outputAbbreviatedPath": "\/apple-touch-icon-57x57-precomposed.png",
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/apple-touch-icon-72x72-precomposed.png": {
 		"fileType": 32768,
@@ -48,7 +48,7 @@
 		"inputAbbreviatedPath": "\/apple-touch-icon-72x72-precomposed.png",
 		"outputAbbreviatedPath": "\/apple-touch-icon-72x72-precomposed.png",
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/apple-touch-icon-precomposed.png": {
 		"fileType": 32768,
@@ -58,7 +58,7 @@
 		"inputAbbreviatedPath": "\/apple-touch-icon-precomposed.png",
 		"outputAbbreviatedPath": "\/apple-touch-icon-precomposed.png",
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/apple-touch-icon.png": {
 		"fileType": 32768,
@@ -68,7 +68,7 @@
 		"inputAbbreviatedPath": "\/apple-touch-icon.png",
 		"outputAbbreviatedPath": "\/apple-touch-icon.png",
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/CHANGELOG.md": {
 		"enableFootnoteSupport": 0,
@@ -136,16 +136,6 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/Code\/templates\/head.jade",
 		"outputAbbreviatedPath": "\/head.html",
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 0
-		},
-	"\/Code\/templates\/home.jade": {
-		"compileDebug": 1,
-		"fileType": 512,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/Code\/templates\/home.jade",
-		"outputAbbreviatedPath": "\/home.html",
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0
 		},
@@ -350,6 +340,14 @@
 		"outputAbbreviatedPath": "\/CONTRIBUTING.html",
 		"outputPathIsSetByUser": 0
 		},
+	"\/index.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsSetByUser": 0
+		},
 	"\/LICENSE.md": {
 		"enableFootnoteSupport": 0,
 		"enableSmartyPants": 1,
@@ -486,7 +484,7 @@
 	"coffeeOutputStyle": 0,
 	"coffeeSyntaxCheckerStyle": 1,
 	"externalServerAddress": "http:\/\/localhost:80\/new_giovanni_bojanini_landing",
-	"externalServerPreviewPathAddition": "\/Code\/",
+	"externalServerPreviewPathAddition": "",
 	"genericWebpageFileExtensionsString": "html, htm, shtml, shtm, xhtml, php, jsp, asp, aspx, erb, ctp",
 	"hamlAutoOutputPathRelativePath": "..\/",
 	"hamlAutoOutputPathReplace1": "",
