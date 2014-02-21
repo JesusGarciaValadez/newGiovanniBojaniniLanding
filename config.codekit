@@ -350,6 +350,14 @@
 		"outputAbbreviatedPath": "\/CONTRIBUTING.html",
 		"outputPathIsSetByUser": 0
 		},
+	"\/index.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsSetByUser": 0
+		},
 	"\/LICENSE.md": {
 		"enableFootnoteSupport": 0,
 		"enableSmartyPants": 1,
@@ -375,7 +383,7 @@
 	},
 "hooks": [
 	],
-"lastSavedByUser": "Jesús Antonio García Valadez",
+"lastSavedByUser": "Jesús García Valadez",
 "manualImportLinks": {
 	},
 "projectAttributes": {
