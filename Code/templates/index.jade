@@ -7,5 +7,67 @@ html(lang="es" class="no-js") <!--<![endif]-->
     include head
     body
         //[if lt IE 7]><p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p><![endif]
-        include home
+        div#home.contenedor
+            figure
+                img(src="" alt="Centro Dermatológico Giovanni Bojanini" width="" height="")
+            div#contact_phone
+                p Para más información
+                p.info 01800 <span>377 35 67</span>
+                p.info
+                    a(href="" title="" target="_blank") Giovanni Bojanini.com
+            div.wrapper
+                h1 Bojanini <strong>Friends</strong>
+                hr
+                h2 Comparte entre amigos
+                div#description
+                    p.
+                        Sabemos que un amigo te entiende y está contigo en cualquier momento.
+                        Por eso en este mes de la amistad, traemos para ti Bojanini Friends.
+                    p.
+                        en <strong>Bojanini Friends,</strong> tú y tus amigos podrán disfrutar
+                        de <strong>grandes descuentos.</strong>
+                div#discounts
+                    div.twenty
+                        p.
+                            <strong>Para ti</strong> que ya eres parte de Bojanini, <strong>recibe</strong>
+                        p.discount 20%
+                    div.thirty
+                        p.
+                            <strong>Para ti</strong> y <strong>un amigo</strong>
+                        p.discount 30%
+                    div.fourthy
+                        p.
+                            <strong>Para ti, dos o más amigos</strong>
+                        p.discount 40%
+                    div.aclaration
+                        p En <strong>Microinjerto</strong> capilar
+                div#auto_diagnotic.scrollable
+                    h3 Auto <strong>Diagnostícate</strong>
+                    a.prev.browse
+                    form(method="post" accept-charset="utf8" action="").items
+                        fieldset
+                            div
+                                img(src="" alt="" width="" height="")
+                                h4 Nivel I
+                                div.input_checkbox
+                                    label(for="select_level") Selecciona tu nivel de <strong>Alopecia</strong>
+                                    input(type="checkbox" class="select_level" name="select_level" value="")
+                            div
+                                img(src="" alt="" width="" height="")
+                                h4 Nivel II
+                                div.input_checkbox
+                                    label(for="select_level") Selecciona tu nivel de <strong>Alopecia</strong>
+                                    input(type="checkbox" class="select_level" name="select_level" value="")
+                            div
+                                img(src="" alt="" width="" height="")
+                                h4 Nivel III
+                                div.input_checkbox
+                                    label(for="select_level") Selecciona tu nivel de <strong>Alopecia</strong>
+                                    input(type="checkbox" class="select_level" name="select_level" value="")
+                    a.next.browse
+                    p.disclaimer. 
+                        El número de cabellos es aproximado, es necesario una valoración
+                        presencial antes de su procedimiento. Puede haber variaciones en
+                        función de la zona donadora y las zonas a tratar.
+            img(src="" alt="")#member_ISHRS
         include footer

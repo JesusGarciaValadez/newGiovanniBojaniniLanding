@@ -12,11 +12,13 @@
     //  When DOM is loaded
     $( function ( ) {
         
+        //  Muestra si hay una capa de carga del sitio
         if ( $( ".loader" ).exists() ) {
             
             $( '.alert_background' ).fadeOut( 300 );
             $( ".loader" ).fadeOut( 300 );
         }
+        //  Redimensiona la imágen de background a la altura del browser
         if ( $( "figure" ).exists() ) {
             
             var winWidth;
@@ -31,55 +33,7 @@
             $( "figure" ).height( winWidth );
         }
         
-        //  Control del background
-        if ( $( "h1" ).exists() ) {
-            
-            $( "h1" ).centerWidth();
-        }
-        if ( $( ".rocket" ).exists() ) {
-            
-            $( ".rocket" ).centerWidth();
-        }
-        if ( $( ".session" ).exists() ) {
-            
-            $( ".session" ).centerWidth();
-        }
-        if ( $( ".vertical_points" ).exists() ) {
-            
-            $( ".vertical_points" ).centerWidth();
-        }
-        if ( $( ".arrow" ).exists() ) {
-            
-            $( ".arrow" ).centerWidth();
-        }
-        if ( $( ".hands" ).exists() ) {
-            
-            $( ".hands" ).centerWidth();
-        }
-        if ( $( "#DG_Logo" ).exists() ) {
-            
-            $( "#DG_Logo" ).centerWidth();
-        }
-        if ( $( "#six .points" ).exists() ) {
-            
-            var pointOne    = GBLanding.getCenterWidth( $( "#six .points" ).eq( 0 ) ) - 85;
-            var pointTwo    = GBLanding.getCenterWidth( $( "#six .points" ).eq( 1 ) ) + 25;
-            
-            $( "#six .points" ).eq( 0 ).css( { 
-                left: pointOne + 'px'
-            } );
-            $( "#six .points" ).eq( 1 ).css( { 
-                left: pointTwo + 'px'
-            } );
-        }
-        if ( $( "h3" ).exists() ) {
-            
-            $( "h3" ).centerWidth();
-        }
-        if ( $( "h4" ).exists() ) {
-            
-            $( "h4" ).centerWidth();
-        }
+        //  Validación del formulario
         if ( $( "form" ).exists() ) {
             
             $( "form" ).centerWidth();
