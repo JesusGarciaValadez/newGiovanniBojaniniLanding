@@ -10,8 +10,8 @@ html(lang="es" class="no-js") <!--<![endif]-->
         div#home.contenedor
             figure.logo
                 img(src="Code/templates/img/logo_boja.png" alt="Centro Dermatológico Giovanni Bojanini" width="142" height="110")
-            figure.friends
-                img(src="Code/templates/img/bojanini-friends.png" alt="Bojanini-friends" width="784" height="785")
+            //figure.friends
+                //img(src="Code/templates/img/bojanini-friends.png" alt="Bojanini-friends" width="784" height="785")
             div#contact_phone
                 p Para más información
                 p.info 01800 <span>377 35 67</span>
@@ -30,15 +30,15 @@ html(lang="es" class="no-js") <!--<![endif]-->
                 div#discounts
                     div.twenty
                         p.
-                            <strong>Para ti</strong> que ya eres parte de Bojanini, <strong>recibe</strong>
+                            <strong>Para ti</strong> <br />que ya eres parte <br />de Bojanini, <strong>recibe</strong>
                         p.discount 20%
                     div.thirty
                         p.
-                            <strong>Para ti</strong> y <strong>un amigo</strong>
+                            <strong>Para ti</strong> <br />y <strong>un amigo</strong>
                         p.discount 30%
                     div.fourthy
                         p.
-                            <strong>Para ti, dos o más amigos</strong>
+                            <strong>Para ti, dos<br /> o más amigos</strong>
                         p.discount 40%
                     div.aclaration
                         p En <strong>Microinjerto</strong> capilar
@@ -49,24 +49,30 @@ html(lang="es" class="no-js") <!--<![endif]-->
                         
                         fieldset.items
                             
-                            div
-                                img(src="" alt="" width="" height="")
-                                h4 Nivel I
-                                div.input_checkbox
-                                    label(for="select_level") Selecciona tu nivel de <strong>Alopecia</strong>
-                                    input(type="checkbox" class="select_level" name="select_level" value="")
-                            div
-                                img(src="" alt="" width="" height="")
-                                h4 Nivel II
-                                div.input_checkbox
-                                    label(for="select_level") Selecciona tu nivel de <strong>Alopecia</strong>
-                                    input(type="checkbox" class="select_level" name="select_level" value="")
-                            div
-                                img(src="" alt="" width="" height="")
-                                h4 Nivel III
-                                div.input_checkbox
-                                    label(for="select_level") Selecciona tu nivel de <strong>Alopecia</strong>
-                                    input(type="checkbox" class="select_level" name="select_level" value="")
+                            div.levels
+                                img(src="Code/templates/img/Modelo_perfil.png" alt="Modelo_perfil" width="151" height="215").profile
+                                img(src="Code/templates/img/modelo_top.png" alt="modelo_top" width="134" height="210").top
+                                div
+                                    h4 Nivel <strong>I</strong>
+                                    div.input_checkbox
+                                        label(for="select_level") Selecciona tu nivel de <strong>Alopecia</strong>
+                                        input(type="checkbox" class="select_level" name="select_level" value="")
+                            div.levels
+                                img(src="Code/templates/img/Modelo_perfil.png" alt="Modelo_perfil" width="151" height="215").profile
+                                img(src="Code/templates/img/modelo_top.png" alt="modelo_top" width="134" height="210").top
+                                div
+                                    h4 Nivel <strong>II</strong>
+                                    div.input_checkbox
+                                        label(for="select_level") Selecciona tu nivel de <strong>Alopecia</strong>
+                                        input(type="checkbox" class="select_level" name="select_level" value="")
+                            div.levels
+                                img(src="Code/templates/img/Modelo_perfil.png" alt="Modelo_perfil" width="151" height="215").profile
+                                img(src="Code/templates/img/modelo_top.png" alt="modelo_top" width="134" height="210").top
+                                div
+                                    h4 Nivel <strong>III</strong>
+                                    div.input_checkbox
+                                        label(for="select_level") Selecciona tu nivel de <strong>Alopecia</strong>
+                                        input(type="checkbox" class="select_level" name="select_level" value="")
                     a.next.browse
                     p.disclaimer. 
                         El número de cabellos es aproximado, es necesario una valoración

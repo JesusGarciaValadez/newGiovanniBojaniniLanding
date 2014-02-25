@@ -18,27 +18,6 @@
             $( '.alert_background' ).fadeOut( 300 );
             $( ".loader" ).fadeOut( 300 );
         }
-        //  Redimensiona la imágen de background a la altura del browser
-        /*if ( $( "figure" ).exists() ) {
-            
-            var winWidth;
-            if ( $.browser.msie && $.browser.version == '8.0' ) {
-                
-                winWidth    = $(window).width();
-            } else {
-                
-                winWidth    = window.innerWidth;
-            }
-            
-            console.log( winWidth );
-            $( "figure" ).height( winWidth );
-        }*/
-        
-        //  Validación del formulario
-        if ( $( "form" ).exists() ) {
-            
-            $( "form" ).centerWidth();
-        }
     } );
     
     //  When DOM is ready
@@ -92,14 +71,10 @@
         //  la capa del video. Si en menor de 0 (ocurre en iPhone) utiliza 
         //  el ancho del body en vez del ancho de la ventana para hacer 
         //  el cálculo
-        if ( $( '.overlay.black' ).exists() ) {
+        if ( $( '.overlay' ).exists() ) {
             
-            $( '.overlay.black' ).centerWidth();
+            $( '.overlay' ).centerWidth();
             
-            if ( $( '.video' ).exists() ) {
-                
-                var myVideo = document.getElementsByTagName( 'video' )[ 0 ];
-            }
             GBLanding.doOverlay( 'img[rel]', {
                 effect: 'apple', 
                 // custom top position
@@ -180,28 +155,44 @@
             $( window ).on( {
                 resize: function ( e ) {
                     
-                    $( '.overlay.black' ).centerWidth();
+                    $( '.overlay' ).centerWidth();
                 },
                 touchstart: function ( e ) {
                     
-                    $( '.overlay.black' ).centerWidth();
+                    $( '.overlay' ).centerWidth();
                 }, 
                 touchend: function ( e ) {
                     
-                    $( '.overlay.black' ).centerWidth();
+                    $( '.overlay' ).centerWidth();
                 }
+            } );
+        }
+        
+        if ( $( '.scrollable' ).exists() ) {
+            
+            GBLanding.inicializeCarrousel( '.scrollable', {
+                speed: 1000, 
+                circular: false, 
+                keyboard: false, 
+                next: 'next', 
+                prev: 'prev'
+            }, {
+                activeClass: "active", 
+                navi: "", 
+                naviItem: "a", 
+                indexed: false
+            }, {
+                steps: 1, 
+                interval: 10000, 
+                autoplay: false, 
+                autopause: false
             } );
         }
         
         // Validación de los formularios
         if ( $( 'form' ).exists() ) {
             
-            GBLanding.makesUniform( 'select' );
-            
-            GBLanding.toggleValue( '#contact_name', 'Nombre' );
-            GBLanding.toggleValue( '#contact_business', 'Empresa' );
-            GBLanding.toggleValue( '#contact_phone', 'Teléfono' );
-            GBLanding.toggleValue( '#contact_mail', 'Email' );
+            GBLanding.makesUniform( 'input[type="checkbox"]' );
             
             var rules   = { 
                     one: {

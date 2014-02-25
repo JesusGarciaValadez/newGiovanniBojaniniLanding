@@ -371,6 +371,37 @@
                 _selector.toggleClass( _class );
             }
         }, 
+        /**
+         *
+         *  @function:  !managerTimelineFill
+         *  @description:   Carrousel inicializer
+         *  @params jQuery slider.- A jQuery Selector 
+         *  @params String progressBar.- A class to add to target
+         *  @params Object ui.- An object with css properties to apply to the jQuery selector
+         *  @params Number leftOffset.- A number to indicate the duration of the animation
+         *  @params Number rightOffset.- A number to indicate the duration of the animation
+         *  @see:   http://jquerytools.org
+         *  @author: @_Chucho_
+         *
+         */
+        //  !Inicializador de un carrusel jQuery Tools
+        inicializeCarrousel:    function ( selector, optionsScrollable, optionsNavigator, optionsAutoscroll ) {
+            
+            _selector       = ( typeof( selector )  == "undefined" ) ? "*" : selector;
+            _selector       = ( typeof( _selector ) == "object" )    ? _selector : $( _selector );
+            
+            if( !optionsScrollable || optionsScrollable == {} ) {
+                optionsScrollable = {};
+            }
+            if( !optionsNavigator || optionsNavigator == {} ) {
+                optionsNavigator = {};
+            }
+            if( !optionsAutoscroll || optionsAutoscroll == {} ) {
+                optionsAutoscroll = {};
+            }
+            
+            _selector.scrollable( optionsScrollable ).navigator( optionsNavigator ).autoscroll( optionsAutoscroll );
+        }, 
         getCenterWidth: function ( selector ) {
             
             var winWidth;

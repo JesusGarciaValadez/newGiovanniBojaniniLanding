@@ -147,7 +147,7 @@
 		"inputAbbreviatedPath": "\/Code\/templates\/img\/background.jpg",
 		"outputAbbreviatedPath": "\/Code\/templates\/img\/background.jpg",
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/Code\/templates\/img\/bg_boja.jpg": {
 		"fileType": 16384,
@@ -179,6 +179,16 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
+	"\/Code\/templates\/img\/flecha.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8946,
+		"inputAbbreviatedPath": "\/Code\/templates\/img\/flecha.png",
+		"outputAbbreviatedPath": "\/Code\/templates\/img\/flecha.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/Code\/templates\/img\/flecha_der.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -198,6 +208,14 @@
 		"outputAbbreviatedPath": "\/Code\/templates\/img\/flecha_izq.png",
 		"outputPathIsSetByUser": 0,
 		"processed": 1
+		},
+	"\/Code\/templates\/img\/flechas.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Code\/templates\/img\/flechas.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsSetByUser": 0
 		},
 	"\/Code\/templates\/img\/h1.png": {
 		"fileType": 32768,
@@ -543,7 +561,7 @@
 	},
 "hooks": [
 	],
-"lastSavedByUser": "Jesús García Valadez",
+"lastSavedByUser": "Jesús Antonio García Valadez",
 "manualImportLinks": {
 	},
 "projectAttributes": {
