@@ -8,24 +8,25 @@ html(lang="es" class="no-js") <!--<![endif]-->
     body
         //[if lt IE 7]><p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p><![endif]
         div#home.contenedor
-            figure
-                img(src="" alt="Centro Dermatológico Giovanni Bojanini" width="" height="")
+            figure.logo
+                img(src="Code/templates/img/logo_boja.png" alt="Centro Dermatológico Giovanni Bojanini" width="142" height="110")
+            figure.friends
+                img(src="Code/templates/img/bojanini-friends.png" alt="Bojanini-friends" width="784" height="785")
             div#contact_phone
                 p Para más información
                 p.info 01800 <span>377 35 67</span>
                 p.info
-                    a(href="" title="" target="_blank") Giovanni Bojanini.com
+                    a(href="mailto:http://www.giovannibojanini.com.mx" title="Giovanni Bojanini.com" target="_blank") Giovanni Bojanini.com
             div.wrapper
                 h1 Bojanini <strong>Friends</strong>
                 hr
                 h2 Comparte entre amigos
                 div#description
                     p.
-                        Sabemos que un amigo te entiende y está contigo en cualquier momento.
-                        Por eso en este mes de la amistad, traemos para ti Bojanini Friends.
-                    p.
-                        en <strong>Bojanini Friends,</strong> tú y tus amigos podrán disfrutar
-                        de <strong>grandes descuentos.</strong>
+                        En Giovanni Bojanini queremos que la <strong>amistad dure para siempre</strong>,
+                        por eso, con <strong>Bojanini Friends</strong>, tú y tus amigos podrán disfrutar de 
+                    p.emphazise.
+                        grandes <strong>descuentos.</strong>
                 div#discounts
                     div.twenty
                         p.
@@ -41,11 +42,13 @@ html(lang="es" class="no-js") <!--<![endif]-->
                         p.discount 40%
                     div.aclaration
                         p En <strong>Microinjerto</strong> capilar
-                div#auto_diagnotic.scrollable
+                div#auto_diagnotic
                     h3 Auto <strong>Diagnostícate</strong>
                     a.prev.browse
-                    form(method="post" accept-charset="utf8" action="").items
-                        fieldset
+                    form(method="post" accept-charset="utf8" action="").scrollable
+                        
+                        fieldset.items
+                            
                             div
                                 img(src="" alt="" width="" height="")
                                 h4 Nivel I
@@ -69,5 +72,5 @@ html(lang="es" class="no-js") <!--<![endif]-->
                         El número de cabellos es aproximado, es necesario una valoración
                         presencial antes de su procedimiento. Puede haber variaciones en
                         función de la zona donadora y las zonas a tratar.
-            img(src="" alt="")#member_ISHRS
+            img(src="Code/templates/img/logo_international_society.png" alt="logo_international_society" width="151" height="86")#member_ISHRS
         include footer

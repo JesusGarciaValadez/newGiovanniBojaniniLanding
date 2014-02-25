@@ -19,7 +19,7 @@
             $( ".loader" ).fadeOut( 300 );
         }
         //  Redimensiona la imágen de background a la altura del browser
-        if ( $( "figure" ).exists() ) {
+        /*if ( $( "figure" ).exists() ) {
             
             var winWidth;
             if ( $.browser.msie && $.browser.version == '8.0' ) {
@@ -30,8 +30,9 @@
                 winWidth    = window.innerWidth;
             }
             
+            console.log( winWidth );
             $( "figure" ).height( winWidth );
-        }
+        }*/
         
         //  Validación del formulario
         if ( $( "form" ).exists() ) {

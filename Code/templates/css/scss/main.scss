@@ -130,41 +130,68 @@ html,body{
 #home.contenedor{
     @include font-mask( $text_gray, em( 16, 16 ), em( 16, 16 ), normal );
     @extend .clearfix;
+    background: url("../img/background.jpg") repeat-x scroll 0 0 transparent;
+    background-size: 8px 100%;
     display: table;
     font-weight: normal;
     height: 100%;
+    overflow: hidden;
     position: relative;
     width: 100%;
-    figure{
+    figure.logo{
         @extend .clearfix;
-        display: table;
-        height: 100%;
-        left: 0;
+        top: 32px;
+        display: block;
         position: absolute;
-        top: 0;
-        width: 100%;
+        left: 77px;
         z-index: 0;
-        img{}
+        img{  }
+    }
+    figure.friends{
+        @extend .clearfix;
+        bottom: 0;
+        display: block;
+        height: 785px;
+        position: absolute;
+        //left: 890px;
+        right: 0;
+        width: 784px;
+        z-index: 0;
+        img{ height: 100% !important; width:100%; }
     }
     #contact_phone{
+        padding: 23px 0 0;
         position: absolute;
         right: 0;
         text-transform: uppercase;
         top:0;
         z-index: 1;
-        p{ color: $white; }
+        p{
+            color: $white;
+            font-size:em( 16, 16 );
+            margin: 0;
+            text-align: center;
+            padding: 0 0 11px;
+        }
         p.info{
             color: $yellow !important;
-            span{ font-weight: bold; }
+            font-size: em( 28, 16 );
+            padding: 0;
+            span{ display:inline-block; font-weight: bold; padding: 0 0 6px; }
             a{
                 color: $yellow;
                 border-bottom: 3px solid $yellow;
+                font-size: em( 16.22, 28 );
+                padding: 0 0 8px;
                 text-decoration: none;
             }
         }
     }
     .wrapper{
-        bottom: 10.5%;
+    border-left:1px solid orange;
+    border-right:1px solid orange;
+        background: rgba(255,255,255,0.6);
+        bottom: 102px;
         height: 600px;
         left: 8.4%;
         position: absolute;
@@ -178,41 +205,71 @@ html,body{
             text-transform: uppercase;
         }
         h1{
-            font-size: em( 70.5, 16 );
-            line-height: em( 70.5, 70.5 );
+            font-size: em( 70, 16 );
+            letter-spacing: 8.3px;
+            line-height: em( 50, 70 );
             strong{}
         }
         hr{
-            border-top:1px solid $yellow;
+            border-top:3px solid $yellow;
             display: block;
-            height: 1px;
-            margin: 0;
+            height: 0;
+            margin: 11px 0 9px;
             padding: 0;
         }
         h2{
             font-size: em( 23.1, 16 );
-            letter-spacing: 16px;
-            line-height: em( 31.5, 16 );
+            letter-spacing: 21.8px;
+            line-height: em( 18, 23.1 );
+            padding: 0 0 20px;
         }
         #description{
-            
+            float: left;
+            padding: 0 47px 0 0;
+            width: em( 256, 16 );
             p{
-                
+                @include font-mask( $text_gray, em( 18, 16 ), em( 14, 18 ), normal, $Helvetica );
+                clear: both;
+                display: block;
+                letter-spacing: 1.6px;
+                margin: 0;
+                padding: 0 0 5px;
+                text-align: justify;
                 strong{}
+            }
+            p.emphazise{
+                @include font-mask( $text_gray, em( 48.3, 16 ), em( 40, 48.3 ), normal, $Helvetica );
+                font-weight: normal;
+                letter-spacing: 15px;
+                text-align: center;
+                strong{
+                    clear: both;
+                    display: block;
+                    letter-spacing: 1px;
+                }
             }
         }
         div#discounts{
-            
+            @extend .clearfix;
+            float: left;
+            height: 171px;
+            position: relative;
+            width: 450px;
             div{
-                
+                float: left;
+                height: 141px;
+                position: absolute;
                 p{
-                    
+                    margin: 0;
+                    padding: 0;
                     strong{}
                 }
                 .discount{ color: $white; }
             }
             div.twenty{
-                
+                background: url("../img/promo_20.png") no-repeat scroll 0 0 transparent;
+                width: 193px;
+                z-index: 10;
                 p{
                     
                     strong{}
@@ -220,7 +277,10 @@ html,body{
                 p.discount{}
             }
             div.thirty{
-                
+                background: url("../img/promo_30.png") no-repeat scroll 0 0 transparent;
+                left: 137px;
+                width: 193px;
+                z-index: 5;
                 p{
                     
                     strong{}
@@ -228,7 +288,10 @@ html,body{
                 p.discount{}
             }
             div.fourthy{
-                
+                background: url("../img/promo_40.png") no-repeat scroll 0 0 transparent;
+                left: 278px;
+                width: 172px;
+                z-index: 0;
                 p{
                     
                     strong{}
@@ -236,27 +299,34 @@ html,body{
                 p.discount{}
             }
             div.aclaration{
-                
+                background-color: #2b2b2b;
+                bottom: 0;
+                height: 30px;
+                left: 0;
+                width: 100%;
                 p{
-                    
+                    @include font-mask( $white, em( 19.92, 16 ), em( 30, 19.92 ), normal, $Helvetica );
+                    letter-spacing: 10.07px;
+                    text-align: center;
                     strong{}
                 }
             }
         }
-        div#auto_diagnotic.scrollable{
-            
+        div#auto_diagnotic{
+            clear: both;
+            display: block;
             h3{
                 
                 strong{}
             }
             a.browse{}
             a.prev{}
-            form.items{
-                
-                fieldset{
-                    
+            form.scrollable{
+                overflow: hidden;
+                fieldset.items{
+                    width: -2000em;
                     div{
-                        
+                        float: left;
                         img{}
                         h4{}
                         div.input_checkbox{

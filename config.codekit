@@ -139,6 +139,176 @@
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0
 		},
+	"\/Code\/templates\/img\/background.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2012,
+		"inputAbbreviatedPath": "\/Code\/templates\/img\/background.jpg",
+		"outputAbbreviatedPath": "\/Code\/templates\/img\/background.jpg",
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/Code\/templates\/img\/bg_boja.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 818471,
+		"inputAbbreviatedPath": "\/Code\/templates\/img\/bg_boja.jpg",
+		"outputAbbreviatedPath": "\/Code\/templates\/img\/bg_boja.jpg",
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/Code\/templates\/img\/bojanini-friends.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.20697e+06,
+		"inputAbbreviatedPath": "\/Code\/templates\/img\/bojanini-friends.png",
+		"outputAbbreviatedPath": "\/Code\/templates\/img\/chavo-rucos.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/Code\/templates\/img\/cuadro_seleccion.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1077,
+		"inputAbbreviatedPath": "\/Code\/templates\/img\/cuadro_seleccion.png",
+		"outputAbbreviatedPath": "\/Code\/templates\/img\/cuadro_seleccion.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/Code\/templates\/img\/flecha_der.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1947,
+		"inputAbbreviatedPath": "\/Code\/templates\/img\/flecha_der.png",
+		"outputAbbreviatedPath": "\/Code\/templates\/img\/flecha_der.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/Code\/templates\/img\/flecha_izq.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1975,
+		"inputAbbreviatedPath": "\/Code\/templates\/img\/flecha_izq.png",
+		"outputAbbreviatedPath": "\/Code\/templates\/img\/flecha_izq.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/Code\/templates\/img\/h1.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 10877,
+		"inputAbbreviatedPath": "\/Code\/templates\/img\/h1.png",
+		"outputAbbreviatedPath": "\/Code\/templates\/img\/h1.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/Code\/templates\/img\/linea_header_cuadro.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1001,
+		"inputAbbreviatedPath": "\/Code\/templates\/img\/linea_header_cuadro.png",
+		"outputAbbreviatedPath": "\/Code\/templates\/img\/linea_header_cuadro.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/Code\/templates\/img\/linea_numeros.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1218,
+		"inputAbbreviatedPath": "\/Code\/templates\/img\/linea_numeros.png",
+		"outputAbbreviatedPath": "\/Code\/templates\/img\/linea_numeros.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/Code\/templates\/img\/logo_boja.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 7416,
+		"inputAbbreviatedPath": "\/Code\/templates\/img\/logo_boja.png",
+		"outputAbbreviatedPath": "\/Code\/templates\/img\/logo_boja.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/Code\/templates\/img\/logo_international_society.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 11394,
+		"inputAbbreviatedPath": "\/Code\/templates\/img\/logo_international_society.png",
+		"outputAbbreviatedPath": "\/Code\/templates\/img\/logo_international_society.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/Code\/templates\/img\/Modelo_perfil.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 15082,
+		"inputAbbreviatedPath": "\/Code\/templates\/img\/Modelo_perfil.png",
+		"outputAbbreviatedPath": "\/Code\/templates\/img\/Modelo_perfil.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/Code\/templates\/img\/modelo_top.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 14950,
+		"inputAbbreviatedPath": "\/Code\/templates\/img\/modelo_top.png",
+		"outputAbbreviatedPath": "\/Code\/templates\/img\/modelo_top.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/Code\/templates\/img\/numeros.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 5914,
+		"inputAbbreviatedPath": "\/Code\/templates\/img\/numeros.png",
+		"outputAbbreviatedPath": "\/Code\/templates\/img\/numeros.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/Code\/templates\/img\/promo_20.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1979,
+		"inputAbbreviatedPath": "\/Code\/templates\/img\/promo_20.png",
+		"outputAbbreviatedPath": "\/Code\/templates\/img\/promo_20.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/Code\/templates\/img\/promo_30.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1720,
+		"inputAbbreviatedPath": "\/Code\/templates\/img\/promo_30.png",
+		"outputAbbreviatedPath": "\/Code\/templates\/img\/promo_30.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/Code\/templates\/img\/promo_40.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1121,
+		"inputAbbreviatedPath": "\/Code\/templates\/img\/promo_40.png",
+		"outputAbbreviatedPath": "\/Code\/templates\/img\/promo_40.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
 	"\/Code\/templates\/index.jade": {
 		"compileDebug": 1,
 		"fileType": 512,
