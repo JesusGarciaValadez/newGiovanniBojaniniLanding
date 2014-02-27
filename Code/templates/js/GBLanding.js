@@ -31,6 +31,7 @@
     
     GBLanding.overlay;
     GBLanding.closer;
+    GBLanding.radio;
     
     //  Object prototyping
     GBLanding.fn = GBLanding.prototype = {
@@ -211,53 +212,49 @@
                 }
             } ); */
             
-                    $.ajax ( 'Code/snippets/dispatcher.php?action=sendBudget', { 
-                        beforeSend: function ( jqXHR, settings ) {
+            $.ajax ( 'Code/snippets/dispatcher.php?action=sendBudget', { 
+                beforeSend: function ( jqXHR, settings ) {
                             $('.error_indicator').remove();
                             if ( $('textarea' ).val() == "" ) {
                                
                                 $('textarea' ).val( 'Ninguno' );
                             }
                         }, 
-                        cache: false, 
-                        complete: function ( jqXHR, textStatus ) {
-                            
-                        }, 
-                        contentType: "application/x-www-form-urlencoded",  
-                        converters: { 
+                cache: false, 
+                complete: function ( jqXHR, textStatus ) {}, 
+                contentType: "application/x-www-form-urlencoded", 
+                converters: { 
                             "* text":       window.String, 
                             "text html":    true, 
                             "text json":    $.parseJSON, 
                             "text xml":     $.parseXML
                         }, 
-                        data: dataPass, 
-                        error:  function ( jqXHR, textStatus, errorThrown ) {
-                            
-                        }, 
-                        success: function ( responseText, textStatus, jqXHR ) {
-                            
-                            //console.log(responseText.success);
-                            responseText    = $.parseJSON( responseText );
-                            
-                            if( responseText && ( responseText.success == 'true' || responseText.success == true ) ) {
-                                
-                                $( '.alert_box' ).addClass( 'thank_you_message' );
-                                var _title      = 'Gracias';
-                                var _markup     = '<p>En breve recibirá un presupuesto. ¡Gracias por contactar con Bojanini!.</p>';
-                                GBLanding.openAlert( _title, _markup );
-                                $( 'textarea' ).val( "" );
-                                //$( form ).fadeOut( 300 );
-                            } else {
+                data: dataPass, 
+                error:  function ( jqXHR, textStatus, errorThrown ) {}, 
+                success: function ( responseText, textStatus, jqXHR ) {
+                    
+                    //console.log(responseText.success);
+                    responseText    = $.parseJSON( responseText );
+                    
+                    if( responseText && ( responseText.success == 'true' || responseText.success == true ) ) {
+                        
+                        $( '.alert_box' ).addClass( 'thank_you_message' );
+                        var _title      = 'Gracias';
+                        var _markup     = '<p>En breve recibirá un presupuesto. ¡Gracias por contactar con Bojanini!.</p>';
+                        GBLanding.openAlert( _title, _markup );
+                        $( 'textarea' ).val( "" );
+                        //$( form ).fadeOut( 300 );
+                    } else {
                                 
                                 $( '.alert_box' ).addClass( 'error_message' );
                                 var _title  = 'Error';
                                 var _markup = '<p>Hubo un error. ¿Podría intentarlo nuevamente?.</p>';
                                 GBLanding.openAlert( _title, _markup );
                             }
-                            //GBLanding.smoothScroll( 'body' );
-                        }, 
-                        type: "POST"
-                    } );
+                    //GBLanding.smoothScroll( 'body' );
+                }, 
+                type: "POST"
+            } );
         }, 
         /**
          *

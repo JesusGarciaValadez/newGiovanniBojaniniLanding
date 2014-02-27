@@ -234,15 +234,19 @@
                         _selector   = $( '.response.fourth' );
                         break;
                     case '5':
-                        _selector   = $( '.response.sixth' );
+                        _selector   = $( '.response.fifth' );
                         break;
                     case '6':
+                        _selector   = $( '.response.sixth' );
+                        break;
+                    case '7':
                         _selector   = $( '.response.seventh' );
                         break;
                 }
                 _selector.animate( {
                     'left': '0'
                 }, 300 );
+                GBLanding.radio = $( e.currentTarget ).val();
             } );
             
             var rules   = {
@@ -291,9 +295,10 @@
                 }
                 
                 var budget  = {};
-                budget.budget_name   = budgetName;
-                budget.budget_phone  = budgetPhone;
-                budget.budget_mail   = budgetMail;
+                budget.budget_name  = budgetName;
+                budget.budget_phone = budgetPhone;
+                budget.budget_mail  = budgetMail;
+                budget.type         = GBLanding.radio;
                 
                 GBLanding.validateForms( rules, messages, budget );
             } )

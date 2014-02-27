@@ -746,13 +746,14 @@ html,body{
                     }
                 }
             }
-            .response.first,.response.second{
+            .response.first,.response.second,
+            .response.fifth,.response.sixth,.response.seventh{
                 
                 .diagnosis_information{
                     
                     .diagnosis_prescription{
                         font-size: em( 22, 16 );
-                        line-height: em( 44, 22 );
+                        //line-height: em( 44, 22 );
                     }
                 }
             }

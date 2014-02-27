@@ -24,6 +24,8 @@ class Review extends Model {
                 'requerido' => 1, 'validador' => 'esAlfaNumerico', 'mensaje' => utf8_encode( 'El teléfono es obligatoria.' ) ),
             'budget_mail' => array( 
                 'requerido' => 1, 'validador' => 'esEmail', 'mensaje' => utf8_encode( 'El mail es obligatoria.' ) ),
+            'type' => array( 
+                'requerido' => 1, 'validador' => 'esNumerico', 'mensaje' => utf8_encode( 'El tipo es obligatorio.' ) ),
         );
         
         $form = new Validator( $info, $parameters );
@@ -71,9 +73,10 @@ class Review extends Model {
                     }
                     
                     $vars = array(
-                            'budget_name'      => $info[ 'budget_name' ],
-                            'budget_phone'     => $info[ 'budget_phone' ],
-                            'budget_mail'      => $info[ 'budget_mail' ]
+                            'budget_name'       => $info[ 'budget_name' ],
+                            'budget_phone'      => $info[ 'budget_phone' ],
+                            'budget_mail'       => $info[ 'budget_mail' ],
+                            'type'              => $info[ 'type' ]
                         );
                     $tpl = ParserTemplate::parseTemplate( $template, $vars );
                     
