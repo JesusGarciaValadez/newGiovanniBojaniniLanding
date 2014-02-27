@@ -1,0 +1,6 @@
+
+/* Start Sprite Master CSS */
+.comienza,.comienza_over{display: inline-block;background-repeat: no-repeat;background-image: url('conecta-ya-button.png');}
+.comienza{background-position:0px 0px;width:113px;height:40px;}
+.comienza_over{background-position:0px -40px;width:113px;height:40px;}
+/* End Sprite Master CSS */

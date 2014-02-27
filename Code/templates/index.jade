@@ -8,75 +8,368 @@ html(lang="es" class="no-js") <!--<![endif]-->
     body
         //[if lt IE 7]><p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p><![endif]
         div#home.contenedor
-            figure.logo
-                img(src="Code/templates/img/logo_boja.png" alt="Centro Dermatológico Giovanni Bojanini" width="142" height="110")
-            //figure.friends
-                //img(src="Code/templates/img/bojanini-friends.png" alt="Bojanini-friends" width="784" height="785")
-            div#contact_phone
-                p Para más información
-                p.info 01800 <span>377 35 67</span>
-                p.info
-                    a(href="mailto:http://www.giovannibojanini.com.mx" title="Giovanni Bojanini.com" target="_blank") Giovanni Bojanini.com
+            figure.friends
+                img(src="Code/templates/img/weyes.png" alt="Bojanini-friends" width="528" height="682")
             div.wrapper
-                h1 Bojanini <strong>Friends</strong>
-                hr
-                h2 Comparte entre amigos
-                div#description
-                    p.
-                        En Giovanni Bojanini queremos que la <strong>amistad dure para siempre</strong>,
-                        por eso, con <strong>Bojanini Friends</strong>, tú y tus amigos podrán disfrutar de 
-                    p.emphazise.
-                        grandes <strong>descuentos.</strong>
-                div#discounts
-                    div.twenty
+                figure.logo
+                    img(src="Code/templates/img/logo_boja.png" alt="Centro Dermatológico Giovanni Bojanini" width="142" height="110")
+                div#contact_phone
+                    p Para más información
+                    p.info 01800 <span>377 35 67</span>
+                    p.info
+                        a(href="mailto:http://www.giovannibojanini.com.mx" title="GiovanniBojanini.com" target="_blank") GiovanniBojanini.com
+                div.wrapper_information
+                    h1 Bojanini <strong>Friends</strong>
+                    hr
+                    h2 Comparte entre amigos
+                    div#description
                         p.
-                            <strong>Para ti</strong> <br />que ya eres parte <br />de Bojanini, <strong>recibe</strong>
-                        p.discount 20%
-                    div.thirty
-                        p.
-                            <strong>Para ti</strong> <br />y <strong>un amigo</strong>
-                        p.discount 30%
-                    div.fourthy
-                        p.
-                            <strong>Para ti, dos<br /> o más amigos</strong>
-                        p.discount 40%
-                    div.aclaration
-                        p En <strong>Microinjerto</strong> capilar
-                div#auto_diagnotic
-                    h3 Auto <strong>Diagnostícate</strong>
+                            En Giovanni Bojanini queremos que la <strong>amistad dure para siempre</strong>,
+                            por eso, con <strong>Bojanini Friends</strong>, tú y tus amigos podrán disfrutar de 
+                        p.emphazise.
+                            grandes <strong>descuentos.</strong>
+                    div#discounts
+                        div.twenty
+                            p.
+                                <strong>Para ti</strong> <br />que ya eres parte <br />de Bojanini, <strong>recibe</strong>
+                            p.discount 20%
+                        div.thirty
+                            p.
+                                <strong>Para ti</strong> <br />y <strong>un amigo</strong>
+                            p.discount 30%
+                        div.fourthy
+                            p.
+                                <strong>Para ti, dos<br /> o más amigos</strong>
+                            p.discount 40%
+                        div.aclaration
+                            p En <strong>Microinjerto</strong> capilar
                     a.prev.browse
-                    form(method="post" accept-charset="utf8" action="").scrollable
-                        
-                        fieldset.items
-                            
-                            div.levels
-                                img(src="Code/templates/img/Modelo_perfil.png" alt="Modelo_perfil" width="151" height="215").profile
-                                img(src="Code/templates/img/modelo_top.png" alt="modelo_top" width="134" height="210").top
-                                div
-                                    h4 Nivel <strong>I</strong>
-                                    div.input_checkbox
-                                        label(for="select_level") Selecciona tu nivel de <strong>Alopecia</strong>
-                                        input(type="checkbox" class="select_level" name="select_level" value="")
-                            div.levels
-                                img(src="Code/templates/img/Modelo_perfil.png" alt="Modelo_perfil" width="151" height="215").profile
-                                img(src="Code/templates/img/modelo_top.png" alt="modelo_top" width="134" height="210").top
-                                div
-                                    h4 Nivel <strong>II</strong>
-                                    div.input_checkbox
-                                        label(for="select_level") Selecciona tu nivel de <strong>Alopecia</strong>
-                                        input(type="checkbox" class="select_level" name="select_level" value="")
-                            div.levels
-                                img(src="Code/templates/img/Modelo_perfil.png" alt="Modelo_perfil" width="151" height="215").profile
-                                img(src="Code/templates/img/modelo_top.png" alt="modelo_top" width="134" height="210").top
-                                div
-                                    h4 Nivel <strong>III</strong>
-                                    div.input_checkbox
-                                        label(for="select_level") Selecciona tu nivel de <strong>Alopecia</strong>
-                                        input(type="checkbox" class="select_level" name="select_level" value="")
+                    div#auto_diagnostic
+                        h3 Auto <strong>Diagnostícate</strong>
+                        div.scrollable
+                            div.items
+                                div.levels
+                                    img(src="Code/templates/img/Etapas_hombre/E1_perfil_H.png" alt="Alopecia Tipo I" width="151" height="215").profile
+                                    img(src="Code/templates/img/Etapas_hombre/E1_Top_H.png" alt="Tipo I" width="134" height="210").top
+                                    div
+                                        h4 Tipo <strong>I</strong>
+                                        div.input_radio
+                                            label(for="select_level") Selecciona tu nivel de <strong>Alopecia</strong>
+                                            input(type="radio" class="select_level" name="select_level" value="1")
+                                div.levels
+                                    img(src="Code/templates/img/Etapas_hombre/E2_perfil_H.png" alt="Alopecia Tipo II" width="151" height="215").profile
+                                    img(src="Code/templates/img/Etapas_hombre/E2_Top_H.png" alt="Alopecia Tipo II" width="134" height="210").top
+                                    div
+                                        h4 Tipo <strong>II</strong>
+                                        div.input_radio
+                                            label(for="select_level") Selecciona tu nivel de <strong>Alopecia</strong>
+                                            input(type="radio" class="select_level" name="select_level" value="2")
+                                div.levels
+                                    img(src="Code/templates/img/Etapas_hombre/E3_perfil_H.png" alt="Alopecia Tipo III" width="151" height="215").profile
+                                    img(src="Code/templates/img/Etapas_hombre/E3_Top_H.png" alt="Alopecia Tipo III" width="134" height="210").top
+                                    div
+                                        h4 Tipo <strong>III</strong>
+                                        div.input_radio
+                                            label(for="select_level") Selecciona tu nivel de <strong>Alopecia</strong>
+                                            input(type="radio" class="select_level" name="select_level" value="3")
+                                div.levels.V
+                                    img(src="Code/templates/img/Etapas_hombre/E3Vertex_perfil_H.png" alt="Alopecia Tipo III Vertex" width="151" height="215").profile
+                                    img(src="Code/templates/img/Etapas_hombre/E3Vertex_Top_H.png" alt="Alopecia Tipo Vertex" width="134" height="210").top
+                                    div
+                                        h4 Tipo <strong>III Vertex</strong>
+                                        div.input_radio
+                                            label(for="select_level") Selecciona tu nivel de <strong>Alopecia</strong>
+                                            input(type="radio" class="select_level" name="select_level" value="3V")
+                                div.levels
+                                    img(src="Code/templates/img/Etapas_hombre/E4_perfil_H.png" alt="Alopecia Tipo IV" width="151" height="215").profile
+                                    img(src="Code/templates/img/Etapas_hombre/E4_Top_H.png" alt="Alopecia Tipo IV" width="134" height="210").top
+                                    div
+                                        h4 Tipo <strong>IV</strong>
+                                        div.input_radio
+                                            label(for="select_level") Selecciona tu nivel de <strong>Alopecia</strong>
+                                            input(type="radio" class="select_level" name="select_level" value="4")
+                                div.levels
+                                    img(src="Code/templates/img/Etapas_hombre/E5_perfil_H.png" alt="Alopecia Tipo V" width="151" height="215").profile
+                                    img(src="Code/templates/img/Etapas_hombre/E5_Top_H.png" alt="Alopecia Tipo V" width="134" height="210").top
+                                    div
+                                        h4 Tipo <strong>V</strong>
+                                        div.input_radio
+                                            label(for="select_level") Selecciona tu nivel de <strong>Alopecia</strong>
+                                            input(type="radio" class="select_level" name="select_level" value="5")
+                                div.levels
+                                    img(src="Code/templates/img/Etapas_hombre/E6_perfil_H.png" alt="Alopecia Tipo VI" width="151" height="215").profile
+                                    img(src="Code/templates/img/Etapas_hombre/E6_Top_H.png" alt="Alopecia Tipo " width="134" height="210").top
+                                    div
+                                        h4 Tipo <strong>VI</strong>
+                                        div.input_radio
+                                            label(for="select_level") Selecciona tu nivel de <strong>Alopecia</strong>
+                                            input(type="radio" class="select_level" name="select_level" value="6")
+                                div.levels
+                                    img(src="Code/templates/img/Etapas_hombre/E7_perfil_H.png" alt="Alopecia Tipo VII" width="151" height="215").profile
+                                    img(src="Code/templates/img/Etapas_hombre/E7_Top_H.png" alt="Alopecia Tipo VII" width="134" height="210").top
+                                    div
+                                        h4 Tipo <strong>VII</strong>
+                                        div.input_radio
+                                            label(for="select_level") Selecciona tu nivel de <strong>Alopecia</strong>
+                                            input(type="radio" class="select_level" name="select_level" value="7")
+                        div.response.first
+                            div.diagnosis_displayed
+                                img(src="Code/templates/img/Etapas_hombre/E1_perfil_H.png" alt="Alopecia Tipo I" width="151" height="215").profile
+                                a(title="Atrás" href=""). Atrás
+                            div.diagnosis_information
+                                h4. Tu Diagnóstico es:
+                                p.diagnosis_level. Tipo I
+                                p.diagnosis_description. Indica pérdida mínima de pelo.
+                                p.diagnosis_level.need. Necesitas
+                                p.diagnosis_prescription <strong>1,000</strong> cabellos y/o Fórmulas
+                                hr
+                                p.promotions_link. Conoce nuestras promociones y <a title="Comienza Ya" href="">Comienza ya</a>
+                            div.diagnosis_budget
+                                h4. Recibe tu <strong>presupuesto</strong>
+                                form(action="Code/snippets/dispatcher.php?action=sendBudget" method="post" name="budget_form" class="budget_form")
+                                    fieldset
+                                        div.text
+                                            input(type="text" name="budget_name" class="budget_name" placeholder="Nombre" value="")
+                                        div.text
+                                            input(type="text" name="budget_phone" class="budget_phone" placeholder="Teléfono" value="")
+                                        div.text
+                                            input(type="text" name="budget_mail" class="budget_mail" placeholder="Correo" value="")
+                                        div.submit
+                                            input(type="submit" class="submit_button" value="Enviar")
+                                hr
+                                div.schedule_your_date
+                                    img(src="Code/templates/img/agenda_tuCita.png" alt="agenda_tuCita" width="124" height="60").schedule
+                                div.branch
+                                    h5. Pabellón <strong>Bosques</strong>
+                                    p. Av. Prolongación Bosques de reforma Nº 1813, <br />piso 4, interior 401, Col. Lomas de Vista Hermosa.
+                                    p.branch_phone. <span>México, D.F.,</span> Tel. 2167<span>-</span>5210
+                        div.response.second
+                            div.diagnosis_displayed
+                                img(src="Code/templates/img/Etapas_hombre/E2_perfil_H.png" alt="Alopecia Tipo II" width="151" height="215").profile
+                                a(title="Atrás" href=""). Atrás
+                            div.diagnosis_information
+                                h4. Tu Diagnóstico es:
+                                p.diagnosis_level. Tipo II
+                                p.diagnosis_description. Indica pérdida de pelo con pequeñas recesiones en el área frontotemporal del cuero cabelludo
+                                p.diagnosis_level.need. Necesitas
+                                p.diagnosis_prescription <strong>1,500</strong> cabellos y/o Fórmulas
+                                hr
+                                p.promotions_link. Conoce nuestras promociones y <a title="Comienza Ya" href="">Comienza ya</a>
+                            div.diagnosis_budget
+                                h4. Recibe tu <strong>presupuesto</strong>
+                                form(action="Code/snippets/dispatcher.php?action=sendBudget" method="post" name="budget_form" class="budget_form")
+                                    fieldset
+                                        div.text
+                                            input(type="text" name="budget_name" class="budget_name" placeholder="Nombre" value="")
+                                        div.text
+                                            input(type="text" name="budget_phone" class="budget_phone" placeholder="Teléfono" value="")
+                                        div.text
+                                            input(type="text" name="budget_mail" class="budget_mail" placeholder="Correo" value="")
+                                        div.submit
+                                            input(type="submit" class="submit_button" value="Enviar")
+                                hr
+                                div.schedule_your_date
+                                    img(src="Code/templates/img/agenda_tuCita.png" alt="agenda_tuCita" width="124" height="60").schedule
+                                div.branch
+                                    h5. Pabellón <strong>Bosques</strong>
+                                    p. Av. Prolongación Bosques de reforma Nº 1813, <br />piso 4, interior 401, Col. Lomas de Vista Hermosa.
+                                    p.branch_phone. <span>México, D.F.,</span> Tel. 2167<span>-</span>5210
+                        div.response.third
+                            div.diagnosis_displayed
+                                img(src="Code/templates/img/Etapas_hombre/E3_perfil_H.png" alt="Alopecia Tipo III" width="151" height="215").profile
+                                a(title="Atrás" href=""). Atrás
+                            div.diagnosis_information
+                                h4. Tu Diagnóstico es:
+                                p.diagnosis_level. Tipo III
+                                p.diagnosis_description. En esta etapa la recesión es más profunda en el área frontotemporal. <br />Las áreas afectadas carecen o están cubiertas con escaso pelo.
+                                p.diagnosis_level.need. Necesitas
+                                p.diagnosis_prescription <strong>2,000</strong> cabellos
+                                hr
+                                p.promotions_link. Conoce nuestras promociones y <a title="Comienza Ya" href="">Comienza ya</a>
+                            div.diagnosis_budget
+                                h4. Recibe tu <strong>presupuesto</strong>
+                                form(action="Code/snippets/dispatcher.php?action=sendBudget" method="post" name="budget_form" class="budget_form")
+                                    fieldset
+                                        div.text
+                                            input(type="text" name="budget_name" class="budget_name" placeholder="Nombre" value="")
+                                        div.text
+                                            input(type="text" name="budget_phone" class="budget_phone" placeholder="Teléfono" value="")
+                                        div.text
+                                            input(type="text" name="budget_mail" class="budget_mail" placeholder="Correo" value="")
+                                        div.submit
+                                            input(type="submit" class="submit_button" value="Enviar")
+                                hr
+                                div.schedule_your_date
+                                    img(src="Code/templates/img/agenda_tuCita.png" alt="agenda_tuCita" width="124" height="60").schedule
+                                div.branch
+                                    h5. Pabellón <strong>Bosques</strong>
+                                    p. Av. Prolongación Bosques de reforma Nº 1813, <br />piso 4, interior 401, Col. Lomas de Vista Hermosa.
+                                    p.branch_phone. <span>México, D.F.,</span> Tel. 2167<span>-</span>5210
+                        div.response.thirdV
+                            div.diagnosis_displayed
+                                img(src="Code/templates/img/Etapas_hombre/E3Vertex_perfil_H.png" alt="Alopecia Tipo III Vertex" width="151" height="215").profile
+                                a(title="Atrás" href=""). Atrás
+                            div.diagnosis_information
+                                h4. Tu Diagnóstico es:
+                                p.diagnosis_level. Tipo III Vertex
+                                p.diagnosis_description. Pérdida de pelo que afecta a la parte posterior de la cabeza con una línea de recesión muy limitada en el área frontotemporal.
+                                p.diagnosis_level.need. Necesitas
+                                p.diagnosis_prescription <strong>2,000</strong> cabellos
+                                hr
+                                p.promotions_link. Conoce nuestras promociones y <a title="Comienza Ya" href="">Comienza ya</a>
+                            div.diagnosis_budget
+                                h4. Recibe tu <strong>presupuesto</strong>
+                                form(action="Code/snippets/dispatcher.php?action=sendBudget" method="post" name="budget_form" class="budget_form")
+                                    fieldset
+                                        div.text
+                                            input(type="text" name="budget_name" class="budget_name" placeholder="Nombre" value="")
+                                        div.text
+                                            input(type="text" name="budget_phone" class="budget_phone" placeholder="Teléfono" value="")
+                                        div.text
+                                            input(type="text" name="budget_mail" class="budget_mail" placeholder="Correo" value="")
+                                        div.submit
+                                            input(type="submit" class="submit_button" value="Enviar")
+                                hr
+                                div.schedule_your_date
+                                    img(src="Code/templates/img/agenda_tuCita.png" alt="agenda_tuCita" width="124" height="60").schedule
+                                div.branch
+                                    h5. Pabellón <strong>Bosques</strong>
+                                    p. Av. Prolongación Bosques de reforma Nº 1813, <br />piso 4, interior 401, Col. Lomas de Vista Hermosa.
+                                    p.branch_phone. <span>México, D.F.,</span> Tel. 2167<span>-</span>5210
+                        div.response.fourth
+                            div.diagnosis_displayed
+                                img(src="Code/templates/img/Etapas_hombre/E4_perfil_H.png" alt="Alopecia Tipo IV" width="151" height="215").profile
+                                a(title="Atrás" href=""). Atrás
+                            div.diagnosis_information
+                                h4. Tu Diagnóstico es:
+                                p.diagnosis_level. Tipo IV
+                                p.diagnosis_description. En este tipo la pérdida de pelo es más extensa que la del tipo III, con escaso o ningún pelo en la parte superior de la cabeza.
+                                p.diagnosis_level.need. Necesitas
+                                p.diagnosis_prescription <strong>2,500</strong> cabellos
+                                hr
+                                p.promotions_link. Conoce nuestras promociones y <a title="Comienza Ya" href="">Comienza ya</a>
+                            div.diagnosis_budget
+                                h4. Recibe tu <strong>presupuesto</strong>
+                                form(action="Code/snippets/dispatcher.php?action=sendBudget" method="post" name="budget_form" class="budget_form")
+                                    fieldset
+                                        div.text
+                                            input(type="text" name="budget_name" class="budget_name" placeholder="Nombre" value="")
+                                        div.text
+                                            input(type="text" name="budget_phone" class="budget_phone" placeholder="Teléfono" value="")
+                                        div.text
+                                            input(type="text" name="budget_mail" class="budget_mail" placeholder="Correo" value="")
+                                        div.submit
+                                            input(type="submit" class="submit_button" value="Enviar")
+                                hr
+                                div.schedule_your_date
+                                    img(src="Code/templates/img/agenda_tuCita.png" alt="agenda_tuCita" width="124" height="60").schedule
+                                div.branch
+                                    h5. Pabellón <strong>Bosques</strong>
+                                    p. Av. Prolongación Bosques de reforma Nº 1813, <br />piso 4, interior 401, Col. Lomas de Vista Hermosa.
+                                    p.branch_phone. <span>México, D.F.,</span> Tel. 2167<span>-</span>5210
+                        div.response.fifth
+                            div.diagnosis_displayed
+                                img(src="Code/templates/img/Etapas_hombre/E5_perfil_H.png" alt="Alopecia Tipo V" width="151" height="215").profile
+                                a(title="Atrás" href=""). Atrás
+                            div.diagnosis_information
+                                h4. Tu Diagnóstico es:
+                                p.diagnosis_level. Tipo V
+                                p.diagnosis_description.
+                                    En este estado la coronilla está todavía separada de la zona frontotemporal, aunque esta separación ya no es tan evidente debido a que la franja del cabello, a través de la parte superior del cuero cabelludo, se ha estrechado y el cabello se ha vuelto más escaso.
+                                p.diagnosis_level.need. Necesitas
+                                p.diagnosis_prescription <strong>3,000</strong> cabellos
+                                hr
+                                p.promotions_link. Conoce nuestras promociones y <a title="Comienza Ya" href="">Comienza ya</a>
+                            div.diagnosis_budget
+                                h4. Recibe tu <strong>presupuesto</strong>
+                                form(action="Code/snippets/dispatcher.php?action=sendBudget" method="post" name="budget_form" class="budget_form")
+                                    fieldset
+                                        div.text
+                                            input(type="text" name="budget_name" class="budget_name" placeholder="Nombre" value="")
+                                        div.text
+                                            input(type="text" name="budget_phone" class="budget_phone" placeholder="Teléfono" value="")
+                                        div.text
+                                            input(type="text" name="budget_mail" class="budget_mail" placeholder="Correo" value="")
+                                        div.submit
+                                            input(type="submit" class="submit_button" value="Enviar")
+                                hr
+                                div.schedule_your_date
+                                    img(src="Code/templates/img/agenda_tuCita.png" alt="agenda_tuCita" width="124" height="60").schedule
+                                div.branch
+                                    h5. Pabellón <strong>Bosques</strong>
+                                    p. Av. Prolongación Bosques de reforma Nº 1813, <br />piso 4, interior 401, Col. Lomas de Vista Hermosa.
+                                    p.branch_phone. <span>México, D.F.,</span> Tel. 2167<span>-</span>5210
+                        div.response.sixth
+                            div.diagnosis_displayed
+                                img(src="Code/templates/img/Etapas_hombre/E6_perfil_H.png" alt="Alopecia Tipo VI" width="151" height="215").profile
+                                a(title="Atrás" href=""). Atrás
+                            div.diagnosis_information
+                                h4. Tu Diagnóstico es:
+                                p.diagnosis_level. Tipo VI
+                                p.diagnosis_description.
+                                    Es cuando la calvicie de la coronilla se junta con la de la frontotemporal, convirtiéndose en una sola calvicie.
+                                p.diagnosis_level.need. Necesitas
+                                p.diagnosis_prescription <strong>+ de 3,500</strong> cabellos
+                                hr
+                                p.promotions_link. Conoce nuestras promociones y <a title="Comienza Ya" href="">Comienza ya</a>
+                            div.diagnosis_budget
+                                h4. Recibe tu <strong>presupuesto</strong>
+                                form(action="Code/snippets/dispatcher.php?action=sendBudget" method="post" name="budget_form" class="budget_form")
+                                    fieldset
+                                        div.text
+                                            input(type="text" name="budget_name" class="budget_name" placeholder="Nombre" value="")
+                                        div.text
+                                            input(type="text" name="budget_phone" class="budget_phone" placeholder="Teléfono" value="")
+                                        div.text
+                                            input(type="text" name="budget_mail" class="budget_mail" placeholder="Correo" value="")
+                                        div.submit
+                                            input(type="submit" class="submit_button" value="Enviar")
+                                hr
+                                div.schedule_your_date
+                                    img(src="Code/templates/img/agenda_tuCita.png" alt="agenda_tuCita" width="124" height="60").schedule
+                                div.branch
+                                    h5. Pabellón <strong>Bosques</strong>
+                                    p. Av. Prolongación Bosques de reforma Nº 1813, <br />piso 4, interior 401, Col. Lomas de Vista Hermosa.
+                                    p.branch_phone. <span>México, D.F.,</span> Tel. 2167<span>-</span>5210
+                        div.response.seventh
+                            div.diagnosis_displayed
+                                img(src="Code/templates/img/Etapas_hombre/E7_perfil_H.png" alt="Alopecia Tipo VII" width="151" height="215").profile
+                                a(title="Atrás" href=""). Atrás
+                            div.diagnosis_information
+                                h4. Tu Diagnóstico es:
+                                p.diagnosis_level. Tipo VII
+                                p.diagnosis_description.
+                                    Es la forma más severa de la pérdida de pelo, solo queda una franja de cabello con forma de herradura que comienza justo frente a la oreja y se extiende hacia la parte posterior del cuero cabelludo y el cuello.
+                                p.diagnosis_level.need. Necesitas
+                                p.diagnosis_prescription <strong>+ de 3,500</strong> cabellos
+                                hr
+                                p.promotions_link. Conoce nuestras promociones y <a title="Comienza Ya" href="">Comienza ya</a>
+                            div.diagnosis_budget
+                                h4. Recibe tu <strong>presupuesto</strong>
+                                form(action="Code/snippets/dispatcher.php?action=sendBudget" method="post" name="budget_form" class="budget_form")
+                                    fieldset
+                                        div.text
+                                            input(type="text" name="budget_name" class="budget_name" placeholder="Nombre" value="")
+                                        div.text
+                                            input(type="text" name="budget_phone" class="budget_phone" placeholder="Teléfono" value="")
+                                        div.text
+                                            input(type="text" name="budget_mail" class="budget_mail" placeholder="Correo" value="")
+                                        div.submit
+                                            input(type="submit" class="submit_button" value="Enviar")
+                                hr
+                                div.schedule_your_date
+                                    img(src="Code/templates/img/agenda_tuCita.png" alt="agenda_tuCita" width="124" height="60").schedule
+                                div.branch
+                                    h5. Pabellón <strong>Bosques</strong>
+                                    p. Av. Prolongación Bosques de reforma Nº 1813, <br />piso 4, interior 401, Col. Lomas de Vista Hermosa.
+                                    p.branch_phone. <span>México, D.F.,</span> Tel. 2167<span>-</span>5210
+                        p.disclaimer.
+                            El número de cabellos es aproximado, es necesario una valoración
+                            presencial antes de su procedimiento. Puede haber variaciones en
+                            función de la zona donadora y las zonas a tratar.
                     a.next.browse
-                    p.disclaimer. 
-                        El número de cabellos es aproximado, es necesario una valoración
-                        presencial antes de su procedimiento. Puede haber variaciones en
-                        función de la zona donadora y las zonas a tratar.
-            img(src="Code/templates/img/logo_international_society.png" alt="logo_international_society" width="151" height="86")#member_ISHRS
+                img(src="Code/templates/img/logo_international_society.png" alt="logo_international_society" width="151" height="86")#member_ISHRS
         include footer
+        div.alert_background
+        div.alert_box
+            a(title="Cerrar" class="close"). Cerrar

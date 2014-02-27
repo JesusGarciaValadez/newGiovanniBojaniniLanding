@@ -12,15 +12,15 @@
     var _GBLanding    = window._GBLanding,
     
     // Use the correct document accordingly with window argument (sandbox)
-    document = window.document,
-    location = window.location,
-    navigator = window.navigator,
+    document    = window.document,
+    location    = window.location,
+    navigator   = window.navigator,
     
     // Map over GBLanding in case of overwrite
-    _GBLanding    = window.GBLanding;
+    _GBLanding  = window.GBLanding;
     
     // Define a local copy of GBLanding
-    GBLanding = function() {
+    GBLanding   = function() {
         if ( !( this instanceof GBLanding ) ) {
             
             // The GBLanding object is actually just the init constructor 'enhanced'
@@ -30,6 +30,7 @@
     };
     
     GBLanding.overlay;
+    GBLanding.closer;
     
     //  Object prototyping
     GBLanding.fn = GBLanding.prototype = {
@@ -118,7 +119,7 @@
             var _rule       = ( typeof( rule ) == 'object' ) ? rule : {};
             var _message    = ( typeof( messages ) == 'object' ) ? messages : {};
             
-            var formActive = $( 'form' ).validate( { 
+            var formActive  = $( '.diagnosis_budget form' ).validate( { 
                 onfocusout: false,
                 onclick: true, 
                 onkeyup: false,
@@ -143,7 +144,6 @@
                 //debug:true, 
                 rules: _rule,
                 messages: _message, 
-                ignore: 'textarea', 
                 highlight: function( element, errorClass, validClass ) {
                     $( element ).parent().addClass( 'error_wrapper' );
                 },
@@ -157,7 +157,10 @@
                         beforeSubmit: function showRequestLogin( arr, form, options ) {
                             
                             $('.error_indicator').remove();
-                            $( ".spinner" ).fadeIn( 300 );
+                            if ( $('textarea' ).val() == "" ) {
+                               
+                                $('textarea' ).val( 'Ninguno' );
+                            }
                         },
                         //  !Function for handle data from server
                         success: function showResponseLogin( responseText, statusText, xhr, form ) {
@@ -165,26 +168,34 @@
                             //console.log(responseText.success);
                             responseText    = $.parseJSON( responseText );
                             
-                            $( ".spinner" ).fadeOut( 300 );
-                            
                             if( responseText && ( responseText.success == 'true' || responseText.success == true ) ) {
                                 
-                                $( form ).fadeOut( 300, function () {
-                                    
-                                    
-                                } );
+                                $( '.alert_box' ).addClass( 'thank_you_message' );
+                                var _title      = 'Gracias';
+                                var _markup     = '<p>Nos comunicaremos con usted a la brevedad.</p>';
+                                Prometa.openAlert( _title, _markup );
+                                $( 'textarea' ).val( "" );
+                                //$( form ).fadeOut( 300 );
                             } else {
                                 
-                                
+                                $( '.alert_box' ).addClass( 'error_message' );
+                                var _title  = 'Error';
+                                var _markup = '<p>La encuesta no fue procesada correctamente. Por favor, contacta al administrador.</p>';
+                                Prometa.openAlert( _title, _markup );
                             }
-                        }, 
-                        resetForm: false, 
-                        clearForm: false, 
+                            //Prometa.smoothScroll( 'body' );
+                        },
+                        resetForm: false,
+                        clearForm: false,
                         //   If something is wrong
                         error: function( jqXHR, textStatus, errorThrown ) {
                             //console.log(textStatus);
                             //console.log(errorThrown);
-                        }, 
+                            $( '.alert_box' ).addClass( 'error' );
+                            var _title  = 'Error';
+                            var _markup = '<p>La encuesta no fue procesada correctamente. Por favor, reporta este error al administrador.</p>';
+                            Prometa.openAlert( _title, _markup );
+                        },
                         cache: false
                     } );
                 }, 
@@ -401,7 +412,7 @@
             }
             
             _selector.scrollable( optionsScrollable ).navigator( optionsNavigator ).autoscroll( optionsAutoscroll );
-        }, 
+        },
         getCenterWidth: function ( selector ) {
             
             var winWidth;

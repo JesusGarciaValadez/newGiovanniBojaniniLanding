@@ -81,6 +81,118 @@
 		"outputAbbreviatedPath": "\/CHANGELOG.html",
 		"outputPathIsSetByUser": 0
 		},
+	"\/Code\/snippets\/config\/config.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Code\/snippets\/config\/config.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsSetByUser": 0
+		},
+	"\/Code\/snippets\/db\/connection.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Code\/snippets\/db\/connection.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsSetByUser": 0
+		},
+	"\/Code\/snippets\/dispatcher.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Code\/snippets\/dispatcher.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsSetByUser": 0
+		},
+	"\/Code\/snippets\/libs\/Common.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Code\/snippets\/libs\/Common.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsSetByUser": 0
+		},
+	"\/Code\/snippets\/libs\/FilterInput.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Code\/snippets\/libs\/FilterInput.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsSetByUser": 0
+		},
+	"\/Code\/snippets\/libs\/Mailer.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Code\/snippets\/libs\/Mailer.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsSetByUser": 0
+		},
+	"\/Code\/snippets\/libs\/Model.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Code\/snippets\/libs\/Model.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsSetByUser": 0
+		},
+	"\/Code\/snippets\/libs\/ParserTemplate.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Code\/snippets\/libs\/ParserTemplate.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsSetByUser": 0
+		},
+	"\/Code\/snippets\/libs\/phpmailer\/class.phpmailer.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Code\/snippets\/libs\/phpmailer\/class.phpmailer.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsSetByUser": 0
+		},
+	"\/Code\/snippets\/libs\/phpmailer\/class.pop3.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Code\/snippets\/libs\/phpmailer\/class.pop3.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsSetByUser": 0
+		},
+	"\/Code\/snippets\/libs\/phpmailer\/class.smtp.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Code\/snippets\/libs\/phpmailer\/class.smtp.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsSetByUser": 0
+		},
+	"\/Code\/snippets\/libs\/Review.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Code\/snippets\/libs\/Review.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsSetByUser": 0
+		},
+	"\/Code\/snippets\/libs\/templates\/template_mailing.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Code\/snippets\/libs\/templates\/template_mailing.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsSetByUser": 0
+		},
+	"\/Code\/snippets\/libs\/Validator.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Code\/snippets\/libs\/Validator.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsSetByUser": 0
+		},
 	"\/Code\/templates\/css\/main.css": {
 		"fileType": 16,
 		"ignore": 1,
@@ -139,6 +251,26 @@
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 0
 		},
+	"\/Code\/templates\/img\/agenda_tuCita.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/Code\/templates\/img\/agenda_tuCita.png",
+		"outputAbbreviatedPath": "\/Code\/templates\/img\/agenda_tuCita.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/Code\/templates\/img\/atras.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/Code\/templates\/img\/atras.png",
+		"outputAbbreviatedPath": "\/Code\/templates\/img\/atras.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/Code\/templates\/img\/background.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -146,6 +278,16 @@
 		"initialSize": 2012,
 		"inputAbbreviatedPath": "\/Code\/templates\/img\/background.jpg",
 		"outputAbbreviatedPath": "\/Code\/templates\/img\/background.jpg",
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/Code\/templates\/img\/BG.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/Code\/templates\/img\/BG.png",
+		"outputAbbreviatedPath": "\/Code\/templates\/img\/BG.png",
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
@@ -169,6 +311,74 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
+	"\/Code\/templates\/img\/comienza-ya-button.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/Code\/templates\/img\/comienza-ya-button.png",
+		"outputAbbreviatedPath": "\/Code\/templates\/img\/comienza-ya-button.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Code\/templates\/img\/comienza.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/Code\/templates\/img\/comienza.png",
+		"outputAbbreviatedPath": "\/Code\/templates\/img\/comienza.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Code\/templates\/img\/comienza_over.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/Code\/templates\/img\/comienza_over.png",
+		"outputAbbreviatedPath": "\/Code\/templates\/img\/comienza_over.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/Code\/templates\/img\/conecta-ya-button.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Code\/templates\/img\/conecta-ya-button.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsSetByUser": 0
+		},
+	"\/Code\/templates\/img\/cuadro_2.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/Code\/templates\/img\/cuadro_2.png",
+		"outputAbbreviatedPath": "\/Code\/templates\/img\/cuadro_2.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Code\/templates\/img\/cuadro_3.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/Code\/templates\/img\/cuadro_3.png",
+		"outputAbbreviatedPath": "\/Code\/templates\/img\/cuadro_3.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/Code\/templates\/img\/cuadro_amarillo.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/Code\/templates\/img\/cuadro_amarillo.png",
+		"outputAbbreviatedPath": "\/Code\/templates\/img\/cuadro_amarillo.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/Code\/templates\/img\/cuadro_seleccion.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -176,6 +386,186 @@
 		"initialSize": 1077,
 		"inputAbbreviatedPath": "\/Code\/templates\/img\/cuadro_seleccion.png",
 		"outputAbbreviatedPath": "\/Code\/templates\/img\/cuadro_seleccion.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/Code\/templates\/img\/enviar.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/Code\/templates\/img\/enviar.png",
+		"outputAbbreviatedPath": "\/Code\/templates\/img\/enviar.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Code\/templates\/img\/enviar_over.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/Code\/templates\/img\/enviar_over.png",
+		"outputAbbreviatedPath": "\/Code\/templates\/img\/enviar_over.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/Code\/templates\/img\/Etapas_hombre\/E1_perfil_H.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 20209,
+		"inputAbbreviatedPath": "\/Code\/templates\/img\/Etapas_hombre\/E1_perfil_H.png",
+		"outputAbbreviatedPath": "\/Code\/templates\/img\/Etapas_hombre\/E1_perfil_H.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/Code\/templates\/img\/Etapas_hombre\/E1_Top_H.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 15232,
+		"inputAbbreviatedPath": "\/Code\/templates\/img\/Etapas_hombre\/E1_Top_H.png",
+		"outputAbbreviatedPath": "\/Code\/templates\/img\/Etapas_hombre\/E1_Top_H.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/Code\/templates\/img\/Etapas_hombre\/E2_perfil_H.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 20702,
+		"inputAbbreviatedPath": "\/Code\/templates\/img\/Etapas_hombre\/E2_perfil_H.png",
+		"outputAbbreviatedPath": "\/Code\/templates\/img\/Etapas_hombre\/E2_perfil_H.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/Code\/templates\/img\/Etapas_hombre\/E2_Top_H.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 16145,
+		"inputAbbreviatedPath": "\/Code\/templates\/img\/Etapas_hombre\/E2_Top_H.png",
+		"outputAbbreviatedPath": "\/Code\/templates\/img\/Etapas_hombre\/E2_Top_H.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/Code\/templates\/img\/Etapas_hombre\/E3_perfil_H.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 21027,
+		"inputAbbreviatedPath": "\/Code\/templates\/img\/Etapas_hombre\/E3_perfil_H.png",
+		"outputAbbreviatedPath": "\/Code\/templates\/img\/Etapas_hombre\/E3_perfil_H.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/Code\/templates\/img\/Etapas_hombre\/E3_Top_H.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 17824,
+		"inputAbbreviatedPath": "\/Code\/templates\/img\/Etapas_hombre\/E3_Top_H.png",
+		"outputAbbreviatedPath": "\/Code\/templates\/img\/Etapas_hombre\/E3_Top_H.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/Code\/templates\/img\/Etapas_hombre\/E3Vertex_perfil_H.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 21242,
+		"inputAbbreviatedPath": "\/Code\/templates\/img\/Etapas_hombre\/E3Vertex_perfil_H.png",
+		"outputAbbreviatedPath": "\/Code\/templates\/img\/Etapas_hombre\/E3Vertex_perfil_H.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/Code\/templates\/img\/Etapas_hombre\/E3Vertex_Top_H.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 17552,
+		"inputAbbreviatedPath": "\/Code\/templates\/img\/Etapas_hombre\/E3Vertex_Top_H.png",
+		"outputAbbreviatedPath": "\/Code\/templates\/img\/Etapas_hombre\/E3Vertex_Top_H.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Code\/templates\/img\/Etapas_hombre\/E4_perfil_H.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 21670,
+		"inputAbbreviatedPath": "\/Code\/templates\/img\/Etapas_hombre\/E4_perfil_H.png",
+		"outputAbbreviatedPath": "\/Code\/templates\/img\/Etapas_hombre\/E4_perfil_H.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Code\/templates\/img\/Etapas_hombre\/E4_Top_H.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 19073,
+		"inputAbbreviatedPath": "\/Code\/templates\/img\/Etapas_hombre\/E4_Top_H.png",
+		"outputAbbreviatedPath": "\/Code\/templates\/img\/Etapas_hombre\/E4_Top_H.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/Code\/templates\/img\/Etapas_hombre\/E5_perfil_H.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 22059,
+		"inputAbbreviatedPath": "\/Code\/templates\/img\/Etapas_hombre\/E5_perfil_H.png",
+		"outputAbbreviatedPath": "\/Code\/templates\/img\/Etapas_hombre\/E5_perfil_H.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/Code\/templates\/img\/Etapas_hombre\/E5_Top_H.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 19365,
+		"inputAbbreviatedPath": "\/Code\/templates\/img\/Etapas_hombre\/E5_Top_H.png",
+		"outputAbbreviatedPath": "\/Code\/templates\/img\/Etapas_hombre\/E5_Top_H.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/Code\/templates\/img\/Etapas_hombre\/E6_perfil_H.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 22639,
+		"inputAbbreviatedPath": "\/Code\/templates\/img\/Etapas_hombre\/E6_perfil_H.png",
+		"outputAbbreviatedPath": "\/Code\/templates\/img\/Etapas_hombre\/E6_perfil_H.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/Code\/templates\/img\/Etapas_hombre\/E6_Top_H.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 19290,
+		"inputAbbreviatedPath": "\/Code\/templates\/img\/Etapas_hombre\/E6_Top_H.png",
+		"outputAbbreviatedPath": "\/Code\/templates\/img\/Etapas_hombre\/E6_Top_H.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/Code\/templates\/img\/Etapas_hombre\/E7_perfil_H.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 22458,
+		"inputAbbreviatedPath": "\/Code\/templates\/img\/Etapas_hombre\/E7_perfil_H.png",
+		"outputAbbreviatedPath": "\/Code\/templates\/img\/Etapas_hombre\/E7_perfil_H.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Code\/templates\/img\/Etapas_hombre\/E7_Top_H.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 19162,
+		"inputAbbreviatedPath": "\/Code\/templates\/img\/Etapas_hombre\/E7_Top_H.png",
+		"outputAbbreviatedPath": "\/Code\/templates\/img\/Etapas_hombre\/E7_Top_H.png",
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
@@ -187,7 +577,7 @@
 		"inputAbbreviatedPath": "\/Code\/templates\/img\/flecha.png",
 		"outputAbbreviatedPath": "\/Code\/templates\/img\/flecha.png",
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/Code\/templates\/img\/flecha_der.png": {
 		"fileType": 32768,
@@ -217,6 +607,16 @@
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsSetByUser": 0
 		},
+	"\/Code\/templates\/img\/formulario_texto.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/Code\/templates\/img\/formulario_texto.png",
+		"outputAbbreviatedPath": "\/Code\/templates\/img\/formulario_texto.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
 	"\/Code\/templates\/img\/h1.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -226,6 +626,26 @@
 		"outputAbbreviatedPath": "\/Code\/templates\/img\/h1.png",
 		"outputPathIsSetByUser": 0,
 		"processed": 1
+		},
+	"\/Code\/templates\/img\/linea-titulo_contenido.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/Code\/templates\/img\/linea-titulo_contenido.png",
+		"outputAbbreviatedPath": "\/Code\/templates\/img\/linea-titulo_contenido.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/Code\/templates\/img\/linea_cabellos.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/Code\/templates\/img\/linea_cabellos.png",
+		"outputAbbreviatedPath": "\/Code\/templates\/img\/linea_cabellos.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
 		},
 	"\/Code\/templates\/img\/linea_header_cuadro.png": {
 		"fileType": 32768,
@@ -247,6 +667,36 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
+	"\/Code\/templates\/img\/linea_promo.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/Code\/templates\/img\/linea_promo.png",
+		"outputAbbreviatedPath": "\/Code\/templates\/img\/linea_promo.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Code\/templates\/img\/linea_telefono.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/Code\/templates\/img\/linea_telefono.png",
+		"outputAbbreviatedPath": "\/Code\/templates\/img\/linea_telefono.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Code\/templates\/img\/linea_titulo.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/Code\/templates\/img\/linea_titulo.png",
+		"outputAbbreviatedPath": "\/Code\/templates\/img\/linea_titulo.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
 	"\/Code\/templates\/img\/logo_boja.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -264,6 +714,16 @@
 		"initialSize": 11394,
 		"inputAbbreviatedPath": "\/Code\/templates\/img\/logo_international_society.png",
 		"outputAbbreviatedPath": "\/Code\/templates\/img\/logo_international_society.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/Code\/templates\/img\/logo_members.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/Code\/templates\/img\/logo_members.png",
+		"outputAbbreviatedPath": "\/Code\/templates\/img\/logo_members.png",
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
@@ -327,6 +787,92 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
+	"\/Code\/templates\/img\/recuadro_grande.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/Code\/templates\/img\/recuadro_grande.png",
+		"outputAbbreviatedPath": "\/Code\/templates\/img\/recuadro_grande.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/Code\/templates\/img\/seleccion-sprite.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Code\/templates\/img\/seleccion-sprite.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsSetByUser": 0
+		},
+	"\/Code\/templates\/img\/seleccion-sprite.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2942,
+		"inputAbbreviatedPath": "\/Code\/templates\/img\/seleccion-sprite.png",
+		"outputAbbreviatedPath": "\/Code\/templates\/img\/seleccion-sprite.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/Code\/templates\/img\/seleccion.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/Code\/templates\/img\/seleccion.png",
+		"outputAbbreviatedPath": "\/Code\/templates\/img\/seleccion.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/Code\/templates\/img\/seleccion_over.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/Code\/templates\/img\/seleccion_over.png",
+		"outputAbbreviatedPath": "\/Code\/templates\/img\/seleccion_over.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/Code\/templates\/img\/send-button.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Code\/templates\/img\/send-button.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsSetByUser": 0
+		},
+	"\/Code\/templates\/img\/send-button.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4654,
+		"inputAbbreviatedPath": "\/Code\/templates\/img\/send-button.png",
+		"outputAbbreviatedPath": "\/Code\/templates\/img\/send-button.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/Code\/templates\/img\/titulo.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/Code\/templates\/img\/titulo.png",
+		"outputAbbreviatedPath": "\/Code\/templates\/img\/titulo.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/Code\/templates\/img\/weyes.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 0,
+		"inputAbbreviatedPath": "\/Code\/templates\/img\/weyes.png",
+		"outputAbbreviatedPath": "\/Code\/templates\/img\/weyes.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/Code\/templates\/index.jade": {
 		"compileDebug": 1,
 		"fileType": 512,
@@ -340,7 +886,7 @@
 	"\/Code\/templates\/js\/GBLanding.js": {
 		"fileType": 64,
 		"ignore": 1,
-		"ignoreWasSetByUser": 1,
+		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/Code\/templates\/js\/GBLanding.js",
 		"outputAbbreviatedPath": "\/Code\/templates\/js\/GBLanding.min.js",
 		"outputPathIsSetByUser": 0,

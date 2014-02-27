@@ -171,11 +171,12 @@
         if ( $( '.scrollable' ).exists() ) {
             
             GBLanding.inicializeCarrousel( '.scrollable', {
-                speed: 1000, 
+                speed: 300, 
                 circular: false, 
                 keyboard: false, 
-                next: 'next', 
-                prev: 'prev'
+                items: '.items',
+                next: '.next', 
+                prev: '.prev'
             }, {
                 activeClass: "active", 
                 navi: "", 
@@ -187,83 +188,187 @@
                 autoplay: false, 
                 autopause: false
             } );
+            
+            var api = $( '.scrollable' ).data( 'scrollable' );
+            api.onBeforeSeek( function( event, tabIndex ) {
+                
+                var myIndex = api.getIndex();
+            } );
+            
+            api.onSeek( function ( event, tabIndex ) { 
+                
+                var myIndex = api.getIndex();
+            } );
+        }
+        
+        //  !Crea una instancia de jQuery Overlay
+        if ( $( '.alert_box' ).exists() ) {
+            
+            GBLanding.doOverlay( $( 'a.alert_trigger' ), {
+                effect: 'apple',
+                close: $( '.alert_box a.close' ),
+                closeOnClick: true,
+                closeOnEsc: true,
+                speed: 'normal',
+                fixed: true,
+                onBeforeLoad: function ( e ) {
+                    
+                    $( '.alert_background' ).height( '100%' );
+                    ( $( '.alert_box a.close' ).exists() ) ? true : $( '.alert_box' ).prepend( GBLanding.closer );
+                    $( '.alert_box' ).centerWidth();
+                    $( '.alert_box' ).centerHeight();
+                    ( $( '.alert_box p' ).text() == '' ) ? $( '.alert_box p' ).remove() : false;
+                },
+                onLoad: function() {
+                    $( '.alert_background' ).fadeIn( 100 );
+                },
+                onBeforeClose:  function ( ){
+                    
+                    $( '.alert_box' ).fadeOut( 10, function ( ) {
+                        
+                        $( '.alert_background' ).fadeOut( 10 );
+                        $( '.alert_box h2' ).text( '' );
+                        $( '.alert_box h4' ).text( '' );
+                        ( $( '.alert_box p' ).exists() ) ? $( '.alert_box p' ).remove( ) : false;
+                        ( $( '.alert_box form' ).exists() ) ? $( '.alert_box form' ).remove( ) : false;
+                        ( $( '.alert_box table' ).exists() ) ? $( '.alert_box table' ).remove( ) : false;
+                        ( $( '.alert_box div' ).exists() ) ? $( '.alert_box div' ).remove( ) : false;
+                        ( $( '.alert_box button' ).exists() ) ? $( '.alert_box button' ).remove( ) : false;
+                        ( $( '.alert_box div.confirm' ).exists() ) ? $( '.alert_box div.confirm' ).remove( ) : false;
+                    } );
+                },
+                onClose: function ( e ) {}
+            } );
+            
+            GBLanding.overlay    = $( '.alert_trigger' ).data( 'overlay' );
+            
+            //$( '.alert_background' ).height( $( 'body' ).height() );
+        }
+        
+        //  Crea una instancia de jQuery Overlay para el home de descubreone.mx
+        //  Calcula la distancia entre el margen izquierdo para posicionar
+        //  la capa del video. Si en menor de 0 (ocurre en iPhone) utiliza
+        //  el ancho del body en vez del ancho de la ventana para hacer
+        //  el cálculo
+        if ( $( '.overlay' ).exists() ) {
+            
+            $( '.overlay' ).centerWidth();
+            
+            $( window ).on( {
+                resize: function ( e ) {
+                   
+                    $( '.overlay' ).centerWidth();
+                },
+                touchstart: function ( e ) {
+                   
+                    $( '.overlay' ).centerWidth();
+                },
+                touchend: function ( e ) {
+                   
+                    $( '.overlay' ).centerWidth();
+                }
+            } );
         }
         
         // Validación de los formularios
         if ( $( 'form' ).exists() ) {
             
-            GBLanding.makesUniform( 'input[type="checkbox"]' );
+            GBLanding.makesUniform( 'input[type="radio"]' );
             
-            var rules   = { 
-                    one: {
+            //  Muestra la información de tipo de alopecia
+            $( 'input[type="radio"]' ).on( 'click', function ( e ) {
+                
+                $( '.browse' ).fadeOut( 300 );
+                var _selector;
+                
+                switch( $( e.currentTarget ).val() ) {
+                    case '1': 
+                        _selector   = $( '.response.first' );
+                        break;
+                    case '2':
+                        _selector   = $( '.response.second' );
+                        break;
+                    case '3':
+                        _selector   = $( '.response.third' );
+                        break;
+                    case '3V':
+                        _selector   = $( '.response.thirdV' );
+                        break;
+                    case '4':
+                        _selector   = $( '.response.fourth' );
+                        break;
+                    case '5':
+                        _selector   = $( '.response.sixth' );
+                        break;
+                    case '6':
+                        _selector   = $( '.response.seventh' );
+                        break;
+                }
+                _selector.animate( {
+                    'left': '0'
+                }, 300 );
+            } );
+            
+            var rules   = {
+                    budget_name: {
                         required: true
-                    }, 
-                    two: {
-                        required: true
-                    }, 
-                    three: {
-                        required: true
-                    }, 
-                    four: {
-                        required: true
-                    }, 
-                    five: {
-                        required: true
-                    }, 
-                    six: {
-                        required: true
-                    }, 
-                    seven: {
-                        required: true
-                    }, 
-                    eight: {
-                        required: true
-                    }, 
-                    nine: {
-                        required: true
-                    }, 
-                    ten: {
-                        required: false,
-                        maxlength: 255
-                    }, 
-                    eleven: {
-                        required: true
-                    }, 
-                    twelve: {
-                        required: true
-                    }, 
-                    thirteen: {
-                        required: true
-                    }, 
-                    fourteen: {
-                        required: false,
-                        maxlength: 255
+                    },
+                    budget_phone: {
+                        required:   true,
+                        digits:     true,
+                        numbers:    true,
+                        minlength:  8,
+                        maxlength:  15
+                    },
+                    budget_mail:       {
+                        required:   true,
+                        email:      true
                     }
                 };
             var messages    = {
-                    one: "Por favor, selecciona una opción", 
-                    two: "Por favor, selecciona una opción", 
-                    three: "Por favor, selecciona una opción", 
-                    four: "Por favor, selecciona una opción", 
-                    five: "Por favor, selecciona una opción", 
-                    six: "Por favor, selecciona una opción", 
-                    seven: "Por favor, selecciona una opción", 
-                    eight: "Por favor, selecciona una opción", 
-                    nine: "Por favor, selecciona una opción", 
-                    ten: "Por favor, selecciona una opción", 
-                    eleven: "Por favor, selecciona una opción", 
-                    twelve: "Por favor, selecciona una opción", 
-                    thirteen: "Por favor, selecciona una opción", 
-                    fourteen: "Por favor, selecciona una opción", 
-                    required: "Por favor, selecciona una opción", 
-                    minlength: "Por favor, haga su respuesta más amplia.", 
-                    maxlength: "Por favor, acorte su respuesta", 
-                    email: "Escriba un email válido",
-                    number: "Escriba solo números", 
-                    digits: "Escriba solo números", 
+                    budget_name:        "Por favor, escribe tu nombre",
+                    budget_phone:       "Por favor, escribe tu teléfono",
+                    budget_mail:        "Por favor, escribe tu email",
+                    minlength:          "Por favor, haga su respuesta más amplia.",
+                    maxlength:          "Por favor, acorte su respuesta",
+                    email:              "Escriba un email válido",
+                    number:             "Escriba solo números",
+                    digits:             "Escriba solo números"
                 }
             
             GBLanding.validateForms( rules, messages );
+            console.log( $( '.budget_form' ).data() );
+        }
+        
+        //  Botón de Atrás
+        if ( $( '.diagnosis_displayed > a' ).exists() ) {
+             
+             $( '.diagnosis_displayed > a' ).on( 'click', function ( e ) {
+                 e.preventDefault();
+                 e.stopPropagation();
+                 
+                 $( '.browse' ).fadeIn( 300 );
+                 $( e.currentTarget ).parents( '.response' ).animate( {
+                     'left': '753px'
+                 }, 300, function () {
+                     
+                     $( e.currentTarget ).parent( '.diagnosis_displayed' ).siblings( '.diagnosis_budget' ).removeAttr( 'style' );
+                     $( e.currentTarget ).parent( '.diagnosis_displayed' ).parent( 'response' ).removeAttr( 'style' );
+                 } );
+             } );
+        }
+        
+        //  Botón de "Comienza Ya"
+        if ( $( '.promotions_link > a' ).exists() ) {
+            
+            $( '.promotions_link > a' ).on( 'click', function ( e ) {
+                e.preventDefault();
+                e.stopPropagation();
+                
+                $( e.currentTarget ).parents( '.diagnosis_information' ).siblings( '.diagnosis_budget' ).animate( {
+                    'right': 0
+                }, 300 );
+            } );
         }
     } );
     
