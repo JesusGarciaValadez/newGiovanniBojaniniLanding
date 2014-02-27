@@ -289,7 +289,7 @@
 		"inputAbbreviatedPath": "\/Code\/templates\/img\/BG.png",
 		"outputAbbreviatedPath": "\/Code\/templates\/img\/BG.png",
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/Code\/templates\/img\/bg_boja.jpg": {
 		"fileType": 16384,
@@ -311,6 +311,16 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
+	"\/Code\/templates\/img\/close.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1337,
+		"inputAbbreviatedPath": "\/Code\/templates\/img\/close.png",
+		"outputAbbreviatedPath": "\/Code\/templates\/img\/close.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
 	"\/Code\/templates\/img\/comienza-ya-button.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -319,7 +329,7 @@
 		"inputAbbreviatedPath": "\/Code\/templates\/img\/comienza-ya-button.png",
 		"outputAbbreviatedPath": "\/Code\/templates\/img\/comienza-ya-button.png",
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/Code\/templates\/img\/comienza.png": {
 		"fileType": 32768,
@@ -329,7 +339,7 @@
 		"inputAbbreviatedPath": "\/Code\/templates\/img\/comienza.png",
 		"outputAbbreviatedPath": "\/Code\/templates\/img\/comienza.png",
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/Code\/templates\/img\/comienza_over.png": {
 		"fileType": 32768,
@@ -357,7 +367,7 @@
 		"inputAbbreviatedPath": "\/Code\/templates\/img\/cuadro_2.png",
 		"outputAbbreviatedPath": "\/Code\/templates\/img\/cuadro_2.png",
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/Code\/templates\/img\/cuadro_3.png": {
 		"fileType": 32768,
@@ -377,7 +387,7 @@
 		"inputAbbreviatedPath": "\/Code\/templates\/img\/cuadro_amarillo.png",
 		"outputAbbreviatedPath": "\/Code\/templates\/img\/cuadro_amarillo.png",
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/Code\/templates\/img\/cuadro_seleccion.png": {
 		"fileType": 32768,
@@ -397,7 +407,7 @@
 		"inputAbbreviatedPath": "\/Code\/templates\/img\/enviar.png",
 		"outputAbbreviatedPath": "\/Code\/templates\/img\/enviar.png",
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/Code\/templates\/img\/enviar_over.png": {
 		"fileType": 32768,
@@ -645,7 +655,7 @@
 		"inputAbbreviatedPath": "\/Code\/templates\/img\/linea_cabellos.png",
 		"outputAbbreviatedPath": "\/Code\/templates\/img\/linea_cabellos.png",
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/Code\/templates\/img\/linea_header_cuadro.png": {
 		"fileType": 32768,
@@ -795,7 +805,7 @@
 		"inputAbbreviatedPath": "\/Code\/templates\/img\/recuadro_grande.png",
 		"outputAbbreviatedPath": "\/Code\/templates\/img\/recuadro_grande.png",
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/Code\/templates\/img\/seleccion-sprite.css": {
 		"fileType": 16,
@@ -985,7 +995,7 @@
 		},
 	"\/Code\/templates\/js\/vendor\/jquery.scrollTo-1.4.3.1.js": {
 		"fileType": 64,
-		"ignore": 1,
+		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/Code\/templates\/js\/vendor\/jquery.scrollTo-1.4.3.1.js",
 		"outputAbbreviatedPath": "\/Code\/templates\/js\/vendor\/jquery.scrollTo-1.4.3.1.min.js",
@@ -1074,14 +1084,6 @@
 		"outputAbbreviatedPath": "\/CONTRIBUTING.html",
 		"outputPathIsSetByUser": 0
 		},
-	"\/index.html": {
-		"fileType": 8192,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsSetByUser": 0
-		},
 	"\/LICENSE.md": {
 		"enableFootnoteSupport": 0,
 		"enableSmartyPants": 1,
@@ -1109,6 +1111,44 @@
 	],
 "lastSavedByUser": "Jesús Antonio García Valadez",
 "manualImportLinks": {
+	"\/Code\/templates\/js\/plugins.js": [
+		{
+			"followForSyntaxChecking": 1,
+			"linkedFileAbbreviatedPath": "\/Code\/templates\/js\/vendor\/jquery.uniform.js",
+			"position": 0,
+			"type": 1
+			},
+		{
+			"followForSyntaxChecking": 1,
+			"linkedFileAbbreviatedPath": "\/Code\/templates\/js\/vendor\/jquery.form.js",
+			"position": 1,
+			"type": 1
+			},
+		{
+			"followForSyntaxChecking": 1,
+			"linkedFileAbbreviatedPath": "\/Code\/templates\/js\/vendor\/jquery.validate.js",
+			"position": 2,
+			"type": 1
+			},
+		{
+			"followForSyntaxChecking": 1,
+			"linkedFileAbbreviatedPath": "\/Code\/templates\/js\/vendor\/additional-methods.js",
+			"position": 3,
+			"type": 1
+			},
+		{
+			"followForSyntaxChecking": 1,
+			"linkedFileAbbreviatedPath": "\/Code\/templates\/js\/vendor\/jquery.tools.custom.min.js",
+			"position": 4,
+			"type": 1
+			},
+		{
+			"followForSyntaxChecking": 1,
+			"linkedFileAbbreviatedPath": "\/Code\/templates\/js\/GBLanding.js",
+			"position": 5,
+			"type": 1
+			}
+		]
 	},
 "projectAttributes": {
 	"bowerAbbreviatedPath": "",

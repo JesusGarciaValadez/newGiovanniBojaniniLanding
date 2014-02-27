@@ -75,82 +75,43 @@
             
             $( '.overlay' ).centerWidth();
             
-            GBLanding.doOverlay( 'img[rel]', {
-                effect: 'apple', 
-                // custom top position
-                //top: 260,
-                // some mask tweaks suitable for facebox-looking dialogs
-                mask: {
-                    // you might also consider a "transparent" color for the mask
-                    color: '#FFF',
-                    // load mask a little faster
-                    loadSpeed: 200,
-                    // very transparent
-                    opacity: 0.5
-                },
-                // disable this for modal dialog-type of overlays
+            GBLanding.doOverlay( $( 'a.alert_trigger' ), {
+                effect: 'apple',
+                close: $( '.alert_box a.close' ),
                 closeOnClick: true,
-                closeOnEsc: true, 
-                // load it immediately after the construction
-                load: true, 
+                closeOnEsc: true,
+                speed: 'normal',
+                fixed: true,
                 onBeforeLoad: function ( e ) {
                     
-                }, 
-                onLoad: function ( e ) {
-                   
-                    if ( myVideo && myVideo.paused ) {
-                        
-                        myVideo.play();
-                    }
-                }, 
-                onBeforeClose: function ( e ) {
+                    $( '.alert_background' ).height( '100%' );
+                    ( $( '.alert_box a.close' ).exists() ) ? true : $( '.alert_box' ).prepend( Prometa.closer );
+                    $( '.alert_box' ).centerWidth();
+                    $( '.alert_box' ).centerHeight();
+                    ( $( '.alert_box p' ).text() == '' ) ? $( '.alert_box p' ).remove() : false;
+                },
+                onLoad: function() {
+                    $( '.alert_background' ).fadeIn( 100 );
+                },
+                onBeforeClose:  function ( ){
                     
-                    var player;
-                    function onYouTubeIframeAPIReady() {
+                    $( '.alert_box' ).fadeOut( 10, function ( ) {
                         
-                        player  = new window.YT.Player( 'ytplayer', {
-                            events: {
-                                'onReady': onPlayerReady,
-                                'onStateChange': onPlayerStateChange
-                            }
-                        });
-                    }
-                    
-                    function onPlayerReady( event ) {
-                        
-                        event.target.playVideo();
-                    }
-                    
-                    var done = false;
-                    function onPlayerStateChange( event ) {
-                        
-                        if ( event.data == YT.PlayerState.PLAYING ) {
-                            
-                            stopVideo();
-                        }
-                    }
-                    function stopVideo() {
-                        
-                        player.stopVideo();
-                    }
-                }, 
-                onClose: function ( e ) {
-                    
-                    if ( myVideo ) {
-                        
-                        myVideo.pause();
-                    }
-                    /*if ( $( '#exposeMask:visible' ).is( ':visible' ) && $( 'object,embed' ).exists() ) {
-                        
-                        $( 'object,embed' ).css( {
-                            display: "none", 
-                            opacity: "0", 
-                            filter: "alpha(opacity=0)", 
-                            visibility: "none"
-                        } );
-                    }*/
-                }
+                        $( '.alert_background' ).fadeOut( 10 );
+                        $( '.alert_box h2' ).text( '' );
+                        $( '.alert_box h4' ).text( '' );
+                        ( $( '.alert_box p' ).exists() ) ? $( '.alert_box p' ).remove( ) : false;
+                        ( $( '.alert_box form' ).exists() ) ? $( '.alert_box form' ).remove( ) : false;
+                        ( $( '.alert_box table' ).exists() ) ? $( '.alert_box table' ).remove( ) : false;
+                        ( $( '.alert_box div' ).exists() ) ? $( '.alert_box div' ).remove( ) : false;
+                        ( $( '.alert_box button' ).exists() ) ? $( '.alert_box button' ).remove( ) : false;
+                        ( $( '.alert_box div.confirm' ).exists() ) ? $( '.alert_box div.confirm' ).remove( ) : false;
+                    } );
+                },
+                onClose: function ( e ) {}
             } );
+            
+            GBLanding.overlay    = $( '.alert_trigger' ).data( 'overlay' );
             
             $( window ).on( {
                 resize: function ( e ) {
@@ -245,31 +206,6 @@
             //$( '.alert_background' ).height( $( 'body' ).height() );
         }
         
-        //  Crea una instancia de jQuery Overlay para el home de descubreone.mx
-        //  Calcula la distancia entre el margen izquierdo para posicionar
-        //  la capa del video. Si en menor de 0 (ocurre en iPhone) utiliza
-        //  el ancho del body en vez del ancho de la ventana para hacer
-        //  el cálculo
-        if ( $( '.overlay' ).exists() ) {
-            
-            $( '.overlay' ).centerWidth();
-            
-            $( window ).on( {
-                resize: function ( e ) {
-                   
-                    $( '.overlay' ).centerWidth();
-                },
-                touchstart: function ( e ) {
-                   
-                    $( '.overlay' ).centerWidth();
-                },
-                touchend: function ( e ) {
-                   
-                    $( '.overlay' ).centerWidth();
-                }
-            } );
-        }
-        
         // Validación de los formularios
         if ( $( 'form' ).exists() ) {
             
@@ -336,8 +272,31 @@
                     digits:             "Escriba solo números"
                 }
             
-            GBLanding.validateForms( rules, messages );
-            console.log( $( '.budget_form' ).data() );
+            $( 'form' ).on( 'submit', function ( e ) {
+                
+                e.preventDefault();
+                e.stopPropagation();
+                
+                if ( $( 'form input.budget_name' ).val() != '' ) {
+                    
+                    var budgetName  = $( 'form input.budget_name' ).val();
+                }
+                if ( $( 'form input.budget_phone' ).val() != '' ) {
+                    
+                    var budgetPhone  = $( 'form input.budget_phone' ).val();
+                }
+                if ( $( 'form input.budget_mail' ).val() != '' ) {
+                    
+                    var budgetMail  = $( 'form input.budget_mail' ).val();
+                }
+                
+                var budget  = {};
+                budget.budget_name   = budgetName;
+                budget.budget_phone  = budgetPhone;
+                budget.budget_mail   = budgetMail;
+                
+                GBLanding.validateForms( rules, messages, budget );
+            } )
         }
         
         //  Botón de Atrás

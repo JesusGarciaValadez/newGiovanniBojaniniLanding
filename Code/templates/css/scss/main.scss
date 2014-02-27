@@ -157,15 +157,15 @@ menuitem,nav,iframe,embed,object,*{
         text-transform: uppercase;
     }
     a.close{
-        background: url('../img/home/close-button.png') no-repeat scroll 0 0 transparent;
+        background: url('../img/close.png') no-repeat scroll 0 0 transparent;
         cursor: pointer;
-        height: 35px;
+        height: 27px;
         overflow: hidden;
         position: absolute;
-        right: -17px;
+        right: -12px;
         text-indent: -2000em;
-        top: -17px;
-        width: 35px;
+        top: -12px;
+        width: 27px;
         img{
             
         }
@@ -173,7 +173,8 @@ menuitem,nav,iframe,embed,object,*{
     p{
         color: #000;
         font: normal 0.875em/1em $Helvetica;
-        padding: 20px 0 0;
+        margin: 0;
+        padding: 20px 0;
         width: 100%;
     }
 }
@@ -662,7 +663,15 @@ html,body{
                             .text{
                                 float: left;
                                 padding: 3px 15px 3px 0;
+                                position: relative;
                                 width: 280px;
+                                .error{
+                                    color: $white;
+                                    left: 78px;
+                                    position: absolute;
+                                    text-align: right;
+                                    top:2px;
+                                }
                                 input{
                                     @include font-mask( $yellow, em( 13, 16 ), em( 13, 13 ), normal, $Helvetica );
                                     background-color: #494949;

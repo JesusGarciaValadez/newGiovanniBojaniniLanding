@@ -18,18 +18,12 @@ class Review extends Model {
         
         //  Validación de los datos
         $parameters = array(
-            'contact_name' => array(
+            'budget_name' => array(
                 'requerido' => 1, 'validador' => 'esAlfaNumerico', 'mensaje' => utf8_encode( 'El nombre es obligatorio.' ) ),
-            'contact_business' => array(
-                'requerido' => 1 ,'validador' => 'esAlfaNumerico', 'mensaje' => utf8_encode( 'La empresa es obligatoria.' ) ),
-            'contact_phone' => array(
+            'budget_phone' => array(
                 'requerido' => 1, 'validador' => 'esAlfaNumerico', 'mensaje' => utf8_encode( 'El teléfono es obligatoria.' ) ),
-            'contact_mail' => array( 
+            'budget_mail' => array( 
                 'requerido' => 1, 'validador' => 'esEmail', 'mensaje' => utf8_encode( 'El mail es obligatoria.' ) ),
-            'contact_area' => array(
-                'requerido' => 0, 'validador' => 'esAlfaNumerico', 'mensaje' => utf8_encode( 'El área es obligatoria.' ) ),
-            'contact_message' => array(
-                'requerido' => 0, 'validador' => 'esAlfaNumerico', 'mensaje' => utf8_encode( 'El mensaje es obligatoria.' ) ),
         );
         
         $form = new Validator( $info, $parameters );
@@ -45,13 +39,13 @@ class Review extends Model {
             
             try {
                 
-                //$this->_PDOConn->beginTransaction();
+                $this->_PDOConn->beginTransaction();
                 
-                //$info[ 'date_answer' ] = date( "Y/m/d" );
+                $info[ 'date_request' ] = date( "Y-m-d" );
                 
-                //$success    = $this->insert( $info );
+                $success    = $this->insert( $info );
                 
-                //if ( $success ) {
+                if ( $success ) {
                     
                     $emails = explode( ',' , $correo );
                     $to     = array();
@@ -77,12 +71,9 @@ class Review extends Model {
                     }
                     
                     $vars = array(
-                            'contact_name'      => $info[ 'contact_name' ],
-                            'contact_business'  => $info[ 'contact_business' ],
-                            'contact_phone'     => $info[ 'contact_phone' ],
-                            'contact_mail'      => $info[ 'contact_mail' ],
-                            'contact_area'      => $info[ 'contact_area' ],
-                            'contact_message'   => $info[ 'contact_message' ]
+                            'budget_name'      => $info[ 'budget_name' ],
+                            'budget_phone'     => $info[ 'budget_phone' ],
+                            'budget_mail'      => $info[ 'budget_mail' ]
                         );
                     $tpl = ParserTemplate::parseTemplate( $template, $vars );
                     
@@ -101,7 +92,7 @@ class Review extends Model {
                             'message'=>utf8_encode( 'El servicio de correo no esta disponible' )
                         );
                     }
-                /*} else {
+                } else {
                     
                     $response = array(
                         'success' => 'false', 
@@ -109,7 +100,7 @@ class Review extends Model {
                     );
                 }
                 
-                $this->_PDOConn->commit();*/
+                $this->_PDOConn->commit();
                 
             } catch ( PDOException $e ) {
                 

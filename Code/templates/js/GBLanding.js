@@ -114,12 +114,12 @@
          *
          */
         //  !Validación del formulario de contacto.
-        validateForms:    function ( rule, messages ) {
+        validateForms:    function ( rule, messages, dataPass ) {
             
             var _rule       = ( typeof( rule ) == 'object' ) ? rule : {};
             var _message    = ( typeof( messages ) == 'object' ) ? messages : {};
             
-            var formActive  = $( '.diagnosis_budget form' ).validate( { 
+            /*var formActive  = $( '.diagnosis_budget form' ).validate( { 
                 onfocusout: false,
                 onclick: true, 
                 onkeyup: false,
@@ -137,7 +137,7 @@
                         $('#message').show('fast');
                     });
                     this.defaultShowErrors();
-                },*/
+                },
                 errorPlacement: function(error, element) {
                     error.prependTo( element.parent() );
                 },
@@ -152,10 +152,10 @@
                 }, 
                 submitHandler: function( form ) {
                     // Form submit
-                    $( form ).ajaxSubmit( {
+                    /*$( form ).ajaxSubmit( {
                         //    Before submitting the form
                         beforeSubmit: function showRequestLogin( arr, form, options ) {
-                            
+                            console.log( 'ready' );
                             $('.error_indicator').remove();
                             if ( $('textarea' ).val() == "" ) {
                                
@@ -173,7 +173,7 @@
                                 $( '.alert_box' ).addClass( 'thank_you_message' );
                                 var _title      = 'Gracias';
                                 var _markup     = '<p>Nos comunicaremos con usted a la brevedad.</p>';
-                                Prometa.openAlert( _title, _markup );
+                                GBLanding.openAlert( _title, _markup );
                                 $( 'textarea' ).val( "" );
                                 //$( form ).fadeOut( 300 );
                             } else {
@@ -181,9 +181,9 @@
                                 $( '.alert_box' ).addClass( 'error_message' );
                                 var _title  = 'Error';
                                 var _markup = '<p>La encuesta no fue procesada correctamente. Por favor, contacta al administrador.</p>';
-                                Prometa.openAlert( _title, _markup );
+                                GBLanding.openAlert( _title, _markup );
                             }
-                            //Prometa.smoothScroll( 'body' );
+                            //GBLanding.smoothScroll( 'body' );
                         },
                         resetForm: false,
                         clearForm: false,
@@ -194,12 +194,12 @@
                             $( '.alert_box' ).addClass( 'error' );
                             var _title  = 'Error';
                             var _markup = '<p>La encuesta no fue procesada correctamente. Por favor, reporta este error al administrador.</p>';
-                            Prometa.openAlert( _title, _markup );
+                            GBLanding.openAlert( _title, _markup );
                         },
                         cache: false
                     } );
                 }, 
-                /*invalidHandler: function(form, validator) {
+                invalidHandler: function(form, validator) {
                     var errors = validator.numberOfInvalids();
                     if (errors) {
                         var message = errors == 1 ? 'You missed 1 field. It has been highlighted' : 'You missed ' + errors + ' fields. They have been highlighted';
@@ -208,8 +208,56 @@
                     } else {
                         $("div#summary").hide();
                     }
-                }*/
-            } ); 
+                }
+            } ); */
+            
+                    $.ajax ( 'Code/snippets/dispatcher.php?action=sendBudget', { 
+                        beforeSend: function ( jqXHR, settings ) {
+                            $('.error_indicator').remove();
+                            if ( $('textarea' ).val() == "" ) {
+                               
+                                $('textarea' ).val( 'Ninguno' );
+                            }
+                        }, 
+                        cache: false, 
+                        complete: function ( jqXHR, textStatus ) {
+                            
+                        }, 
+                        contentType: "application/x-www-form-urlencoded",  
+                        converters: { 
+                            "* text":       window.String, 
+                            "text html":    true, 
+                            "text json":    $.parseJSON, 
+                            "text xml":     $.parseXML
+                        }, 
+                        data: dataPass, 
+                        error:  function ( jqXHR, textStatus, errorThrown ) {
+                            
+                        }, 
+                        success: function ( responseText, textStatus, jqXHR ) {
+                            
+                            //console.log(responseText.success);
+                            responseText    = $.parseJSON( responseText );
+                            
+                            if( responseText && ( responseText.success == 'true' || responseText.success == true ) ) {
+                                
+                                $( '.alert_box' ).addClass( 'thank_you_message' );
+                                var _title      = 'Gracias';
+                                var _markup     = '<p>En breve recibirá un presupuesto. ¡Gracias por contactar con Bojanini!.</p>';
+                                GBLanding.openAlert( _title, _markup );
+                                $( 'textarea' ).val( "" );
+                                //$( form ).fadeOut( 300 );
+                            } else {
+                                
+                                $( '.alert_box' ).addClass( 'error_message' );
+                                var _title  = 'Error';
+                                var _markup = '<p>Hubo un error. ¿Podría intentarlo nuevamente?.</p>';
+                                GBLanding.openAlert( _title, _markup );
+                            }
+                            //GBLanding.smoothScroll( 'body' );
+                        }, 
+                        type: "POST"
+                    } );
         }, 
         /**
          *

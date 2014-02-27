@@ -42,12 +42,12 @@ if ( ! empty( $_GET['action'] ) ) {
                             'name'  => 'Vico')*/
                     );
                 
-                $doInsert   = new Review( $dbh, '' );
+                $doInsert   = new Review( $dbh, 'budget_request' );
                 $doInsert   = $doInsert->insertInit( 
                     $_POST, 
                     "template_mailing.html", 
                     $_POST[ 'budget_name' ] . " está interesado en pedir información", 
-                    "info@microinjertobojanini.mx", 
+                    "presupuesto@microinjertobojanini.mx", 
                     $cc );
                 $data       = json_encode ( $doInsert );
                 
