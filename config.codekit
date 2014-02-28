@@ -361,14 +361,6 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
-	"\/Code\/templates\/img\/conecta-ya-button.css": {
-		"fileType": 16,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/Code\/templates\/img\/conecta-ya-button.css",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsSetByUser": 0
-		},
 	"\/Code\/templates\/img\/cuadro_2.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -517,7 +509,7 @@
 		"inputAbbreviatedPath": "\/Code\/templates\/img\/Etapas_hombre\/E4_perfil_H.png",
 		"outputAbbreviatedPath": "\/Code\/templates\/img\/Etapas_hombre\/E4_perfil_H.png",
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/Code\/templates\/img\/Etapas_hombre\/E4_Top_H.png": {
 		"fileType": 32768,
@@ -577,7 +569,7 @@
 		"inputAbbreviatedPath": "\/Code\/templates\/img\/Etapas_hombre\/E7_perfil_H.png",
 		"outputAbbreviatedPath": "\/Code\/templates\/img\/Etapas_hombre\/E7_perfil_H.png",
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/Code\/templates\/img\/Etapas_hombre\/E7_Top_H.png": {
 		"fileType": 32768,
@@ -618,14 +610,6 @@
 		"outputAbbreviatedPath": "\/Code\/templates\/img\/flecha_izq.png",
 		"outputPathIsSetByUser": 0,
 		"processed": 1
-		},
-	"\/Code\/templates\/img\/flechas.css": {
-		"fileType": 16,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/Code\/templates\/img\/flechas.css",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsSetByUser": 0
 		},
 	"\/Code\/templates\/img\/formulario_texto.png": {
 		"fileType": 32768,
@@ -817,14 +801,6 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
-	"\/Code\/templates\/img\/seleccion-sprite.css": {
-		"fileType": 16,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/Code\/templates\/img\/seleccion-sprite.css",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsSetByUser": 0
-		},
 	"\/Code\/templates\/img\/seleccion-sprite.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -855,14 +831,6 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
-	"\/Code\/templates\/img\/send-button.css": {
-		"fileType": 16,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/Code\/templates\/img\/send-button.css",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsSetByUser": 0
-		},
 	"\/Code\/templates\/img\/send-button.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -892,6 +860,16 @@
 		"outputAbbreviatedPath": "\/Code\/templates\/img\/weyes.png",
 		"outputPathIsSetByUser": 0,
 		"processed": 1
+		},
+	"\/Code\/templates\/img\/weyes_small.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 501557,
+		"inputAbbreviatedPath": "\/Code\/templates\/img\/weyes_small.png",
+		"outputAbbreviatedPath": "\/Code\/templates\/img\/weyes_Small.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
 		},
 	"\/Code\/templates\/index.jade": {
 		"compileDebug": 1,
@@ -1094,11 +1072,21 @@
 		"outputAbbreviatedPath": "\/CONTRIBUTING.html",
 		"outputPathIsSetByUser": 0
 		},
-	"\/index.html": {
-		"fileType": 8192,
-		"ignore": 1,
+	"\/favicon.png": {
+		"fileType": 32768,
+		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/index.html",
+		"initialSize": 482,
+		"inputAbbreviatedPath": "\/favicon.png",
+		"outputAbbreviatedPath": "\/favicon.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/google726f2f452bf462b1.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/google726f2f452bf462b1.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsSetByUser": 0
 		},

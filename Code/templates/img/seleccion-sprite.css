@@ -1,6 +1,0 @@
-
-/* Start Sprite Master CSS */
-.seleccion,.seleccion_over{display: inline-block;background-repeat: no-repeat;background-image: url('seleccion-sprite.png');}
-.seleccion{background-position:0px 0px;width:29px;height:29px;}
-.seleccion_over{background-position:0px -29px;width:29px;height:29px;}
-/* End Sprite Master CSS */
