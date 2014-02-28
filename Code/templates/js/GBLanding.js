@@ -240,17 +240,18 @@
                         
                         $( '.alert_box' ).addClass( 'thank_you_message' );
                         var _title      = 'Gracias';
-                        var _markup     = '<p>En breve recibirá un presupuesto. ¡Gracias por contactar con Bojanini!.</p>';
+                        var _markup     = '<p>Muchas gracias por tu interes en Giovani Bojanini Microinjerto, <br />en breve nos pondremos en contacto contigo.</p>';
                         GBLanding.openAlert( _title, _markup );
                         $( 'textarea' ).val( "" );
+                        $( '.budget_form input[type="text"]' ).val( '' );
                         //$( form ).fadeOut( 300 );
                     } else {
-                                
-                                $( '.alert_box' ).addClass( 'error_message' );
-                                var _title  = 'Error';
-                                var _markup = '<p>Hubo un error. ¿Podría intentarlo nuevamente?.</p>';
-                                GBLanding.openAlert( _title, _markup );
-                            }
+                        
+                        $( '.alert_box' ).addClass( 'error_message' );
+                        var _title  = 'Error';
+                        var _markup = '<p>Hubo un error. ¿Podría intentarlo nuevamente?.</p>';
+                        GBLanding.openAlert( _title, _markup );
+                    }
                     //GBLanding.smoothScroll( 'body' );
                 }, 
                 type: "POST"

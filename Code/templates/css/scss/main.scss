@@ -201,7 +201,6 @@ html,body{
     display: table;
     font-weight: normal;
     height: 100%;
-    overflow: hidden;
     position: relative;
     width: 100%;
 }
@@ -252,12 +251,18 @@ html,body{
             p.info{
                 color: $yellow !important;
                 font-size: em( 28, 16 );
+                line-height: em( 28, 28 );
                 padding: 0;
-                span{ display:inline-block; font-weight: bold; padding: 0 0 6px; }
+                span{
+                    display:inline-block;
+                    font-weight: bold;
+                    line-height: em( 28, 28 );
+                    padding: 0;
+                }
                 a{
                     color: $yellow;
                     border-bottom: 3px solid $yellow;
-                    font-size: em( 16.22, 28 );
+                    font-size: em( 17.6, 28 );
                     font-weight: bold;
                     padding: 0 0 8px;
                     text-decoration: none;
@@ -345,7 +350,7 @@ html,body{
                         color: $white !important;
                         font-size: em( 60, 16 );
                         font-weight: bold;
-                        line-height: em( 54.85, 70 );
+                        line-height: em( 54.85, 60 );
                         padding: 0 !important;
                     }
                 }
@@ -356,10 +361,16 @@ html,body{
                     z-index: 10;
                     p{
                         color: $text_gray;
+                        font-size: em( 11.4, 16 ) !important;
+                        line-height: em( 15, 11.4 );
                         padding: 15px 10px 0;
                         strong{}
                     }
-                    p.discount{ padding: 12px 10px 0 !important; }
+                    p.discount{
+                        font-size: em( 55, 16 ) !important;
+                        line-height: em( 54.85, 55 ) !important;
+                        padding: 12px 10px 0 !important;
+                    }
                 }
                 div.thirty{
                     background: url("../img/cuadro_2.png") no-repeat scroll left top transparent;
