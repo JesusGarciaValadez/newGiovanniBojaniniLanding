@@ -1115,46 +1115,8 @@
 	},
 "hooks": [
 	],
-"lastSavedByUser": "Jesús Antonio García Valadez",
+"lastSavedByUser": "Jesús García Valadez",
 "manualImportLinks": {
-	"\/Code\/templates\/js\/plugins.js": [
-		{
-			"followForSyntaxChecking": 1,
-			"linkedFileAbbreviatedPath": "\/Code\/templates\/js\/vendor\/jquery.uniform.js",
-			"position": 0,
-			"type": 1
-			},
-		{
-			"followForSyntaxChecking": 1,
-			"linkedFileAbbreviatedPath": "\/Code\/templates\/js\/vendor\/jquery.form.js",
-			"position": 1,
-			"type": 1
-			},
-		{
-			"followForSyntaxChecking": 1,
-			"linkedFileAbbreviatedPath": "\/Code\/templates\/js\/vendor\/jquery.validate.js",
-			"position": 2,
-			"type": 1
-			},
-		{
-			"followForSyntaxChecking": 1,
-			"linkedFileAbbreviatedPath": "\/Code\/templates\/js\/vendor\/additional-methods.js",
-			"position": 3,
-			"type": 1
-			},
-		{
-			"followForSyntaxChecking": 1,
-			"linkedFileAbbreviatedPath": "\/Code\/templates\/js\/vendor\/jquery.tools.custom.min.js",
-			"position": 4,
-			"type": 1
-			},
-		{
-			"followForSyntaxChecking": 1,
-			"linkedFileAbbreviatedPath": "\/Code\/templates\/js\/GBLanding.js",
-			"position": 5,
-			"type": 1
-			}
-		]
 	},
 "projectAttributes": {
 	"bowerAbbreviatedPath": "",

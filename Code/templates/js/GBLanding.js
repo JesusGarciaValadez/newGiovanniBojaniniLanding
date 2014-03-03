@@ -283,7 +283,6 @@
             
             $( '.alert_box h2' ).text( _title );
             $( '.alert_box' ).append( _message );
-            //GBLanding.overlay.load();
             $( '.alert_trigger' ).click( );
             $( '.alert_box' ).centerHeight( );
             $( '.alert_box' ).centerWidth( );

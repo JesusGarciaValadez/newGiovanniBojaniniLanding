@@ -757,7 +757,7 @@ html,body{
                             text-align: right;
                         }
                         p.branch_phone{
-                            @include font-mask( $white, em( 16, 16 ), em( 26, 16 ), normal, $Helvetica );
+                            @include font-mask( $white, em( 15.8, 16 ), em( 26, 15.8 ), normal, $Helvetica );
                             letter-spacing: 0.7px;
                             margin: 0;
                             padding: 0;
