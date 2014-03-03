@@ -879,7 +879,7 @@
 		"inputAbbreviatedPath": "\/Code\/templates\/index.jade",
 		"outputAbbreviatedPath": "\/index.html",
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0
+		"outputStyle": 1
 		},
 	"\/Code\/templates\/js\/GBLanding.js": {
 		"fileType": 64,
