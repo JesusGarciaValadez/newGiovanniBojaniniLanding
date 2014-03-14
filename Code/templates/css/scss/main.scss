@@ -617,8 +617,7 @@ html,body{
                         font-size: em( 45, 16 );
                         line-height: em( 44, 45 );
                         margin: 0 auto;
-                        padding: 0 0 7px 10px;
-                        text-indent: 38px;
+                        padding: 0 0 7px 50px;
                         text-transform: uppercase;
                         strong{ color: $white; text-transform: uppercase; }
                     }
@@ -766,14 +765,15 @@ html,body{
                     }
                 }
             }
-            .response.first,.response.second,
-            .response.fifth,.response.sixth,.response.seventh{
+            .response.first,.response.second,.response.third,
+            .response.thirdV,.response.fourth,.response.fifth,
+            .response.sixth,.response.seventh{
                 
                 .diagnosis_information{
                     
                     .diagnosis_prescription{
                         font-size: em( 22, 16 );
-                        //line-height: em( 44, 22 );
+                        line-height: em( 26, 22 );
                     }
                 }
             }

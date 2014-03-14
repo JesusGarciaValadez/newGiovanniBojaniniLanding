@@ -869,7 +869,7 @@
 		"inputAbbreviatedPath": "\/Code\/templates\/img\/weyes_small.png",
 		"outputAbbreviatedPath": "\/Code\/templates\/img\/weyes_Small.png",
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/Code\/templates\/index.jade": {
 		"compileDebug": 1,
@@ -1087,14 +1087,6 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/google726f2f452bf462b1.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsSetByUser": 0
-		},
-	"\/index.html": {
-		"fileType": 8192,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/index.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsSetByUser": 0
 		},
