@@ -37,9 +37,9 @@ if ( ! empty( $_GET['action'] ) ) {
                         array( 
                             'mail'  => 'jgarcia@cmvasfalto.com.mx', 
                             'name'  => 'Jesús'), 
-                        /*array(
-                            'mail'  => 'vdavila@cmv.com.mx', 
-                            'name'  => 'Vico')*/
+                        array(
+                            'mail'  => 'vdavila@cmvasfalto.com.mx', 
+                            'name'  => 'Vico')
                     );
                 
                 $doInsert   = new Review( $dbh, 'budget_request' );
@@ -47,7 +47,7 @@ if ( ! empty( $_GET['action'] ) ) {
                     $_POST, 
                     "template_mailing.html", 
                     $_POST[ 'budget_name' ] . " está interesado en pedir información", 
-                    "presupuesto@microinjertobojanini.mx", 
+                    "injerto@cdgb.com.mx", 
                     $cc );
                 $data       = json_encode ( $doInsert );
                 

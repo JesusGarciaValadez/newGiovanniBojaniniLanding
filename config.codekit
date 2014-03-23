@@ -1,6 +1,6 @@
 {
 "CodeKitInfo": "This is a CodeKit 2.x project configuration file. It is designed to sync project settings across multiple machines. MODIFYING THE CONTENTS OF THIS FILE IS A POOR LIFE DECISION. If you do so, you will likely cause CodeKit to crash. This file is not useful unless accompanied by the project that created it in CodeKit 2. This file is not backwards-compatible with CodeKit 1.x. For more information, see: http:\/\/incident57.com\/codekit",
-"creatorBuild": "16828",
+"creatorBuild": "16877",
 "files": {
 	"\/404.html": {
 		"fileType": 8192,
@@ -193,44 +193,6 @@
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsSetByUser": 0
 		},
-	"\/Code\/templates\/css\/main.css": {
-		"fileType": 16,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/Code\/templates\/css\/main.css",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsSetByUser": 0
-		},
-	"\/Code\/templates\/css\/scss\/main.scss": {
-		"createSourceMap": 1,
-		"debugStyle": 0,
-		"decimalPrecision": 5,
-		"fileType": 4,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/Code\/templates\/css\/scss\/main.scss",
-		"outputAbbreviatedPath": "\/Code\/templates\/css\/main.css",
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 3,
-		"shouldRunAutoprefixer": 1,
-		"shouldRunBless": 1,
-		"useLibsass": 0
-		},
-	"\/Code\/templates\/css\/scss\/normalize.scss": {
-		"createSourceMap": 1,
-		"debugStyle": 0,
-		"decimalPrecision": 5,
-		"fileType": 4,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/Code\/templates\/css\/scss\/normalize.scss",
-		"outputAbbreviatedPath": "\/Code\/templates\/css\/normalize.css",
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 3,
-		"shouldRunAutoprefixer": 1,
-		"shouldRunBless": 1,
-		"useLibsass": 0
-		},
 	"\/Code\/templates\/footer.jade": {
 		"compileDebug": 1,
 		"fileType": 512,
@@ -239,7 +201,7 @@
 		"inputAbbreviatedPath": "\/Code\/templates\/footer.jade",
 		"outputAbbreviatedPath": "\/footer.html",
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0
+		"outputStyle": 1
 		},
 	"\/Code\/templates\/head.jade": {
 		"compileDebug": 1,
@@ -249,627 +211,7 @@
 		"inputAbbreviatedPath": "\/Code\/templates\/head.jade",
 		"outputAbbreviatedPath": "\/head.html",
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0
-		},
-	"\/Code\/templates\/img\/agenda_tuCita.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 2733,
-		"inputAbbreviatedPath": "\/Code\/templates\/img\/agenda_tuCita.png",
-		"outputAbbreviatedPath": "\/Code\/templates\/img\/agenda_tuCita.png",
-		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
-	"\/Code\/templates\/img\/atras.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1238,
-		"inputAbbreviatedPath": "\/Code\/templates\/img\/atras.png",
-		"outputAbbreviatedPath": "\/Code\/templates\/img\/atras.png",
-		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
-	"\/Code\/templates\/img\/background.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 2012,
-		"inputAbbreviatedPath": "\/Code\/templates\/img\/background.jpg",
-		"outputAbbreviatedPath": "\/Code\/templates\/img\/background.jpg",
-		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
-	"\/Code\/templates\/img\/background_lightbox.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 921,
-		"inputAbbreviatedPath": "\/Code\/templates\/img\/background_lightbox.png",
-		"outputAbbreviatedPath": "\/Code\/templates\/img\/background_lightbox.png",
-		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
-	"\/Code\/templates\/img\/BG.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 0,
-		"inputAbbreviatedPath": "\/Code\/templates\/img\/BG.png",
-		"outputAbbreviatedPath": "\/Code\/templates\/img\/BG.png",
-		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
-	"\/Code\/templates\/img\/bg_boja.jpg": {
-		"fileType": 16384,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 818471,
-		"inputAbbreviatedPath": "\/Code\/templates\/img\/bg_boja.jpg",
-		"outputAbbreviatedPath": "\/Code\/templates\/img\/bg_boja.jpg",
-		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
-	"\/Code\/templates\/img\/bojanini-friends.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1.16281e+06,
-		"inputAbbreviatedPath": "\/Code\/templates\/img\/bojanini-friends.png",
-		"outputAbbreviatedPath": "\/Code\/templates\/img\/bojanini-friends.png",
-		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
-	"\/Code\/templates\/img\/close.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1337,
-		"inputAbbreviatedPath": "\/Code\/templates\/img\/close.png",
-		"outputAbbreviatedPath": "\/Code\/templates\/img\/close.png",
-		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
-	"\/Code\/templates\/img\/comienza-ya-button.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 0,
-		"inputAbbreviatedPath": "\/Code\/templates\/img\/comienza-ya-button.png",
-		"outputAbbreviatedPath": "\/Code\/templates\/img\/comienza-ya-button.png",
-		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
-	"\/Code\/templates\/img\/comienza.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1916,
-		"inputAbbreviatedPath": "\/Code\/templates\/img\/comienza.png",
-		"outputAbbreviatedPath": "\/Code\/templates\/img\/comienza.png",
-		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
-	"\/Code\/templates\/img\/comienza_over.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1948,
-		"inputAbbreviatedPath": "\/Code\/templates\/img\/comienza_over.png",
-		"outputAbbreviatedPath": "\/Code\/templates\/img\/comienza_over.png",
-		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
-	"\/Code\/templates\/img\/cuadro_2.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1593,
-		"inputAbbreviatedPath": "\/Code\/templates\/img\/cuadro_2.png",
-		"outputAbbreviatedPath": "\/Code\/templates\/img\/cuadro_2.png",
-		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
-	"\/Code\/templates\/img\/cuadro_3.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1109,
-		"inputAbbreviatedPath": "\/Code\/templates\/img\/cuadro_3.png",
-		"outputAbbreviatedPath": "\/Code\/templates\/img\/cuadro_3.png",
-		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
-	"\/Code\/templates\/img\/cuadro_amarillo.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 0,
-		"inputAbbreviatedPath": "\/Code\/templates\/img\/cuadro_amarillo.png",
-		"outputAbbreviatedPath": "\/Code\/templates\/img\/cuadro_amarillo.png",
-		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
-	"\/Code\/templates\/img\/cuadro_seleccion.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1077,
-		"inputAbbreviatedPath": "\/Code\/templates\/img\/cuadro_seleccion.png",
-		"outputAbbreviatedPath": "\/Code\/templates\/img\/cuadro_seleccion.png",
-		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
-	"\/Code\/templates\/img\/enviar.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 0,
-		"inputAbbreviatedPath": "\/Code\/templates\/img\/enviar.png",
-		"outputAbbreviatedPath": "\/Code\/templates\/img\/enviar.png",
-		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
-	"\/Code\/templates\/img\/enviar_over.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1607,
-		"inputAbbreviatedPath": "\/Code\/templates\/img\/enviar_over.png",
-		"outputAbbreviatedPath": "\/Code\/templates\/img\/enviar_over.png",
-		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
-	"\/Code\/templates\/img\/Etapas_hombre\/E1_perfil_H.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 16845,
-		"inputAbbreviatedPath": "\/Code\/templates\/img\/Etapas_hombre\/E1_perfil_H.png",
-		"outputAbbreviatedPath": "\/Code\/templates\/img\/Etapas_hombre\/E1_perfil_H.png",
-		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
-	"\/Code\/templates\/img\/Etapas_hombre\/E1_Top_H.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 12666,
-		"inputAbbreviatedPath": "\/Code\/templates\/img\/Etapas_hombre\/E1_Top_H.png",
-		"outputAbbreviatedPath": "\/Code\/templates\/img\/Etapas_hombre\/E1_Top_H.png",
-		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
-	"\/Code\/templates\/img\/Etapas_hombre\/E2_perfil_H.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 17057,
-		"inputAbbreviatedPath": "\/Code\/templates\/img\/Etapas_hombre\/E2_perfil_H.png",
-		"outputAbbreviatedPath": "\/Code\/templates\/img\/Etapas_hombre\/E2_perfil_H.png",
-		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
-	"\/Code\/templates\/img\/Etapas_hombre\/E2_Top_H.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 16145,
-		"inputAbbreviatedPath": "\/Code\/templates\/img\/Etapas_hombre\/E2_Top_H.png",
-		"outputAbbreviatedPath": "\/Code\/templates\/img\/Etapas_hombre\/E2_Top_H.png",
-		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
-	"\/Code\/templates\/img\/Etapas_hombre\/E3_perfil_H.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 17412,
-		"inputAbbreviatedPath": "\/Code\/templates\/img\/Etapas_hombre\/E3_perfil_H.png",
-		"outputAbbreviatedPath": "\/Code\/templates\/img\/Etapas_hombre\/E3_perfil_H.png",
-		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
-	"\/Code\/templates\/img\/Etapas_hombre\/E3_Top_H.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 14553,
-		"inputAbbreviatedPath": "\/Code\/templates\/img\/Etapas_hombre\/E3_Top_H.png",
-		"outputAbbreviatedPath": "\/Code\/templates\/img\/Etapas_hombre\/E3_Top_H.png",
-		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
-	"\/Code\/templates\/img\/Etapas_hombre\/E3Vertex_perfil_H.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 17515,
-		"inputAbbreviatedPath": "\/Code\/templates\/img\/Etapas_hombre\/E3Vertex_perfil_H.png",
-		"outputAbbreviatedPath": "\/Code\/templates\/img\/Etapas_hombre\/E3Vertex_perfil_H.png",
-		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
-	"\/Code\/templates\/img\/Etapas_hombre\/E3Vertex_Top_H.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 14290,
-		"inputAbbreviatedPath": "\/Code\/templates\/img\/Etapas_hombre\/E3Vertex_Top_H.png",
-		"outputAbbreviatedPath": "\/Code\/templates\/img\/Etapas_hombre\/E3Vertex_Top_H.png",
-		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
-	"\/Code\/templates\/img\/Etapas_hombre\/E4_perfil_H.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 21670,
-		"inputAbbreviatedPath": "\/Code\/templates\/img\/Etapas_hombre\/E4_perfil_H.png",
-		"outputAbbreviatedPath": "\/Code\/templates\/img\/Etapas_hombre\/E4_perfil_H.png",
-		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
-	"\/Code\/templates\/img\/Etapas_hombre\/E4_Top_H.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 15280,
-		"inputAbbreviatedPath": "\/Code\/templates\/img\/Etapas_hombre\/E4_Top_H.png",
-		"outputAbbreviatedPath": "\/Code\/templates\/img\/Etapas_hombre\/E4_Top_H.png",
-		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
-	"\/Code\/templates\/img\/Etapas_hombre\/E5_perfil_H.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 17973,
-		"inputAbbreviatedPath": "\/Code\/templates\/img\/Etapas_hombre\/E5_perfil_H.png",
-		"outputAbbreviatedPath": "\/Code\/templates\/img\/Etapas_hombre\/E5_perfil_H.png",
-		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
-	"\/Code\/templates\/img\/Etapas_hombre\/E5_Top_H.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 15655,
-		"inputAbbreviatedPath": "\/Code\/templates\/img\/Etapas_hombre\/E5_Top_H.png",
-		"outputAbbreviatedPath": "\/Code\/templates\/img\/Etapas_hombre\/E5_Top_H.png",
-		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
-	"\/Code\/templates\/img\/Etapas_hombre\/E6_perfil_H.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 18527,
-		"inputAbbreviatedPath": "\/Code\/templates\/img\/Etapas_hombre\/E6_perfil_H.png",
-		"outputAbbreviatedPath": "\/Code\/templates\/img\/Etapas_hombre\/E6_perfil_H.png",
-		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
-	"\/Code\/templates\/img\/Etapas_hombre\/E6_Top_H.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 19290,
-		"inputAbbreviatedPath": "\/Code\/templates\/img\/Etapas_hombre\/E6_Top_H.png",
-		"outputAbbreviatedPath": "\/Code\/templates\/img\/Etapas_hombre\/E6_Top_H.png",
-		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
-	"\/Code\/templates\/img\/Etapas_hombre\/E7_perfil_H.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 22458,
-		"inputAbbreviatedPath": "\/Code\/templates\/img\/Etapas_hombre\/E7_perfil_H.png",
-		"outputAbbreviatedPath": "\/Code\/templates\/img\/Etapas_hombre\/E7_perfil_H.png",
-		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
-	"\/Code\/templates\/img\/Etapas_hombre\/E7_Top_H.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 15460,
-		"inputAbbreviatedPath": "\/Code\/templates\/img\/Etapas_hombre\/E7_Top_H.png",
-		"outputAbbreviatedPath": "\/Code\/templates\/img\/Etapas_hombre\/E7_Top_H.png",
-		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
-	"\/Code\/templates\/img\/flecha.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 3777,
-		"inputAbbreviatedPath": "\/Code\/templates\/img\/flecha.png",
-		"outputAbbreviatedPath": "\/Code\/templates\/img\/flecha.png",
-		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
-	"\/Code\/templates\/img\/flecha_der.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1849,
-		"inputAbbreviatedPath": "\/Code\/templates\/img\/flecha_der.png",
-		"outputAbbreviatedPath": "\/Code\/templates\/img\/flecha_der.png",
-		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
-	"\/Code\/templates\/img\/flecha_izq.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1907,
-		"inputAbbreviatedPath": "\/Code\/templates\/img\/flecha_izq.png",
-		"outputAbbreviatedPath": "\/Code\/templates\/img\/flecha_izq.png",
-		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
-	"\/Code\/templates\/img\/formulario_texto.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1066,
-		"inputAbbreviatedPath": "\/Code\/templates\/img\/formulario_texto.png",
-		"outputAbbreviatedPath": "\/Code\/templates\/img\/formulario_texto.png",
-		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
-	"\/Code\/templates\/img\/h1.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 10877,
-		"inputAbbreviatedPath": "\/Code\/templates\/img\/h1.png",
-		"outputAbbreviatedPath": "\/Code\/templates\/img\/h1.png",
-		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
-	"\/Code\/templates\/img\/linea-titulo_contenido.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1000,
-		"inputAbbreviatedPath": "\/Code\/templates\/img\/linea-titulo_contenido.png",
-		"outputAbbreviatedPath": "\/Code\/templates\/img\/linea-titulo_contenido.png",
-		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
-	"\/Code\/templates\/img\/linea_cabellos.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1021,
-		"inputAbbreviatedPath": "\/Code\/templates\/img\/linea_cabellos.png",
-		"outputAbbreviatedPath": "\/Code\/templates\/img\/linea_cabellos.png",
-		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
-	"\/Code\/templates\/img\/linea_header_cuadro.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1001,
-		"inputAbbreviatedPath": "\/Code\/templates\/img\/linea_header_cuadro.png",
-		"outputAbbreviatedPath": "\/Code\/templates\/img\/linea_header_cuadro.png",
-		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
-	"\/Code\/templates\/img\/linea_numeros.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1218,
-		"inputAbbreviatedPath": "\/Code\/templates\/img\/linea_numeros.png",
-		"outputAbbreviatedPath": "\/Code\/templates\/img\/linea_numeros.png",
-		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
-	"\/Code\/templates\/img\/linea_promo.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 998,
-		"inputAbbreviatedPath": "\/Code\/templates\/img\/linea_promo.png",
-		"outputAbbreviatedPath": "\/Code\/templates\/img\/linea_promo.png",
-		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
-	"\/Code\/templates\/img\/linea_telefono.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1087,
-		"inputAbbreviatedPath": "\/Code\/templates\/img\/linea_telefono.png",
-		"outputAbbreviatedPath": "\/Code\/templates\/img\/linea_telefono.png",
-		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
-	"\/Code\/templates\/img\/linea_titulo.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1528,
-		"inputAbbreviatedPath": "\/Code\/templates\/img\/linea_titulo.png",
-		"outputAbbreviatedPath": "\/Code\/templates\/img\/linea_titulo.png",
-		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
-	"\/Code\/templates\/img\/logo_boja.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 7416,
-		"inputAbbreviatedPath": "\/Code\/templates\/img\/logo_boja.png",
-		"outputAbbreviatedPath": "\/Code\/templates\/img\/logo_boja.png",
-		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
-	"\/Code\/templates\/img\/logo_international_society.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 11394,
-		"inputAbbreviatedPath": "\/Code\/templates\/img\/logo_international_society.png",
-		"outputAbbreviatedPath": "\/Code\/templates\/img\/logo_international_society.png",
-		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
-	"\/Code\/templates\/img\/logo_members.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 0,
-		"inputAbbreviatedPath": "\/Code\/templates\/img\/logo_members.png",
-		"outputAbbreviatedPath": "\/Code\/templates\/img\/logo_members.png",
-		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
-	"\/Code\/templates\/img\/Modelo_perfil.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 15082,
-		"inputAbbreviatedPath": "\/Code\/templates\/img\/Modelo_perfil.png",
-		"outputAbbreviatedPath": "\/Code\/templates\/img\/Modelo_perfil.png",
-		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
-	"\/Code\/templates\/img\/modelo_top.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 14950,
-		"inputAbbreviatedPath": "\/Code\/templates\/img\/modelo_top.png",
-		"outputAbbreviatedPath": "\/Code\/templates\/img\/modelo_top.png",
-		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
-	"\/Code\/templates\/img\/numeros.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 5914,
-		"inputAbbreviatedPath": "\/Code\/templates\/img\/numeros.png",
-		"outputAbbreviatedPath": "\/Code\/templates\/img\/numeros.png",
-		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
-	"\/Code\/templates\/img\/promo_20.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1979,
-		"inputAbbreviatedPath": "\/Code\/templates\/img\/promo_20.png",
-		"outputAbbreviatedPath": "\/Code\/templates\/img\/promo_20.png",
-		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
-	"\/Code\/templates\/img\/promo_30.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1720,
-		"inputAbbreviatedPath": "\/Code\/templates\/img\/promo_30.png",
-		"outputAbbreviatedPath": "\/Code\/templates\/img\/promo_30.png",
-		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
-	"\/Code\/templates\/img\/promo_40.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1121,
-		"inputAbbreviatedPath": "\/Code\/templates\/img\/promo_40.png",
-		"outputAbbreviatedPath": "\/Code\/templates\/img\/promo_40.png",
-		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
-	"\/Code\/templates\/img\/recuadro_grande.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 2613,
-		"inputAbbreviatedPath": "\/Code\/templates\/img\/recuadro_grande.png",
-		"outputAbbreviatedPath": "\/Code\/templates\/img\/recuadro_grande.png",
-		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
-	"\/Code\/templates\/img\/seleccion-sprite.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 2857,
-		"inputAbbreviatedPath": "\/Code\/templates\/img\/seleccion-sprite.png",
-		"outputAbbreviatedPath": "\/Code\/templates\/img\/seleccion-sprite.png",
-		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
-	"\/Code\/templates\/img\/seleccion.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1165,
-		"inputAbbreviatedPath": "\/Code\/templates\/img\/seleccion.png",
-		"outputAbbreviatedPath": "\/Code\/templates\/img\/seleccion.png",
-		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
-	"\/Code\/templates\/img\/seleccion_over.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 1242,
-		"inputAbbreviatedPath": "\/Code\/templates\/img\/seleccion_over.png",
-		"outputAbbreviatedPath": "\/Code\/templates\/img\/seleccion_over.png",
-		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
-	"\/Code\/templates\/img\/send-button.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 3582,
-		"inputAbbreviatedPath": "\/Code\/templates\/img\/send-button.png",
-		"outputAbbreviatedPath": "\/Code\/templates\/img\/send-button.png",
-		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
-	"\/Code\/templates\/img\/titulo.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 0,
-		"inputAbbreviatedPath": "\/Code\/templates\/img\/titulo.png",
-		"outputAbbreviatedPath": "\/Code\/templates\/img\/titulo.png",
-		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
-	"\/Code\/templates\/img\/weyes.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 811721,
-		"inputAbbreviatedPath": "\/Code\/templates\/img\/weyes.png",
-		"outputAbbreviatedPath": "\/Code\/templates\/img\/weyes.png",
-		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
-	"\/Code\/templates\/img\/weyes_small.png": {
-		"fileType": 32768,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"initialSize": 501557,
-		"inputAbbreviatedPath": "\/Code\/templates\/img\/weyes_small.png",
-		"outputAbbreviatedPath": "\/Code\/templates\/img\/weyes_Small.png",
-		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"outputStyle": 1
 		},
 	"\/Code\/templates\/index.jade": {
 		"compileDebug": 1,
@@ -886,7 +228,7 @@
 		"ignore": 1,
 		"ignoreWasSetByUser": 1,
 		"inputAbbreviatedPath": "\/Code\/templates\/js\/GBLanding.js",
-		"outputAbbreviatedPath": "\/Code\/templates\/js\/GBLanding.min.js",
+		"outputAbbreviatedPath": "\/js\/GBLanding.min.js",
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 2,
 		"syntaxCheckerStyle": 1
@@ -896,17 +238,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/Code\/templates\/js\/main.js",
-		"outputAbbreviatedPath": "\/Code\/templates\/js\/main.min.js",
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 2,
-		"syntaxCheckerStyle": 1
-		},
-	"\/Code\/templates\/js\/main.min.js": {
-		"fileType": 64,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/Code\/templates\/js\/main.min.js",
-		"outputAbbreviatedPath": "\/Code\/templates\/js\/main.min.min.js",
+		"outputAbbreviatedPath": "\/js\/main.min.js",
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 2,
 		"syntaxCheckerStyle": 1
@@ -916,117 +248,87 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/Code\/templates\/js\/plugins.js",
-		"outputAbbreviatedPath": "\/Code\/templates\/js\/plugins.min.js",
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 2,
-		"syntaxCheckerStyle": 1
-		},
-	"\/Code\/templates\/js\/plugins.min.js": {
-		"fileType": 64,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/Code\/templates\/js\/plugins.min.js",
-		"outputAbbreviatedPath": "\/Code\/templates\/js\/plugins.min.min.js",
+		"outputAbbreviatedPath": "\/js\/plugins.min.js",
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 2,
 		"syntaxCheckerStyle": 1
 		},
 	"\/Code\/templates\/js\/vendor\/additional-methods.js": {
 		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
+		"ignore": 1,
+		"ignoreWasSetByUser": 1,
 		"inputAbbreviatedPath": "\/Code\/templates\/js\/vendor\/additional-methods.js",
-		"outputAbbreviatedPath": "\/Code\/templates\/js\/vendor\/additional-methods.min.js",
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 2,
-		"syntaxCheckerStyle": 1
-		},
-	"\/Code\/templates\/js\/vendor\/jquery-1.8.3.min.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/Code\/templates\/js\/vendor\/jquery-1.8.3.min.js",
-		"outputAbbreviatedPath": "\/Code\/templates\/js\/vendor\/jquery-1.8.3.min.min.js",
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 2,
-		"syntaxCheckerStyle": 1
-		},
-	"\/Code\/templates\/js\/vendor\/jquery-1.9.0.min.js": {
-		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/Code\/templates\/js\/vendor\/jquery-1.9.0.min.js",
-		"outputAbbreviatedPath": "\/Code\/templates\/js\/vendor\/jquery-1.9.0.min.min.js",
+		"outputAbbreviatedPath": "\/js\/additional-methods.min.js",
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 2,
 		"syntaxCheckerStyle": 1
 		},
 	"\/Code\/templates\/js\/vendor\/jquery.form.js": {
 		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
+		"ignore": 1,
+		"ignoreWasSetByUser": 1,
 		"inputAbbreviatedPath": "\/Code\/templates\/js\/vendor\/jquery.form.js",
-		"outputAbbreviatedPath": "\/Code\/templates\/js\/vendor\/jquery.form.min.js",
+		"outputAbbreviatedPath": "\/js\/jquery.form.min.js",
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 2,
 		"syntaxCheckerStyle": 1
 		},
 	"\/Code\/templates\/js\/vendor\/jquery.scrollTo-1.4.3.1-min.js": {
 		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
+		"ignore": 1,
+		"ignoreWasSetByUser": 1,
 		"inputAbbreviatedPath": "\/Code\/templates\/js\/vendor\/jquery.scrollTo-1.4.3.1-min.js",
-		"outputAbbreviatedPath": "\/Code\/templates\/js\/vendor\/jquery.scrollTo-1.4.3.1-min.min.js",
+		"outputAbbreviatedPath": "\/js\/jquery.scrollTo-1.4.3.1-min.min.js",
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 2,
 		"syntaxCheckerStyle": 1
 		},
 	"\/Code\/templates\/js\/vendor\/jquery.scrollTo-1.4.3.1.js": {
 		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
+		"ignore": 1,
+		"ignoreWasSetByUser": 1,
 		"inputAbbreviatedPath": "\/Code\/templates\/js\/vendor\/jquery.scrollTo-1.4.3.1.js",
-		"outputAbbreviatedPath": "\/Code\/templates\/js\/vendor\/jquery.scrollTo-1.4.3.1.min.js",
+		"outputAbbreviatedPath": "\/js\/jquery.scrollTo-1.4.3.1.min.js",
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 2,
 		"syntaxCheckerStyle": 1
 		},
 	"\/Code\/templates\/js\/vendor\/jquery.tools.custom.min.js": {
 		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
+		"ignore": 1,
+		"ignoreWasSetByUser": 1,
 		"inputAbbreviatedPath": "\/Code\/templates\/js\/vendor\/jquery.tools.custom.min.js",
-		"outputAbbreviatedPath": "\/Code\/templates\/js\/vendor\/jquery.tools.custom.min.min.js",
+		"outputAbbreviatedPath": "\/js\/jquery.tools.custom.min.min.js",
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 2,
 		"syntaxCheckerStyle": 1
 		},
 	"\/Code\/templates\/js\/vendor\/jquery.tools.min.js": {
 		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
+		"ignore": 1,
+		"ignoreWasSetByUser": 1,
 		"inputAbbreviatedPath": "\/Code\/templates\/js\/vendor\/jquery.tools.min.js",
-		"outputAbbreviatedPath": "\/Code\/templates\/js\/vendor\/jquery.tools.min.min.js",
+		"outputAbbreviatedPath": "\/js\/jquery.tools.min.min.js",
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 2,
 		"syntaxCheckerStyle": 1
 		},
 	"\/Code\/templates\/js\/vendor\/jquery.uniform.js": {
 		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
+		"ignore": 1,
+		"ignoreWasSetByUser": 1,
 		"inputAbbreviatedPath": "\/Code\/templates\/js\/vendor\/jquery.uniform.js",
-		"outputAbbreviatedPath": "\/Code\/templates\/js\/vendor\/jquery.uniform.min.js",
+		"outputAbbreviatedPath": "\/js\/jquery.uniform.min.js",
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 2,
 		"syntaxCheckerStyle": 1
 		},
 	"\/Code\/templates\/js\/vendor\/jquery.validate.js": {
 		"fileType": 64,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
+		"ignore": 1,
+		"ignoreWasSetByUser": 1,
 		"inputAbbreviatedPath": "\/Code\/templates\/js\/vendor\/jquery.validate.js",
-		"outputAbbreviatedPath": "\/Code\/templates\/js\/vendor\/jquery.validate.min.js",
+		"outputAbbreviatedPath": "\/js\/jquery.validate.min.js",
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 2,
 		"syntaxCheckerStyle": 1
@@ -1036,30 +338,40 @@
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/Code\/templates\/js\/vendor\/jquery.validate.min.js",
-		"outputAbbreviatedPath": "\/Code\/templates\/js\/vendor\/jquery.validate.min.min.js",
+		"outputAbbreviatedPath": "\/js\/jquery.validate.min.min.js",
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 2,
 		"syntaxCheckerStyle": 1
 		},
-	"\/Code\/templates\/js\/vendor\/modernizr-2.6.2.min.js": {
-		"fileType": 64,
+	"\/Code\/templates\/scss\/main.scss": {
+		"createSourceMap": 1,
+		"debugStyle": 0,
+		"decimalPrecision": 5,
+		"fileType": 4,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/Code\/templates\/js\/vendor\/modernizr-2.6.2.min.js",
-		"outputAbbreviatedPath": "\/Code\/templates\/js\/vendor\/modernizr-2.6.2.min.min.js",
+		"inputAbbreviatedPath": "\/Code\/templates\/scss\/main.scss",
+		"outputAbbreviatedPath": "\/css\/main.css",
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 2,
-		"syntaxCheckerStyle": 1
+		"outputStyle": 3,
+		"shouldRunAutoprefixer": 1,
+		"shouldRunBless": 1,
+		"useLibsass": 0
 		},
-	"\/Code\/templates\/js\/vendor\/prefixfree.min.js": {
-		"fileType": 64,
-		"ignore": 0,
+	"\/Code\/templates\/scss\/normalize.scss": {
+		"createSourceMap": 1,
+		"debugStyle": 0,
+		"decimalPrecision": 5,
+		"fileType": 4,
+		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/Code\/templates\/js\/vendor\/prefixfree.min.js",
-		"outputAbbreviatedPath": "\/Code\/templates\/js\/vendor\/prefixfree.min.min.js",
+		"inputAbbreviatedPath": "\/Code\/templates\/scss\/normalize.scss",
+		"outputAbbreviatedPath": "\/css\/normalize.css",
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 2,
-		"syntaxCheckerStyle": 1
+		"outputStyle": 3,
+		"shouldRunAutoprefixer": 1,
+		"shouldRunBless": 1,
+		"useLibsass": 0
 		},
 	"\/CONTRIBUTING.md": {
 		"enableFootnoteSupport": 0,
@@ -1070,6 +382,14 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/CONTRIBUTING.md",
 		"outputAbbreviatedPath": "\/CONTRIBUTING.html",
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/main.css": {
+		"fileType": 16,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main.css",
+		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsSetByUser": 0
 		},
 	"\/favicon.png": {
@@ -1090,6 +410,636 @@
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsSetByUser": 0
 		},
+	"\/img\/agenda_tuCita.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2733,
+		"inputAbbreviatedPath": "\/img\/agenda_tuCita.png",
+		"outputAbbreviatedPath": "\/img\/agenda_tuCita.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/atras.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1238,
+		"inputAbbreviatedPath": "\/img\/atras.png",
+		"outputAbbreviatedPath": "\/img\/atras.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/background.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1170,
+		"inputAbbreviatedPath": "\/img\/background.jpg",
+		"outputAbbreviatedPath": "\/img\/background.jpg",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/background_lightbox.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 921,
+		"inputAbbreviatedPath": "\/img\/background_lightbox.png",
+		"outputAbbreviatedPath": "\/img\/background_lightbox.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/BG.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 19499,
+		"inputAbbreviatedPath": "\/img\/BG.png",
+		"outputAbbreviatedPath": "\/img\/BG.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/bg_boja.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 732543,
+		"inputAbbreviatedPath": "\/img\/bg_boja.jpg",
+		"outputAbbreviatedPath": "\/img\/bg_boja.jpg",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/bojanini-friends.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.16281e+06,
+		"inputAbbreviatedPath": "\/img\/bojanini-friends.png",
+		"outputAbbreviatedPath": "\/img\/bojanini-friends.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/close.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1337,
+		"inputAbbreviatedPath": "\/img\/close.png",
+		"outputAbbreviatedPath": "\/img\/close.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/comienza-ya-button.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 4100,
+		"inputAbbreviatedPath": "\/img\/comienza-ya-button.png",
+		"outputAbbreviatedPath": "\/img\/comienza-ya-button.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/comienza.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1916,
+		"inputAbbreviatedPath": "\/img\/comienza.png",
+		"outputAbbreviatedPath": "\/img\/comienza.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/comienza_over.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1948,
+		"inputAbbreviatedPath": "\/img\/comienza_over.png",
+		"outputAbbreviatedPath": "\/img\/comienza_over.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/cuadro_2.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1593,
+		"inputAbbreviatedPath": "\/img\/cuadro_2.png",
+		"outputAbbreviatedPath": "\/img\/cuadro_2.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/cuadro_3.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1109,
+		"inputAbbreviatedPath": "\/img\/cuadro_3.png",
+		"outputAbbreviatedPath": "\/img\/cuadro_3.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/cuadro_amarillo.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1805,
+		"inputAbbreviatedPath": "\/img\/cuadro_amarillo.png",
+		"outputAbbreviatedPath": "\/img\/cuadro_amarillo.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/cuadro_seleccion.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1077,
+		"inputAbbreviatedPath": "\/img\/cuadro_seleccion.png",
+		"outputAbbreviatedPath": "\/img\/cuadro_seleccion.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/enviar.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1533,
+		"inputAbbreviatedPath": "\/img\/enviar.png",
+		"outputAbbreviatedPath": "\/img\/enviar.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/enviar_over.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1607,
+		"inputAbbreviatedPath": "\/img\/enviar_over.png",
+		"outputAbbreviatedPath": "\/img\/enviar_over.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/Etapas_hombre\/E1_perfil_H.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 16845,
+		"inputAbbreviatedPath": "\/img\/Etapas_hombre\/E1_perfil_H.png",
+		"outputAbbreviatedPath": "\/img\/Etapas_hombre\/E1_perfil_H.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/Etapas_hombre\/E1_Top_H.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 12666,
+		"inputAbbreviatedPath": "\/img\/Etapas_hombre\/E1_Top_H.png",
+		"outputAbbreviatedPath": "\/img\/Etapas_hombre\/E1_Top_H.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/Etapas_hombre\/E2_perfil_H.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 17057,
+		"inputAbbreviatedPath": "\/img\/Etapas_hombre\/E2_perfil_H.png",
+		"outputAbbreviatedPath": "\/img\/Etapas_hombre\/E2_perfil_H.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/Etapas_hombre\/E2_Top_H.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 13260,
+		"inputAbbreviatedPath": "\/img\/Etapas_hombre\/E2_Top_H.png",
+		"outputAbbreviatedPath": "\/img\/Etapas_hombre\/E2_Top_H.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/Etapas_hombre\/E3_perfil_H.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 17412,
+		"inputAbbreviatedPath": "\/img\/Etapas_hombre\/E3_perfil_H.png",
+		"outputAbbreviatedPath": "\/img\/Etapas_hombre\/E3_perfil_H.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/Etapas_hombre\/E3_Top_H.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 14553,
+		"inputAbbreviatedPath": "\/img\/Etapas_hombre\/E3_Top_H.png",
+		"outputAbbreviatedPath": "\/img\/Etapas_hombre\/E3_Top_H.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/Etapas_hombre\/E3Vertex_perfil_H.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 17515,
+		"inputAbbreviatedPath": "\/img\/Etapas_hombre\/E3Vertex_perfil_H.png",
+		"outputAbbreviatedPath": "\/img\/Etapas_hombre\/E3Vertex_perfil_H.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/Etapas_hombre\/E3Vertex_Top_H.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 14885,
+		"inputAbbreviatedPath": "\/img\/Etapas_hombre\/E3Vertex_Top_H.png",
+		"outputAbbreviatedPath": "\/img\/Etapas_hombre\/E3Vertex_Top_H.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/Etapas_hombre\/E4_perfil_H.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 17824,
+		"inputAbbreviatedPath": "\/img\/Etapas_hombre\/E4_perfil_H.png",
+		"outputAbbreviatedPath": "\/img\/Etapas_hombre\/E4_perfil_H.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/Etapas_hombre\/E4_Top_H.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 15280,
+		"inputAbbreviatedPath": "\/img\/Etapas_hombre\/E4_Top_H.png",
+		"outputAbbreviatedPath": "\/img\/Etapas_hombre\/E4_Top_H.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/Etapas_hombre\/E5_perfil_H.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 17973,
+		"inputAbbreviatedPath": "\/img\/Etapas_hombre\/E5_perfil_H.png",
+		"outputAbbreviatedPath": "\/img\/Etapas_hombre\/E5_perfil_H.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/Etapas_hombre\/E5_Top_H.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 15709,
+		"inputAbbreviatedPath": "\/img\/Etapas_hombre\/E5_Top_H.png",
+		"outputAbbreviatedPath": "\/img\/Etapas_hombre\/E5_Top_H.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/Etapas_hombre\/E6_perfil_H.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 18527,
+		"inputAbbreviatedPath": "\/img\/Etapas_hombre\/E6_perfil_H.png",
+		"outputAbbreviatedPath": "\/img\/Etapas_hombre\/E6_perfil_H.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/Etapas_hombre\/E6_Top_H.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 15827,
+		"inputAbbreviatedPath": "\/img\/Etapas_hombre\/E6_Top_H.png",
+		"outputAbbreviatedPath": "\/img\/Etapas_hombre\/E6_Top_H.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/Etapas_hombre\/E7_perfil_H.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 18414,
+		"inputAbbreviatedPath": "\/img\/Etapas_hombre\/E7_perfil_H.png",
+		"outputAbbreviatedPath": "\/img\/Etapas_hombre\/E7_perfil_H.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/Etapas_hombre\/E7_Top_H.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 15460,
+		"inputAbbreviatedPath": "\/img\/Etapas_hombre\/E7_Top_H.png",
+		"outputAbbreviatedPath": "\/img\/Etapas_hombre\/E7_Top_H.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/flecha.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3777,
+		"inputAbbreviatedPath": "\/img\/flecha.png",
+		"outputAbbreviatedPath": "\/img\/flecha.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/flecha_der.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1849,
+		"inputAbbreviatedPath": "\/img\/flecha_der.png",
+		"outputAbbreviatedPath": "\/img\/flecha_der.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/flecha_izq.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1907,
+		"inputAbbreviatedPath": "\/img\/flecha_izq.png",
+		"outputAbbreviatedPath": "\/img\/flecha_izq.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/formulario_texto.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1066,
+		"inputAbbreviatedPath": "\/img\/formulario_texto.png",
+		"outputAbbreviatedPath": "\/img\/formulario_texto.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/h1.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 10877,
+		"inputAbbreviatedPath": "\/img\/h1.png",
+		"outputAbbreviatedPath": "\/img\/h1.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/linea-titulo_contenido.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1000,
+		"inputAbbreviatedPath": "\/img\/linea-titulo_contenido.png",
+		"outputAbbreviatedPath": "\/img\/linea-titulo_contenido.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/linea_cabellos.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1021,
+		"inputAbbreviatedPath": "\/img\/linea_cabellos.png",
+		"outputAbbreviatedPath": "\/img\/linea_cabellos.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/linea_header_cuadro.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1001,
+		"inputAbbreviatedPath": "\/img\/linea_header_cuadro.png",
+		"outputAbbreviatedPath": "\/img\/linea_header_cuadro.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/linea_numeros.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1218,
+		"inputAbbreviatedPath": "\/img\/linea_numeros.png",
+		"outputAbbreviatedPath": "\/img\/linea_numeros.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/linea_promo.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 998,
+		"inputAbbreviatedPath": "\/img\/linea_promo.png",
+		"outputAbbreviatedPath": "\/img\/linea_promo.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/linea_telefono.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1087,
+		"inputAbbreviatedPath": "\/img\/linea_telefono.png",
+		"outputAbbreviatedPath": "\/img\/linea_telefono.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/linea_titulo.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1528,
+		"inputAbbreviatedPath": "\/img\/linea_titulo.png",
+		"outputAbbreviatedPath": "\/img\/linea_titulo.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/logo-ESHRS.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2875,
+		"inputAbbreviatedPath": "\/img\/logo-ESHRS.jpg",
+		"outputAbbreviatedPath": "\/img\/logo-ESHRS.jpg",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/logo_boja.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 7416,
+		"inputAbbreviatedPath": "\/img\/logo_boja.png",
+		"outputAbbreviatedPath": "\/img\/logo_boja.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/logo_international_society.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 11394,
+		"inputAbbreviatedPath": "\/img\/logo_international_society.png",
+		"outputAbbreviatedPath": "\/img\/logo_international_society.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/logo_members.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8923,
+		"inputAbbreviatedPath": "\/img\/logo_members.png",
+		"outputAbbreviatedPath": "\/img\/logo_members.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/Modelo_perfil.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 15082,
+		"inputAbbreviatedPath": "\/img\/Modelo_perfil.png",
+		"outputAbbreviatedPath": "\/img\/Modelo_perfil.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/modelo_top.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 14950,
+		"inputAbbreviatedPath": "\/img\/modelo_top.png",
+		"outputAbbreviatedPath": "\/img\/modelo_top.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/numeros.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 5914,
+		"inputAbbreviatedPath": "\/img\/numeros.png",
+		"outputAbbreviatedPath": "\/img\/numeros.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/promo_20.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1979,
+		"inputAbbreviatedPath": "\/img\/promo_20.png",
+		"outputAbbreviatedPath": "\/img\/promo_20.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/promo_30.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1720,
+		"inputAbbreviatedPath": "\/img\/promo_30.png",
+		"outputAbbreviatedPath": "\/img\/promo_30.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/promo_40.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1121,
+		"inputAbbreviatedPath": "\/img\/promo_40.png",
+		"outputAbbreviatedPath": "\/img\/promo_40.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/recuadro_grande.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2613,
+		"inputAbbreviatedPath": "\/img\/recuadro_grande.png",
+		"outputAbbreviatedPath": "\/img\/recuadro_grande.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/seleccion-sprite.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2857,
+		"inputAbbreviatedPath": "\/img\/seleccion-sprite.png",
+		"outputAbbreviatedPath": "\/img\/seleccion-sprite.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/seleccion.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1165,
+		"inputAbbreviatedPath": "\/img\/seleccion.png",
+		"outputAbbreviatedPath": "\/img\/seleccion.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/seleccion_over.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1242,
+		"inputAbbreviatedPath": "\/img\/seleccion_over.png",
+		"outputAbbreviatedPath": "\/img\/seleccion_over.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/send-button.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3582,
+		"inputAbbreviatedPath": "\/img\/send-button.png",
+		"outputAbbreviatedPath": "\/img\/send-button.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/titulo.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 10090,
+		"inputAbbreviatedPath": "\/img\/titulo.png",
+		"outputAbbreviatedPath": "\/img\/titulo.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/weyes.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 811721,
+		"inputAbbreviatedPath": "\/img\/weyes.png",
+		"outputAbbreviatedPath": "\/img\/weyes.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/weyes_small.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 499801,
+		"inputAbbreviatedPath": "\/img\/weyes_small.png",
+		"outputAbbreviatedPath": "\/img\/weyes_small.png",
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/index.html": {
 		"fileType": 8192,
 		"ignore": 1,
@@ -1097,6 +1047,66 @@
 		"inputAbbreviatedPath": "\/index.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsSetByUser": 0
+		},
+	"\/js\/main.min.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/main.min.js",
+		"outputAbbreviatedPath": "\/js\/main.min.min.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 2,
+		"syntaxCheckerStyle": 1
+		},
+	"\/js\/plugins.min.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/plugins.min.js",
+		"outputAbbreviatedPath": "\/js\/plugins.min.min.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 2,
+		"syntaxCheckerStyle": 1
+		},
+	"\/js\/vendor\/jquery-1.8.3.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/vendor\/jquery-1.8.3.min.js",
+		"outputAbbreviatedPath": "\/js\/jquery-1.8.3.min.min.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 2,
+		"syntaxCheckerStyle": 1
+		},
+	"\/js\/vendor\/jquery-1.9.0.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/vendor\/jquery-1.9.0.min.js",
+		"outputAbbreviatedPath": "\/js\/jquery-1.9.0.min.min.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 2,
+		"syntaxCheckerStyle": 1
+		},
+	"\/js\/vendor\/modernizr-2.6.2.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/vendor\/modernizr-2.6.2.min.js",
+		"outputAbbreviatedPath": "\/js\/modernizr-2.6.2.min.min.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 2,
+		"syntaxCheckerStyle": 1
+		},
+	"\/js\/vendor\/prefixfree.min.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/js\/vendor\/prefixfree.min.js",
+		"outputAbbreviatedPath": "\/js\/prefixfree.min.min.js",
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 2,
+		"syntaxCheckerStyle": 1
 		},
 	"\/LICENSE.md": {
 		"enableFootnoteSupport": 0,
@@ -1125,48 +1135,10 @@
 	],
 "lastSavedByUser": "Jesús Antonio García Valadez",
 "manualImportLinks": {
-	"\/Code\/templates\/js\/plugins.js": [
-		{
-			"followForSyntaxChecking": 1,
-			"linkedFileAbbreviatedPath": "\/Code\/templates\/js\/vendor\/jquery.uniform.js",
-			"position": 0,
-			"type": 1
-			},
-		{
-			"followForSyntaxChecking": 1,
-			"linkedFileAbbreviatedPath": "\/Code\/templates\/js\/vendor\/jquery.form.js",
-			"position": 1,
-			"type": 1
-			},
-		{
-			"followForSyntaxChecking": 1,
-			"linkedFileAbbreviatedPath": "\/Code\/templates\/js\/vendor\/jquery.validate.js",
-			"position": 2,
-			"type": 1
-			},
-		{
-			"followForSyntaxChecking": 1,
-			"linkedFileAbbreviatedPath": "\/Code\/templates\/js\/vendor\/additional-methods.js",
-			"position": 3,
-			"type": 1
-			},
-		{
-			"followForSyntaxChecking": 1,
-			"linkedFileAbbreviatedPath": "\/Code\/templates\/js\/vendor\/jquery.tools.custom.min.js",
-			"position": 4,
-			"type": 1
-			},
-		{
-			"followForSyntaxChecking": 1,
-			"linkedFileAbbreviatedPath": "\/Code\/templates\/js\/GBLanding.js",
-			"position": 5,
-			"type": 1
-			}
-		]
 	},
 "projectAttributes": {
 	"bowerAbbreviatedPath": "",
-	"displayValue": "New Giovanni Bojanini Landing",
+	"displayValue": "Giovanni Bojanini Landing Microinjerto",
 	"displayValueWasSetByUser": 1,
 	"iconImageName": "meme-facepalm"
 	},
@@ -1177,10 +1149,10 @@
 	"autoprefixerBrowserString": "> 1%, last 2 versions, ff 17, opera 12.1",
 	"autoSyncProjectSettingsFile": 1,
 	"browserRefreshDelay": 0,
-	"coffeeAutoOutputPathRelativePath": "..\/",
+	"coffeeAutoOutputPathRelativePath": "js",
 	"coffeeAutoOutputPathReplace1": "",
 	"coffeeAutoOutputPathReplace2": "",
-	"coffeeAutoOutputPathStyle": 2,
+	"coffeeAutoOutputPathStyle": 1,
 	"coffeeCreateSourceMap": 1,
 	"coffeeLintFlags2": {
 		"arrow_spacing": {
@@ -1297,21 +1269,21 @@
 	"hamlUseCDATA": 0,
 	"hamlUseDoubleQuotes": 1,
 	"hamlUseUnixNewlines": 0,
-	"jadeAutoOutputPathRelativePath": "..\/..\/",
+	"jadeAutoOutputPathRelativePath": "..\/",
 	"jadeAutoOutputPathReplace1": "",
 	"jadeAutoOutputPathReplace2": "",
-	"jadeAutoOutputPathStyle": 2,
+	"jadeAutoOutputPathStyle": 1,
 	"jadeCompileDebug": 1,
-	"jadeOutputStyle": 0,
-	"javascriptAutoOutputPathRelativePath": "\/",
+	"jadeOutputStyle": 1,
+	"javascriptAutoOutputPathRelativePath": "\/js",
 	"javascriptAutoOutputPathReplace1": "",
 	"javascriptAutoOutputPathReplace2": "",
-	"javascriptAutoOutputPathStyle": 0,
+	"javascriptAutoOutputPathStyle": 1,
 	"javascriptCreateSourceMap": 1,
 	"javascriptOutputStyle": 2,
 	"javascriptOutputSuffix": ".min",
 	"javascriptSyntaxCheckerStyle": 1,
-	"jsCheckerReservedNamesString": "jQuery,$,_",
+	"jsCheckerReservedNamesString": "jQuery,$,_,GBLanding:write,_GBLanding:write,_selector:write,selector:write,_class:write,_title:write,_markup:write,_options:write,elemLeft:write,_comment:write,_valueChange:write,_durationInSec:write,_scrollYOffset:write,_offsetTop:write,_classToFix:write,_classToDeFix:write,toFix:write,toDeFix:write,_selectorToApply:write,",
 	"jsHintFlags2": {
 		"asi": {
 			"active": 0,
@@ -1624,7 +1596,7 @@
 			"flagValue": -1
 			},
 		"devel": {
-			"active": 0,
+			"active": 1,
 			"flagValue": -1
 			},
 		"eqeq": {
@@ -1692,7 +1664,7 @@
 			"flagValue": -1
 			},
 		"unparam": {
-			"active": 0,
+			"active": 1,
 			"flagValue": -1
 			},
 		"vars": {
@@ -1729,10 +1701,10 @@
 	"markdownEnableSmartyPants": 1,
 	"markdownExpandTabs": 1,
 	"reloadFileURLs": 1,
-	"sassAutoOutputPathRelativePath": "..\/",
+	"sassAutoOutputPathRelativePath": "css",
 	"sassAutoOutputPathReplace1": "sass",
 	"sassAutoOutputPathReplace2": "css",
-	"sassAutoOutputPathStyle": 2,
+	"sassAutoOutputPathStyle": 1,
 	"sassCreateSourceMap": 1,
 	"sassDebugStyle": 0,
 	"sassDecimalPrecision": 5,
