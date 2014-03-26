@@ -129,6 +129,7 @@ textarea {
     font-weight: normal;
     font-style: normal;
 }   // Helvetica_Neue_LT_STD_Bold_Condensed
+
 @font-face {
     font-family: 'Helvetica_Neue_LT_STD_Condensed';
     src: url('fonts/HelveticaNeueLTStd_Cn.eot');
@@ -158,7 +159,7 @@ textarea {
          url('fonts/HelveticaNeueLTStd_Roman.svg#Helvetica_Neue_LT_STD_Roman') format('svg');
     font-weight: normal;
     font-style: normal;
-}   // Helvetica_Neue_LT_STD_Roman
+}   // Helvetica_Neue_LT_STD_Roman 
 $HelveticaUltraLight:       'Helvetica_Neue_LT_STD_Ultra_Light_Condensed',Helvetica,Arial,'sans-serif';
 $HelveticaLightCondensed:   'Helvetica_Neue_LT_STD_Light_Condensed',Helvetica,Arial,'sans-serif';
 $HelveticaBoldCondensed:    'Helvetica_Neue_LT_STD_Bold_Condensed',Helvetica,Arial,'sans-serif';
@@ -334,7 +335,7 @@ html,body{
             }
             h1{
                 @include font-mask( #000, em( 63, 16 ), em( 28, 63 ), normal, $HelveticaUltraLight );
-                letter-spacing: em( 16, 63 );
+                letter-spacing: em( 7, 63 );
                 padding: 20px 0 0;
                 text-align: center;
                 strong{ font-family: $HelveticaBoldCondensed; }
@@ -347,8 +348,8 @@ html,body{
                 padding: 0;
             }
             h2{
-                @include font-mask( #000, em( 18, 16 ), em( 18, 23.1 ), normal, $HelveticaLightCondensed );
-                letter-spacing: 24.8px;
+                @include font-mask( #000, em( 18, 16 ), em( 18, 18 ), normal, $HelveticaLightCondensed );
+                letter-spacing: em( 20.8, 18 );
                 padding: 0 0 10px;
                 text-align: center;
             }
@@ -406,7 +407,7 @@ html,body{
                         strong{ font-family: $HelveticaBoldCondensed; font-weight: normal; }
                     }
                     .discount{
-                        @include font-mask( $white !important, em( 60, 16 ), em( 54.85, 60 ), normal, $HelveticaBoldCondensed );
+                        @include font-mask( $white !important, em( 65, 16 ) !important, em( 54.85, 65 ), normal, $HelveticaBoldCondensed );
                         padding: 0 !important;
                     }
                 }
@@ -423,7 +424,7 @@ html,body{
                         strong{}
                     }
                     p.discount{
-                        font-size: em( 70, 16 ) !important;
+                        font-size: em( 65, 16 ) !important;
                         line-height: em( 54.85, 70 ) !important;
                         padding: 19px 10px 0 !important;
                     }
@@ -440,7 +441,6 @@ html,body{
                         strong{}
                     }
                     p.discount{
-                        font-size: em( 70, 16 );
                         letter-spacing: 0.1px;
                         padding: 23px 14px 0 !important;
                     }
@@ -457,7 +457,6 @@ html,body{
                         strong{}
                     }
                     p.discount{
-                        font-size: em( 70, 16 );
                         letter-spacing: 0.1px;
                         padding: 20px 12px 0 13px !important;
                     }
@@ -470,7 +469,7 @@ html,body{
                     width: 100%;
                     p{
                         @include font-mask( $white, em( 12, 16 ), em( 24, 12 ), normal, $HelveticaLightCondensed );
-                        letter-spacing: em( 12, 12 );
+                        letter-spacing: em( 11, 12 );
                         padding: em( 5, 12 ) 0 0;
                         text-align: center;
                         strong{ font-family: $HelveticaBoldCondensed; font-weight: normal; }
@@ -543,14 +542,14 @@ html,body{
                                     position: absolute;
                                     width: em( 270, 16 );
                                     label{
-                                        @include font-mask( $text_gray, em( 16.7, 16 ), em( 32, 16.7 ), normal, $HelveticaCondensed );
+                                        @include font-mask( $text_gray, em( 16, 16 ), em( 32, 16 ), normal, $HelveticaCondensed );
                                         display: inline-block;
                                         left: -10px;
                                         letter-spacing: 0.1px;
                                         padding: 0 12px 0 0;
                                         position: absolute;
                                         text-transform: uppercase;
-                                        strong{ font-family: $HelveticaBoldCondensed; font-weight: normal; }
+                                        strong{ font-family: $HelveticaBoldCondensed; font-size: em( 14, 16 ); font-weight: normal; }
                                     }
                                     .radio{
                                         display: inline-block;
@@ -641,12 +640,12 @@ html,body{
                     width: 421px;
                     z-index: 0;
                     h4{
-                        @include font-mask( $white, em( 40, 16 ), em( 43, 40 ), normal, $HelveticaLightCondensed );
+                        @include font-mask( $white, em( 30, 16 ), em( 43, 30 ), normal, $HelveticaLightCondensed );
                         background: #494949;
                         display: inline-block;
-                        letter-spacing: em( 2, 40 );
+                        letter-spacing: em( 2, 30 );
                         margin: 0;
-                        padding: em( 13.33, 40 ) 0 0;
+                        padding: em( 13.33, 30 ) 0 0;
                         text-indent: em( 35, 30 );
                         text-transform: uppercase;
                         width: 100%;
@@ -695,8 +694,8 @@ html,body{
                         width: 361px;
                     }
                     .promotions_link{
-                        @include font-mask( $white, em( 17.75, 16 ), em( 15, 17.75 ), normal, $HelveticaLightCondensed );
-                        bottom: em( 15, 17.75 );
+                        @include font-mask( $white, em( 13, 16 ), em( 15, 13 ), normal, $HelveticaLightCondensed );
+                        bottom: em( 15, 13 );
                         clear: both;
                         display: block;
                         text-transform: uppercase;
@@ -727,13 +726,13 @@ html,body{
                     right: -421px;
                     top: 0;
                     h4{
-                        @include font-mask( $white, em( 35, 16 ), em( 43, 35 ), normal, $HelveticaLightCondensed );
+                        @include font-mask( $white, em( 28, 16 ), em( 43, 28 ), normal, $HelveticaLightCondensed );
                         background: #494949;
                         display: inline-block;
-                        letter-spacing: em( 0.5, 35 );
+                        letter-spacing: em( 0.5, 28 );
                         margin: 0;
-                        padding: em( 13.33, 35 ) 0 0;
-                        text-indent: em( 35, 35 );
+                        padding: em( 13.33, 28 ) 0 0;
+                        text-indent: em( 35, 28 );
                         text-transform: uppercase;
                         width: 100%;
                         strong{ font-family: $HelveticaBoldCondensed; font-weight: normal; }
@@ -810,7 +809,7 @@ html,body{
                         padding: 35px 15px 0 20px;
                         width: 219px;
                         h5{
-                            @include font-mask( $white, em( 23, 16 ), em( 13, 23 ), normal, $HelveticaLightCondensed );
+                            @include font-mask( $white, em( 20, 16 ), em( 13, 20 ), normal, $HelveticaLightCondensed );
                             margin: 0;
                             padding: 0 0 12px;
                             text-align: right;
@@ -818,13 +817,13 @@ html,body{
                             strong{ color: $yellow; font-family: $HelveticaBoldCondensed; font-weight: normal; }
                         }
                         p{
-                            @include font-mask( $white, em( 10.67, 16 ), em( 12, 10.67 ), normal, $HelveticaLightCondensed );
+                            @include font-mask( $white, em( 10, 16 ), em( 12, 10 ), normal, $HelveticaLightCondensed );
                             margin: 0;
                             padding: 0;
                             text-align: right;
                         }
                         p.branch_phone{
-                            @include font-mask( $white, em( 15.8, 16 ), em( 26, 15.8 ), normal, $HelveticaLightCondensed );
+                            @include font-mask( $white, em( 15, 16 ), em( 26, 15 ), normal, $HelveticaLightCondensed );
                             letter-spacing: 0.7px;
                             margin: 0;
                             padding: 0;

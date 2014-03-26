@@ -25,7 +25,7 @@ class Review extends Model {
             'budget_mail' => array( 
                 'requerido' => 1, 'validador' => 'esEmail', 'mensaje' => utf8_encode( 'El mail es obligatoria.' ) ),
             'type' => array( 
-                'requerido' => 1, 'validador' => 'esNumerico', 'mensaje' => utf8_encode( 'El tipo es obligatorio.' ) ),
+                'requerido' => 1, 'validador' => 'esAlfaNumerico', 'mensaje' => utf8_encode( 'El tipo es obligatorio.' ) ),
         );
         
         $form = new Validator( $info, $parameters );
