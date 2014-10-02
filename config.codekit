@@ -1,6 +1,6 @@
 {
 "CodeKitInfo": "This is a CodeKit 2.x project configuration file. It is designed to sync project settings across multiple machines. MODIFYING THE CONTENTS OF THIS FILE IS A POOR LIFE DECISION. If you do so, you will likely cause CodeKit to crash. This file is not useful unless accompanied by the project that created it in CodeKit 2. This file is not backwards-compatible with CodeKit 1.x. For more information, see: http:\/\/incident57.com\/codekit",
-"creatorBuild": "17682",
+"creatorBuild": "17945",
 "files": {
 	"\/404.html": {
 		"fileType": 8192,
@@ -20,7 +20,7 @@
 		"outputAbbreviatedPath": "\/apple-touch-icon-114x114-precomposed.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/apple-touch-icon-144x144-precomposed.png": {
 		"fileType": 32768,
@@ -31,7 +31,7 @@
 		"outputAbbreviatedPath": "\/apple-touch-icon-144x144-precomposed.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/apple-touch-icon-57x57-precomposed.png": {
 		"fileType": 32768,
@@ -42,7 +42,7 @@
 		"outputAbbreviatedPath": "\/apple-touch-icon-57x57-precomposed.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/apple-touch-icon-72x72-precomposed.png": {
 		"fileType": 32768,
@@ -53,7 +53,7 @@
 		"outputAbbreviatedPath": "\/apple-touch-icon-72x72-precomposed.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/apple-touch-icon-precomposed.png": {
 		"fileType": 32768,
@@ -64,7 +64,7 @@
 		"outputAbbreviatedPath": "\/apple-touch-icon-precomposed.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/apple-touch-icon.png": {
 		"fileType": 32768,
@@ -75,15 +75,15 @@
 		"outputAbbreviatedPath": "\/apple-touch-icon.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/CHANGELOG.md": {
 		"enableFootnoteSupport": 0,
 		"enableSmartyPants": 1,
 		"expandTabs": 1,
 		"fileType": 4096,
-		"ignore": 1,
-		"ignoreWasSetByUser": 1,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/CHANGELOG.md",
 		"outputAbbreviatedPath": "\/CHANGELOG.html",
 		"outputPathIsOutsideProject": 0,
@@ -224,7 +224,7 @@
 		"outputAbbreviatedPath": "\/autodiagnostic_module.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
+		"outputStyle": 0
 		},
 	"\/Code\/templates\/footer.jade": {
 		"compileDebug": 1,
@@ -235,7 +235,7 @@
 		"outputAbbreviatedPath": "\/footer.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
+		"outputStyle": 0
 		},
 	"\/Code\/templates\/head.jade": {
 		"compileDebug": 1,
@@ -246,7 +246,7 @@
 		"outputAbbreviatedPath": "\/head.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
+		"outputStyle": 0
 		},
 	"\/Code\/templates\/header.jade": {
 		"compileDebug": 1,
@@ -257,29 +257,29 @@
 		"outputAbbreviatedPath": "\/header.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
+		"outputStyle": 0
 		},
 	"\/Code\/templates\/index.jade": {
 		"compileDebug": 1,
 		"fileType": 512,
 		"ignore": 0,
-		"ignoreWasSetByUser": 1,
+		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/Code\/templates\/index.jade",
 		"outputAbbreviatedPath": "\/index.html",
 		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
+		"outputPathIsSetByUser": 1,
+		"outputStyle": 0
 		},
 	"\/Code\/templates\/index_agosto.jade": {
 		"compileDebug": 1,
 		"fileType": 512,
-		"ignore": 1,
+		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/Code\/templates\/index_agosto.jade",
 		"outputAbbreviatedPath": "\/index_agosto.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
+		"outputStyle": 0
 		},
 	"\/Code\/templates\/index_banamex.jade": {
 		"compileDebug": 1,
@@ -290,7 +290,7 @@
 		"outputAbbreviatedPath": "\/index_banamex.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
+		"outputStyle": 0
 		},
 	"\/Code\/templates\/index_junio.jade": {
 		"compileDebug": 1,
@@ -301,28 +301,39 @@
 		"outputAbbreviatedPath": "\/index_junio.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
+		"outputStyle": 0
 		},
 	"\/Code\/templates\/index_normal.jade": {
 		"compileDebug": 1,
 		"fileType": 512,
-		"ignore": 1,
-		"ignoreWasSetByUser": 1,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/Code\/templates\/index_normal.jade",
 		"outputAbbreviatedPath": "\/index_normal.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
+		"outputStyle": 0
+		},
+	"\/Code\/templates\/index_october.jade": {
+		"compileDebug": 1,
+		"fileType": 512,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Code\/templates\/index_october.jade",
+		"outputAbbreviatedPath": "\/index_october.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0
 		},
 	"\/Code\/templates\/js\/GBLanding.js": {
 		"fileType": 64,
 		"ignore": 1,
-		"ignoreWasSetByUser": 1,
+		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/Code\/templates\/js\/GBLanding.js",
-		"outputAbbreviatedPath": "\/js\/GBLanding.min.js",
+		"outputAbbreviatedPath": "\/js\/GBLanding-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 2,
+		"outputStyle": 0,
 		"syntaxCheckerStyle": 1
 		},
 	"\/Code\/templates\/js\/main.js": {
@@ -330,10 +341,10 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/Code\/templates\/js\/main.js",
-		"outputAbbreviatedPath": "\/js\/main.min.js",
+		"outputAbbreviatedPath": "\/js\/main-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 2,
+		"outputStyle": 0,
 		"syntaxCheckerStyle": 1
 		},
 	"\/Code\/templates\/js\/plugins.js": {
@@ -341,109 +352,109 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/Code\/templates\/js\/plugins.js",
-		"outputAbbreviatedPath": "\/js\/plugins.min.js",
+		"outputAbbreviatedPath": "\/js\/plugins-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 2,
+		"outputStyle": 0,
 		"syntaxCheckerStyle": 1
 		},
 	"\/Code\/templates\/js\/vendor\/additional-methods.js": {
 		"fileType": 64,
-		"ignore": 1,
-		"ignoreWasSetByUser": 1,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/Code\/templates\/js\/vendor\/additional-methods.js",
-		"outputAbbreviatedPath": "\/js\/additional-methods.min.js",
+		"outputAbbreviatedPath": "\/js\/additional-methods-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 2,
+		"outputStyle": 0,
 		"syntaxCheckerStyle": 1
 		},
 	"\/Code\/templates\/js\/vendor\/jquery.form.js": {
 		"fileType": 64,
-		"ignore": 1,
-		"ignoreWasSetByUser": 1,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/Code\/templates\/js\/vendor\/jquery.form.js",
-		"outputAbbreviatedPath": "\/js\/jquery.form.min.js",
+		"outputAbbreviatedPath": "\/js\/jquery.form-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 2,
+		"outputStyle": 0,
 		"syntaxCheckerStyle": 1
 		},
 	"\/Code\/templates\/js\/vendor\/jquery.scrollTo-1.4.3.1-min.js": {
 		"fileType": 64,
-		"ignore": 1,
-		"ignoreWasSetByUser": 1,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/Code\/templates\/js\/vendor\/jquery.scrollTo-1.4.3.1-min.js",
-		"outputAbbreviatedPath": "\/js\/jquery.scrollTo-1.4.3.1-min.min.js",
+		"outputAbbreviatedPath": "\/js\/jquery.scrollTo-1.4.3.1-min-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 2,
+		"outputStyle": 0,
 		"syntaxCheckerStyle": 1
 		},
 	"\/Code\/templates\/js\/vendor\/jquery.scrollTo-1.4.3.1.js": {
 		"fileType": 64,
-		"ignore": 1,
-		"ignoreWasSetByUser": 1,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/Code\/templates\/js\/vendor\/jquery.scrollTo-1.4.3.1.js",
-		"outputAbbreviatedPath": "\/js\/jquery.scrollTo-1.4.3.1.min.js",
+		"outputAbbreviatedPath": "\/js\/jquery.scrollTo-1.4.3.1-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 2,
+		"outputStyle": 0,
 		"syntaxCheckerStyle": 1
 		},
 	"\/Code\/templates\/js\/vendor\/jquery.tools.custom.min.js": {
 		"fileType": 64,
 		"ignore": 1,
-		"ignoreWasSetByUser": 1,
+		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/Code\/templates\/js\/vendor\/jquery.tools.custom.min.js",
-		"outputAbbreviatedPath": "\/js\/jquery.tools.custom.min.min.js",
+		"outputAbbreviatedPath": "\/js\/jquery.tools.custom.min-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 2,
+		"outputStyle": 0,
 		"syntaxCheckerStyle": 1
 		},
 	"\/Code\/templates\/js\/vendor\/jquery.tools.min.js": {
 		"fileType": 64,
-		"ignore": 1,
-		"ignoreWasSetByUser": 1,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/Code\/templates\/js\/vendor\/jquery.tools.min.js",
-		"outputAbbreviatedPath": "\/js\/jquery.tools.min.min.js",
+		"outputAbbreviatedPath": "\/js\/jquery.tools.min-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 2,
+		"outputStyle": 0,
 		"syntaxCheckerStyle": 1
 		},
 	"\/Code\/templates\/js\/vendor\/jquery.uniform.js": {
 		"fileType": 64,
 		"ignore": 1,
-		"ignoreWasSetByUser": 1,
+		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/Code\/templates\/js\/vendor\/jquery.uniform.js",
-		"outputAbbreviatedPath": "\/js\/jquery.uniform.min.js",
+		"outputAbbreviatedPath": "\/js\/jquery.uniform-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 2,
+		"outputStyle": 0,
 		"syntaxCheckerStyle": 1
 		},
 	"\/Code\/templates\/js\/vendor\/jquery.validate.js": {
 		"fileType": 64,
-		"ignore": 1,
-		"ignoreWasSetByUser": 1,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/Code\/templates\/js\/vendor\/jquery.validate.js",
-		"outputAbbreviatedPath": "\/js\/jquery.validate.min.js",
+		"outputAbbreviatedPath": "\/js\/jquery.validate-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 2,
+		"outputStyle": 0,
 		"syntaxCheckerStyle": 1
 		},
 	"\/Code\/templates\/js\/vendor\/jquery.validate.min.js": {
 		"fileType": 64,
-		"ignore": 1,
+		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/Code\/templates\/js\/vendor\/jquery.validate.min.js",
-		"outputAbbreviatedPath": "\/js\/jquery.validate.min.min.js",
+		"outputAbbreviatedPath": "\/js\/jquery.validate.min-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 2,
+		"outputStyle": 0,
 		"syntaxCheckerStyle": 1
 		},
 	"\/Code\/templates\/scss\/august_promo.scss": {
@@ -523,7 +534,7 @@
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 3,
 		"shouldRunAutoprefixer": 1,
-		"shouldRunBless": 0,
+		"shouldRunBless": 1,
 		"useLibsass": 0
 		},
 	"\/Code\/templates\/scss\/normalize.scss": {
@@ -563,8 +574,8 @@
 		"enableSmartyPants": 1,
 		"expandTabs": 1,
 		"fileType": 4096,
-		"ignore": 1,
-		"ignoreWasSetByUser": 1,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/CONTRIBUTING.md",
 		"outputAbbreviatedPath": "\/CONTRIBUTING.html",
 		"outputPathIsOutsideProject": 0,
@@ -593,10 +604,10 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/css\/fonts\/fire-sans\/specimen_files\/easytabs.js",
-		"outputAbbreviatedPath": "\/js\/easytabs.min.js",
+		"outputAbbreviatedPath": "\/js\/easytabs-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 2,
+		"outputStyle": 0,
 		"syntaxCheckerStyle": 1
 		},
 	"\/css\/fonts\/fire-sans\/specimen_files\/firasansot-light-cleartype.png": {
@@ -660,10 +671,10 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/css\/fonts\/nobile\/specimen_files\/easytabs.js",
-		"outputAbbreviatedPath": "\/js\/easytabs.min.js",
+		"outputAbbreviatedPath": "\/js\/easytabs-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 2,
+		"outputStyle": 0,
 		"syntaxCheckerStyle": 1
 		},
 	"\/css\/fonts\/nobile\/specimen_files\/grid_12-825-55-15.css": {
@@ -729,10 +740,10 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/css\/fonts\/open-sans-condensed-bold\/specimen_files\/easytabs.js",
-		"outputAbbreviatedPath": "\/js\/easytabs.min.js",
+		"outputAbbreviatedPath": "\/js\/easytabs-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 2,
+		"outputStyle": 0,
 		"syntaxCheckerStyle": 1
 		},
 	"\/css\/fonts\/open-sans-condensed-bold\/specimen_files\/grid_12-825-55-15.css": {
@@ -787,10 +798,10 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/css\/fonts\/open-sans-condensed-light-italic\/specimen_files\/easytabs.js",
-		"outputAbbreviatedPath": "\/js\/easytabs.min.js",
+		"outputAbbreviatedPath": "\/js\/easytabs-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 2,
+		"outputStyle": 0,
 		"syntaxCheckerStyle": 1
 		},
 	"\/css\/fonts\/open-sans-condensed-light-italic\/specimen_files\/grid_12-825-55-15.css": {
@@ -845,10 +856,10 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/css\/fonts\/open-sans-condensed-light\/specimen_files\/easytabs.js",
-		"outputAbbreviatedPath": "\/js\/easytabs.min.js",
+		"outputAbbreviatedPath": "\/js\/easytabs-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 2,
+		"outputStyle": 0,
 		"syntaxCheckerStyle": 1
 		},
 	"\/css\/fonts\/open-sans-condensed-light\/specimen_files\/grid_12-825-55-15.css": {
@@ -916,7 +927,7 @@
 		"outputAbbreviatedPath": "\/favicon.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/google726f2f452bf462b1.html": {
 		"fileType": 8192,
@@ -936,7 +947,7 @@
 		"outputAbbreviatedPath": "\/img\/agenda_tuCita.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/img\/atras.png": {
 		"fileType": 32768,
@@ -947,7 +958,7 @@
 		"outputAbbreviatedPath": "\/img\/atras.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/img\/background.jpg": {
 		"fileType": 16384,
@@ -958,7 +969,7 @@
 		"outputAbbreviatedPath": "\/img\/background.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/img\/background_lightbox.png": {
 		"fileType": 32768,
@@ -969,128 +980,128 @@
 		"outputAbbreviatedPath": "\/img\/background_lightbox.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/img\/banamex_promo\/banamex_logo.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 5081,
+		"initialSize": 3931,
 		"inputAbbreviatedPath": "\/img\/banamex_promo\/banamex_logo.png",
 		"outputAbbreviatedPath": "\/img\/banamex_promo\/banamex_logo.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/img\/banamex_promo\/BG.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 50365,
+		"initialSize": 49455,
 		"inputAbbreviatedPath": "\/img\/banamex_promo\/BG.jpg",
 		"outputAbbreviatedPath": "\/img\/banamex_promo\/BG.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/img\/banamex_promo\/boja_header.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 8013,
+		"initialSize": 7742,
 		"inputAbbreviatedPath": "\/img\/banamex_promo\/boja_header.png",
 		"outputAbbreviatedPath": "\/img\/banamex_promo\/boja_header.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/img\/banamex_promo\/degradado_banamex.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 1152,
+		"initialSize": 1120,
 		"inputAbbreviatedPath": "\/img\/banamex_promo\/degradado_banamex.png",
 		"outputAbbreviatedPath": "\/img\/banamex_promo\/degradado_banamex.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/img\/banamex_promo\/flecha_cuadro_gris.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 1319,
+		"initialSize": 1162,
 		"inputAbbreviatedPath": "\/img\/banamex_promo\/flecha_cuadro_gris.png",
 		"outputAbbreviatedPath": "\/img\/banamex_promo\/flecha_cuadro_gris.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/img\/banamex_promo\/flecha_cuandro_amarillo.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 1368,
+		"initialSize": 1211,
 		"inputAbbreviatedPath": "\/img\/banamex_promo\/flecha_cuandro_amarillo.png",
 		"outputAbbreviatedPath": "\/img\/banamex_promo\/flecha_cuandro_amarillo.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/img\/banamex_promo\/logos.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 10423,
+		"initialSize": 9350,
 		"inputAbbreviatedPath": "\/img\/banamex_promo\/logos.png",
 		"outputAbbreviatedPath": "\/img\/banamex_promo\/logos.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/img\/banamex_promo\/mas.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 1146,
+		"initialSize": 1070,
 		"inputAbbreviatedPath": "\/img\/banamex_promo\/mas.png",
 		"outputAbbreviatedPath": "\/img\/banamex_promo\/mas.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/img\/banamex_promo\/weyes-3.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 494422,
+		"initialSize": 615455,
 		"inputAbbreviatedPath": "\/img\/banamex_promo\/weyes-3.png",
 		"outputAbbreviatedPath": "\/img\/banamex_promo\/weyes-3.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/img\/banamex_promo\/weyes.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 1.14396e+06,
+		"initialSize": 1.10825e+06,
 		"inputAbbreviatedPath": "\/img\/banamex_promo\/weyes.png",
 		"outputAbbreviatedPath": "\/img\/banamex_promo\/weyes.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/img\/banamex_promo\/weyes_2.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 1.00875e+06,
+		"initialSize": 1.00402e+06,
 		"inputAbbreviatedPath": "\/img\/banamex_promo\/weyes_2.png",
 		"outputAbbreviatedPath": "\/img\/banamex_promo\/weyes_2.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/img\/BG.png": {
 		"fileType": 32768,
@@ -1101,7 +1112,7 @@
 		"outputAbbreviatedPath": "\/img\/BG.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/img\/bg_boja.jpg": {
 		"fileType": 16384,
@@ -1112,7 +1123,7 @@
 		"outputAbbreviatedPath": "\/img\/bg_boja.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/img\/bojanini-friends.png": {
 		"fileType": 32768,
@@ -1123,7 +1134,7 @@
 		"outputAbbreviatedPath": "\/img\/bojanini-friends.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/img\/close.png": {
 		"fileType": 32768,
@@ -1134,7 +1145,7 @@
 		"outputAbbreviatedPath": "\/img\/close.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/img\/comienza-ya-button.png": {
 		"fileType": 32768,
@@ -1145,7 +1156,7 @@
 		"outputAbbreviatedPath": "\/img\/comienza-ya-button.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/img\/comienza.png": {
 		"fileType": 32768,
@@ -1156,7 +1167,7 @@
 		"outputAbbreviatedPath": "\/img\/comienza.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/img\/comienza_over.png": {
 		"fileType": 32768,
@@ -1167,7 +1178,7 @@
 		"outputAbbreviatedPath": "\/img\/comienza_over.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/img\/cuadro_2.png": {
 		"fileType": 32768,
@@ -1178,7 +1189,7 @@
 		"outputAbbreviatedPath": "\/img\/cuadro_2.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/img\/cuadro_3.png": {
 		"fileType": 32768,
@@ -1189,7 +1200,7 @@
 		"outputAbbreviatedPath": "\/img\/cuadro_3.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/img\/cuadro_amarillo.png": {
 		"fileType": 32768,
@@ -1200,7 +1211,7 @@
 		"outputAbbreviatedPath": "\/img\/cuadro_amarillo.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/img\/cuadro_seleccion.png": {
 		"fileType": 32768,
@@ -1211,7 +1222,7 @@
 		"outputAbbreviatedPath": "\/img\/cuadro_seleccion.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/img\/enviar.png": {
 		"fileType": 32768,
@@ -1222,7 +1233,7 @@
 		"outputAbbreviatedPath": "\/img\/enviar.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/img\/enviar_over.png": {
 		"fileType": 32768,
@@ -1233,7 +1244,7 @@
 		"outputAbbreviatedPath": "\/img\/enviar_over.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/img\/Etapas_hombre\/E1_perfil_H.png": {
 		"fileType": 32768,
@@ -1244,7 +1255,7 @@
 		"outputAbbreviatedPath": "\/img\/Etapas_hombre\/E1_perfil_H.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/img\/Etapas_hombre\/E1_Top_H.png": {
 		"fileType": 32768,
@@ -1255,7 +1266,7 @@
 		"outputAbbreviatedPath": "\/img\/Etapas_hombre\/E1_Top_H.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/img\/Etapas_hombre\/E2_perfil_H.png": {
 		"fileType": 32768,
@@ -1266,7 +1277,7 @@
 		"outputAbbreviatedPath": "\/img\/Etapas_hombre\/E2_perfil_H.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/img\/Etapas_hombre\/E2_Top_H.png": {
 		"fileType": 32768,
@@ -1277,7 +1288,7 @@
 		"outputAbbreviatedPath": "\/img\/Etapas_hombre\/E2_Top_H.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/img\/Etapas_hombre\/E3_perfil_H.png": {
 		"fileType": 32768,
@@ -1288,7 +1299,7 @@
 		"outputAbbreviatedPath": "\/img\/Etapas_hombre\/E3_perfil_H.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/img\/Etapas_hombre\/E3_Top_H.png": {
 		"fileType": 32768,
@@ -1299,7 +1310,7 @@
 		"outputAbbreviatedPath": "\/img\/Etapas_hombre\/E3_Top_H.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/img\/Etapas_hombre\/E3Vertex_perfil_H.png": {
 		"fileType": 32768,
@@ -1310,7 +1321,7 @@
 		"outputAbbreviatedPath": "\/img\/Etapas_hombre\/E3Vertex_perfil_H.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/img\/Etapas_hombre\/E3Vertex_Top_H.png": {
 		"fileType": 32768,
@@ -1321,7 +1332,7 @@
 		"outputAbbreviatedPath": "\/img\/Etapas_hombre\/E3Vertex_Top_H.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/img\/Etapas_hombre\/E4_perfil_H.png": {
 		"fileType": 32768,
@@ -1332,7 +1343,7 @@
 		"outputAbbreviatedPath": "\/img\/Etapas_hombre\/E4_perfil_H.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/img\/Etapas_hombre\/E4_Top_H.png": {
 		"fileType": 32768,
@@ -1343,7 +1354,7 @@
 		"outputAbbreviatedPath": "\/img\/Etapas_hombre\/E4_Top_H.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/img\/Etapas_hombre\/E5_perfil_H.png": {
 		"fileType": 32768,
@@ -1354,7 +1365,7 @@
 		"outputAbbreviatedPath": "\/img\/Etapas_hombre\/E5_perfil_H.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/img\/Etapas_hombre\/E5_Top_H.png": {
 		"fileType": 32768,
@@ -1365,7 +1376,7 @@
 		"outputAbbreviatedPath": "\/img\/Etapas_hombre\/E5_Top_H.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/img\/Etapas_hombre\/E6_perfil_H.png": {
 		"fileType": 32768,
@@ -1376,7 +1387,7 @@
 		"outputAbbreviatedPath": "\/img\/Etapas_hombre\/E6_perfil_H.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/img\/Etapas_hombre\/E6_Top_H.png": {
 		"fileType": 32768,
@@ -1387,7 +1398,7 @@
 		"outputAbbreviatedPath": "\/img\/Etapas_hombre\/E6_Top_H.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/img\/Etapas_hombre\/E7_perfil_H.png": {
 		"fileType": 32768,
@@ -1398,7 +1409,7 @@
 		"outputAbbreviatedPath": "\/img\/Etapas_hombre\/E7_perfil_H.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/img\/Etapas_hombre\/E7_Top_H.png": {
 		"fileType": 32768,
@@ -1409,7 +1420,7 @@
 		"outputAbbreviatedPath": "\/img\/Etapas_hombre\/E7_Top_H.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/img\/flecha.png": {
 		"fileType": 32768,
@@ -1420,7 +1431,7 @@
 		"outputAbbreviatedPath": "\/img\/flecha.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/img\/flecha_der.png": {
 		"fileType": 32768,
@@ -1431,7 +1442,7 @@
 		"outputAbbreviatedPath": "\/img\/flecha_der.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/img\/flecha_izq.png": {
 		"fileType": 32768,
@@ -1442,7 +1453,7 @@
 		"outputAbbreviatedPath": "\/img\/flecha_izq.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/img\/formulario_texto.png": {
 		"fileType": 32768,
@@ -1453,7 +1464,7 @@
 		"outputAbbreviatedPath": "\/img\/formulario_texto.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/img\/h1.png": {
 		"fileType": 32768,
@@ -1464,7 +1475,7 @@
 		"outputAbbreviatedPath": "\/img\/h1.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/img\/linea-titulo_contenido.png": {
 		"fileType": 32768,
@@ -1475,7 +1486,7 @@
 		"outputAbbreviatedPath": "\/img\/linea-titulo_contenido.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/img\/linea_cabellos.png": {
 		"fileType": 32768,
@@ -1486,7 +1497,7 @@
 		"outputAbbreviatedPath": "\/img\/linea_cabellos.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/img\/linea_header_cuadro.png": {
 		"fileType": 32768,
@@ -1497,7 +1508,7 @@
 		"outputAbbreviatedPath": "\/img\/linea_header_cuadro.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/img\/linea_numeros.png": {
 		"fileType": 32768,
@@ -1508,7 +1519,7 @@
 		"outputAbbreviatedPath": "\/img\/linea_numeros.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/img\/linea_promo.png": {
 		"fileType": 32768,
@@ -1519,7 +1530,7 @@
 		"outputAbbreviatedPath": "\/img\/linea_promo.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/img\/linea_telefono.png": {
 		"fileType": 32768,
@@ -1530,7 +1541,7 @@
 		"outputAbbreviatedPath": "\/img\/linea_telefono.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/img\/linea_titulo.png": {
 		"fileType": 32768,
@@ -1541,7 +1552,7 @@
 		"outputAbbreviatedPath": "\/img\/linea_titulo.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/img\/logo-ESHRS.jpg": {
 		"fileType": 16384,
@@ -1552,7 +1563,7 @@
 		"outputAbbreviatedPath": "\/img\/logo-ESHRS.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/img\/logo_boja.png": {
 		"fileType": 32768,
@@ -1563,7 +1574,7 @@
 		"outputAbbreviatedPath": "\/img\/logo_boja.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/img\/logo_international_society.png": {
 		"fileType": 32768,
@@ -1574,7 +1585,7 @@
 		"outputAbbreviatedPath": "\/img\/logo_international_society.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/img\/logo_members.png": {
 		"fileType": 32768,
@@ -1585,7 +1596,7 @@
 		"outputAbbreviatedPath": "\/img\/logo_members.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/img\/Modelo_perfil.png": {
 		"fileType": 32768,
@@ -1596,7 +1607,7 @@
 		"outputAbbreviatedPath": "\/img\/Modelo_perfil.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/img\/modelo_top.png": {
 		"fileType": 32768,
@@ -1607,7 +1618,7 @@
 		"outputAbbreviatedPath": "\/img\/modelo_top.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/img\/numeros.png": {
 		"fileType": 32768,
@@ -1618,7 +1629,7 @@
 		"outputAbbreviatedPath": "\/img\/numeros.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/img\/promo_20.png": {
 		"fileType": 32768,
@@ -1629,7 +1640,7 @@
 		"outputAbbreviatedPath": "\/img\/promo_20.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/img\/promo_30.png": {
 		"fileType": 32768,
@@ -1640,7 +1651,7 @@
 		"outputAbbreviatedPath": "\/img\/promo_30.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/img\/promo_40.png": {
 		"fileType": 32768,
@@ -1651,7 +1662,7 @@
 		"outputAbbreviatedPath": "\/img\/promo_40.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/img\/promocion-agosto\/30-porciento-de-descuento-3-meses-sin-intereses-con-banamex-en-microinjerto-capilar.png": {
 		"fileType": 32768,
@@ -1662,7 +1673,7 @@
 		"outputAbbreviatedPath": "\/img\/promocion-agosto\/30-porciento-de-descuento-3-meses-sin-intereses-con-banamex-en-microinjerto-capilar.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/img\/promocion-agosto\/aprovecha-este-verano-para-realizarte-microinjerto-capilar-con-la-tecnica-fue.png": {
 		"fileType": 32768,
@@ -1673,7 +1684,7 @@
 		"outputAbbreviatedPath": "\/img\/promocion-agosto\/aprovecha-este-verano-para-realizarte-microinjerto-capilar-con-la-tecnica-fue.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/img\/promocion-agosto\/cambia-de-look-estas-vacaciones.png": {
 		"fileType": 32768,
@@ -1684,7 +1695,7 @@
 		"outputAbbreviatedPath": "\/img\/promocion-agosto\/cambia-de-look-estas-vacaciones.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/img\/promocion-agosto\/persona-promocion-agosto.png": {
 		"fileType": 32768,
@@ -1695,7 +1706,51 @@
 		"outputAbbreviatedPath": "\/img\/promocion-agosto\/persona-promocion-agosto.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
+		},
+	"\/img\/promocion-october\/30-porciento-de-descuento-3-y-6-meses-sin-intereses-solo-con-banamex-en-microinjerto-capilar.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 22592,
+		"inputAbbreviatedPath": "\/img\/promocion-october\/30-porciento-de-descuento-3-y-6-meses-sin-intereses-solo-con-banamex-en-microinjerto-capilar.jpg",
+		"outputAbbreviatedPath": "\/img\/promocion-october\/30-porciento-de-descuento-3-y-6-meses-sin-intereses-solo-con-banamex-en-microinjerto-capilar.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/promocion-october\/cambia-de-look-durante-el-otono.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 29081,
+		"inputAbbreviatedPath": "\/img\/promocion-october\/cambia-de-look-durante-el-otono.png",
+		"outputAbbreviatedPath": "\/img\/promocion-october\/cambia-de-look-durante-el-otono.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/promocion-october\/deja-que-las-hojas-sean-lo-unico-que-caiga-en-octubre-aprovecha-esta-temporada-para-realizarte-un-microinjerto-capilar-con-la-tecnica-fue-pelo-por-pelo-en-una-sola-sesion-resultados-naturales-garantizados.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 19882,
+		"inputAbbreviatedPath": "\/img\/promocion-october\/deja-que-las-hojas-sean-lo-unico-que-caiga-en-octubre-aprovecha-esta-temporada-para-realizarte-un-microinjerto-capilar-con-la-tecnica-fue-pelo-por-pelo-en-una-sola-sesion-resultados-naturales-garantizados.png",
+		"outputAbbreviatedPath": "\/img\/promocion-october\/deja-que-las-hojas-sean-lo-unico-que-caiga-en-octubre-aprovecha-esta-temporada-para-realizarte-un-microinjerto-capilar-con-la-tecnica-fue-pelo-por-pelo-en-una-sola-sesion-resultados-naturales-garantizados.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/promocion-october\/del-1-al-31-de-octubre.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2614,
+		"inputAbbreviatedPath": "\/img\/promocion-october\/del-1-al-31-de-octubre.png",
+		"outputAbbreviatedPath": "\/img\/promocion-october\/del-1-al-31-de-octubre.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
 		},
 	"\/img\/recuadro_grande.png": {
 		"fileType": 32768,
@@ -1706,7 +1761,7 @@
 		"outputAbbreviatedPath": "\/img\/recuadro_grande.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/img\/seleccion-sprite.png": {
 		"fileType": 32768,
@@ -1717,7 +1772,7 @@
 		"outputAbbreviatedPath": "\/img\/seleccion-sprite.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/img\/seleccion.png": {
 		"fileType": 32768,
@@ -1728,7 +1783,7 @@
 		"outputAbbreviatedPath": "\/img\/seleccion.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/img\/seleccion_over.png": {
 		"fileType": 32768,
@@ -1739,7 +1794,7 @@
 		"outputAbbreviatedPath": "\/img\/seleccion_over.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/img\/send-button.png": {
 		"fileType": 32768,
@@ -1750,7 +1805,7 @@
 		"outputAbbreviatedPath": "\/img\/send-button.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/img\/titulo.png": {
 		"fileType": 32768,
@@ -1761,7 +1816,7 @@
 		"outputAbbreviatedPath": "\/img\/titulo.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/img\/weyes.png": {
 		"fileType": 32768,
@@ -1772,7 +1827,7 @@
 		"outputAbbreviatedPath": "\/img\/weyes.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
+		"processed": 0
 		},
 	"\/img\/weyes_small.png": {
 		"fileType": 32768,
@@ -1783,46 +1838,28 @@
 		"outputAbbreviatedPath": "\/img\/weyes_small.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 1
-		},
-	"\/index.html": {
-		"fileType": 8192,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/index_banamex.html": {
-		"fileType": 8192,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/index_banamex.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
+		"processed": 0
 		},
 	"\/js\/main.min.js": {
 		"fileType": 64,
-		"ignore": 1,
+		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/js\/main.min.js",
-		"outputAbbreviatedPath": "\/js\/main.min.min.js",
+		"outputAbbreviatedPath": "\/js\/main.min-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 2,
+		"outputStyle": 0,
 		"syntaxCheckerStyle": 1
 		},
 	"\/js\/plugins.min.js": {
 		"fileType": 64,
-		"ignore": 1,
+		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/js\/plugins.min.js",
-		"outputAbbreviatedPath": "\/js\/plugins.min.min.js",
+		"outputAbbreviatedPath": "\/js\/plugins.min-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 2,
+		"outputStyle": 0,
 		"syntaxCheckerStyle": 1
 		},
 	"\/js\/vendor\/jquery-1.8.3.min.js": {
@@ -1830,10 +1867,10 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/js\/vendor\/jquery-1.8.3.min.js",
-		"outputAbbreviatedPath": "\/js\/jquery-1.8.3.min.min.js",
+		"outputAbbreviatedPath": "\/js\/jquery-1.8.3.min-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 2,
+		"outputStyle": 0,
 		"syntaxCheckerStyle": 1
 		},
 	"\/js\/vendor\/jquery-1.9.0.min.js": {
@@ -1841,10 +1878,10 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/js\/vendor\/jquery-1.9.0.min.js",
-		"outputAbbreviatedPath": "\/js\/jquery-1.9.0.min.min.js",
+		"outputAbbreviatedPath": "\/js\/jquery-1.9.0.min-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 2,
+		"outputStyle": 0,
 		"syntaxCheckerStyle": 1
 		},
 	"\/js\/vendor\/modernizr-2.6.2.min.js": {
@@ -1852,10 +1889,10 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/js\/vendor\/modernizr-2.6.2.min.js",
-		"outputAbbreviatedPath": "\/js\/modernizr-2.6.2.min.min.js",
+		"outputAbbreviatedPath": "\/js\/modernizr-2.6.2.min-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 2,
+		"outputStyle": 0,
 		"syntaxCheckerStyle": 1
 		},
 	"\/js\/vendor\/prefixfree.min.js": {
@@ -1863,10 +1900,10 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/js\/vendor\/prefixfree.min.js",
-		"outputAbbreviatedPath": "\/js\/prefixfree.min.min.js",
+		"outputAbbreviatedPath": "\/js\/prefixfree.min-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 2,
+		"outputStyle": 0,
 		"syntaxCheckerStyle": 1
 		},
 	"\/LICENSE.md": {
@@ -1874,8 +1911,8 @@
 		"enableSmartyPants": 1,
 		"expandTabs": 1,
 		"fileType": 4096,
-		"ignore": 1,
-		"ignoreWasSetByUser": 1,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/LICENSE.md",
 		"outputAbbreviatedPath": "\/LICENSE.html",
 		"outputPathIsOutsideProject": 0,
@@ -1886,8 +1923,8 @@
 		"enableSmartyPants": 1,
 		"expandTabs": 1,
 		"fileType": 4096,
-		"ignore": 1,
-		"ignoreWasSetByUser": 1,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/README.md",
 		"outputAbbreviatedPath": "\/README.html",
 		"outputPathIsOutsideProject": 0,
@@ -1901,7 +1938,7 @@
 	},
 "projectAttributes": {
 	"bowerAbbreviatedPath": "",
-	"displayValue": "Giovanni Bojanini Landing Microinjerto",
+	"displayValue": "Microinjerto Bojanini",
 	"displayValueWasSetByUser": 1,
 	"iconImageName": "meme-facepalm"
 	},
@@ -1909,15 +1946,15 @@
 	"alwaysUseExternalServer": 1,
 	"animateCSSInjections": 1,
 	"autoApplyPSLanguageSettingsStyle": 0,
-	"autoprefixerBrowserString": "> 1%, last 2 versions, ff 17, opera 12.1",
+	"autoprefixerBrowserString": "> 1%, last 2 versions, Firefox ESR, Opera 12.1",
 	"autoSyncProjectSettingsFile": 1,
 	"browserRefreshDelay": 0,
 	"coffeeAutoOutputPathEnabled": 1,
 	"coffeeAutoOutputPathFilenamePattern": "*.js",
-	"coffeeAutoOutputPathRelativePath": "js",
+	"coffeeAutoOutputPathRelativePath": "",
 	"coffeeAutoOutputPathReplace1": "",
 	"coffeeAutoOutputPathReplace2": "",
-	"coffeeAutoOutputPathStyle": 1,
+	"coffeeAutoOutputPathStyle": 0,
 	"coffeeCreateSourceMap": 1,
 	"coffeeLintFlags2": {
 		"arrow_spacing": {
@@ -1937,7 +1974,7 @@
 			"flagValue": 10
 			},
 		"duplicate_key": {
-			"active": 0,
+			"active": 1,
 			"flagValue": -1
 			},
 		"empty_constructor_needs_parens": {
@@ -2028,6 +2065,10 @@
 			"active": 0,
 			"flagValue": -1
 			},
+		"prefer_english_operator": {
+			"active": 0,
+			"flagValue": -1
+			},
 		"space_operators": {
 			"active": 0,
 			"flagValue": -1
@@ -2036,40 +2077,40 @@
 	"coffeeMinifyOutput": 1,
 	"coffeeOutputStyle": 0,
 	"coffeeSyntaxCheckerStyle": 1,
-	"externalServerAddress": "http:\/\/localhost:80\/new_giovanni_bojanini_landing",
+	"externalServerAddress": "http:\/\/localhost:80\/new_giovanni_bojanini_landing\/",
 	"externalServerPreviewPathAddition": "",
 	"genericWebpageFileExtensionsString": "html, htm, shtml, shtm, xhtml, php, jsp, asp, aspx, erb, ctp",
 	"hamlAutoOutputPathEnabled": 1,
 	"hamlAutoOutputPathFilenamePattern": "*.html",
-	"hamlAutoOutputPathRelativePath": "..\/",
+	"hamlAutoOutputPathRelativePath": "",
 	"hamlAutoOutputPathReplace1": "",
 	"hamlAutoOutputPathReplace2": "",
-	"hamlAutoOutputPathStyle": 2,
-	"hamlEscapeHTMLCharacters": 1,
+	"hamlAutoOutputPathStyle": 0,
+	"hamlEscapeHTMLCharacters": 0,
 	"hamlNoEscapeInAttributes": 0,
 	"hamlOutputFormat": 2,
 	"hamlOutputStyle": 0,
 	"hamlUseCDATA": 0,
-	"hamlUseDoubleQuotes": 1,
+	"hamlUseDoubleQuotes": 0,
 	"hamlUseUnixNewlines": 0,
 	"jadeAutoOutputPathEnabled": 1,
 	"jadeAutoOutputPathFilenamePattern": "*.html",
-	"jadeAutoOutputPathRelativePath": "..\/",
+	"jadeAutoOutputPathRelativePath": "\/",
 	"jadeAutoOutputPathReplace1": "",
 	"jadeAutoOutputPathReplace2": "",
 	"jadeAutoOutputPathStyle": 1,
 	"jadeCompileDebug": 1,
-	"jadeOutputStyle": 1,
+	"jadeOutputStyle": 0,
 	"javascriptAutoOutputPathEnabled": 1,
 	"javascriptAutoOutputPathFilenamePattern": "*-min.js",
-	"javascriptAutoOutputPathRelativePath": "\/js",
+	"javascriptAutoOutputPathRelativePath": "js\/",
 	"javascriptAutoOutputPathReplace1": "",
 	"javascriptAutoOutputPathReplace2": "",
 	"javascriptAutoOutputPathStyle": 1,
 	"javascriptCreateSourceMap": 1,
-	"javascriptOutputStyle": 2,
+	"javascriptOutputStyle": 0,
 	"javascriptSyntaxCheckerStyle": 1,
-	"jsCheckerReservedNamesString": "jQuery,$,_,GBLanding:write,_GBLanding:write,_selector:write,selector:write,_class:write,_title:write,_markup:write,_options:write,elemLeft:write,_comment:write,_valueChange:write,_durationInSec:write,_scrollYOffset:write,_offsetTop:write,_classToFix:write,_classToDeFix:write,toFix:write,toDeFix:write,_selectorToApply:write,",
+	"jsCheckerReservedNamesString": "jQuery,_jQuery,_",
 	"jsHintFlags2": {
 		"asi": {
 			"active": 0,
@@ -2362,7 +2403,7 @@
 			"flagValue": -1
 			},
 		"devel": {
-			"active": 1,
+			"active": 0,
 			"flagValue": -1
 			},
 		"eqeq": {
@@ -2430,7 +2471,7 @@
 			"flagValue": -1
 			},
 		"unparam": {
-			"active": 1,
+			"active": 0,
 			"flagValue": -1
 			},
 		"vars": {
@@ -2444,10 +2485,10 @@
 		},
 	"kitAutoOutputPathEnabled": 1,
 	"kitAutoOutputPathFilenamePattern": "*.html",
-	"kitAutoOutputPathRelativePath": "",
+	"kitAutoOutputPathRelativePath": "..\/",
 	"kitAutoOutputPathReplace1": "",
 	"kitAutoOutputPathReplace2": "",
-	"kitAutoOutputPathStyle": 0,
+	"kitAutoOutputPathStyle": 2,
 	"lessAllowInsecureImports": 0,
 	"lessAutoOutputPathEnabled": 1,
 	"lessAutoOutputPathFilenamePattern": "*.css",
@@ -2475,7 +2516,7 @@
 	"reloadFileURLs": 1,
 	"sassAutoOutputPathEnabled": 1,
 	"sassAutoOutputPathFilenamePattern": "*.css",
-	"sassAutoOutputPathRelativePath": "css",
+	"sassAutoOutputPathRelativePath": "css\/",
 	"sassAutoOutputPathReplace1": "sass",
 	"sassAutoOutputPathReplace2": "css",
 	"sassAutoOutputPathStyle": 1,
@@ -2486,26 +2527,27 @@
 	"sassUseLibsass": 0,
 	"shouldRunAutoprefixer": 1,
 	"shouldRunBless": 1,
-	"skippedItemsString": ".svn, .git, .hg, log, _logs, _cache, cache, logs",
+	"skippedItemsString": ".svn, .git, .hg, log, _logs, _cache, cache, logs, node_modules",
 	"slimAutoOutputPathEnabled": 1,
 	"slimAutoOutputPathFilenamePattern": "*.html",
 	"slimAutoOutputPathRelativePath": "",
 	"slimAutoOutputPathReplace1": "",
 	"slimAutoOutputPathReplace2": "",
 	"slimAutoOutputPathStyle": 0,
-	"slimCompileOnly": 0,
+	"slimCompileOnly": 1,
 	"slimLogicless": 0,
 	"slimOutputStyle": 1,
 	"slimRailsCompatible": 0,
 	"stylusAutoOutputPathEnabled": 1,
 	"stylusAutoOutputPathFilenamePattern": "*.css",
-	"stylusAutoOutputPathRelativePath": "..\/css",
+	"stylusAutoOutputPathRelativePath": "..\/",
 	"stylusAutoOutputPathReplace1": "stylus",
 	"stylusAutoOutputPathReplace2": "css",
 	"stylusAutoOutputPathStyle": 2,
-	"stylusDebugStyle": 0,
-	"stylusImportCSS": 0,
-	"stylusOutputStyle": 0,
+	"stylusCreateSourceMap": 0,
+	"stylusDebugStyle": 2,
+	"stylusImportCSS": 1,
+	"stylusOutputStyle": 1,
 	"stylusResolveRelativeURLS": 0,
 	"typescriptAutoOutputPathEnabled": 1,
 	"typescriptAutoOutputPathFilenamePattern": "*.js",
