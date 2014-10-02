@@ -1,6 +1,6 @@
 {
 "CodeKitInfo": "This is a CodeKit 2.x project configuration file. It is designed to sync project settings across multiple machines. MODIFYING THE CONTENTS OF THIS FILE IS A POOR LIFE DECISION. If you do so, you will likely cause CodeKit to crash. This file is not useful unless accompanied by the project that created it in CodeKit 2. This file is not backwards-compatible with CodeKit 1.x. For more information, see: http:\/\/incident57.com\/codekit",
-"creatorBuild": "16877",
+"creatorBuild": "17682",
 "files": {
 	"\/404.html": {
 		"fileType": 8192,
@@ -8,6 +8,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/404.html",
 		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
 	"\/apple-touch-icon-114x114-precomposed.png": {
@@ -17,6 +18,7 @@
 		"initialSize": 1189,
 		"inputAbbreviatedPath": "\/apple-touch-icon-114x114-precomposed.png",
 		"outputAbbreviatedPath": "\/apple-touch-icon-114x114-precomposed.png",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
@@ -27,6 +29,7 @@
 		"initialSize": 1475,
 		"inputAbbreviatedPath": "\/apple-touch-icon-144x144-precomposed.png",
 		"outputAbbreviatedPath": "\/apple-touch-icon-144x144-precomposed.png",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
@@ -37,6 +40,7 @@
 		"initialSize": 730,
 		"inputAbbreviatedPath": "\/apple-touch-icon-57x57-precomposed.png",
 		"outputAbbreviatedPath": "\/apple-touch-icon-57x57-precomposed.png",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
@@ -47,6 +51,7 @@
 		"initialSize": 854,
 		"inputAbbreviatedPath": "\/apple-touch-icon-72x72-precomposed.png",
 		"outputAbbreviatedPath": "\/apple-touch-icon-72x72-precomposed.png",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
@@ -54,9 +59,10 @@
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 730,
+		"initialSize": 1226,
 		"inputAbbreviatedPath": "\/apple-touch-icon-precomposed.png",
 		"outputAbbreviatedPath": "\/apple-touch-icon-precomposed.png",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
@@ -67,6 +73,7 @@
 		"initialSize": 730,
 		"inputAbbreviatedPath": "\/apple-touch-icon.png",
 		"outputAbbreviatedPath": "\/apple-touch-icon.png",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 1
 		},
@@ -75,10 +82,11 @@
 		"enableSmartyPants": 1,
 		"expandTabs": 1,
 		"fileType": 4096,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
+		"ignore": 1,
+		"ignoreWasSetByUser": 1,
 		"inputAbbreviatedPath": "\/CHANGELOG.md",
 		"outputAbbreviatedPath": "\/CHANGELOG.html",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
 	"\/Code\/snippets\/config\/config.php": {
@@ -87,6 +95,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/Code\/snippets\/config\/config.php",
 		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
 	"\/Code\/snippets\/db\/connection.php": {
@@ -95,6 +104,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/Code\/snippets\/db\/connection.php",
 		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
 	"\/Code\/snippets\/dispatcher.php": {
@@ -103,6 +113,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/Code\/snippets\/dispatcher.php",
 		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
 	"\/Code\/snippets\/libs\/Common.php": {
@@ -111,6 +122,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/Code\/snippets\/libs\/Common.php",
 		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
 	"\/Code\/snippets\/libs\/FilterInput.php": {
@@ -119,6 +131,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/Code\/snippets\/libs\/FilterInput.php",
 		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
 	"\/Code\/snippets\/libs\/Mailer.php": {
@@ -127,6 +140,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/Code\/snippets\/libs\/Mailer.php",
 		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
 	"\/Code\/snippets\/libs\/Model.php": {
@@ -135,6 +149,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/Code\/snippets\/libs\/Model.php",
 		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
 	"\/Code\/snippets\/libs\/ParserTemplate.php": {
@@ -143,6 +158,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/Code\/snippets\/libs\/ParserTemplate.php",
 		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
 	"\/Code\/snippets\/libs\/phpmailer\/class.phpmailer.php": {
@@ -151,6 +167,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/Code\/snippets\/libs\/phpmailer\/class.phpmailer.php",
 		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
 	"\/Code\/snippets\/libs\/phpmailer\/class.pop3.php": {
@@ -159,6 +176,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/Code\/snippets\/libs\/phpmailer\/class.pop3.php",
 		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
 	"\/Code\/snippets\/libs\/phpmailer\/class.smtp.php": {
@@ -167,6 +185,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/Code\/snippets\/libs\/phpmailer\/class.smtp.php",
 		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
 	"\/Code\/snippets\/libs\/Review.php": {
@@ -175,6 +194,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/Code\/snippets\/libs\/Review.php",
 		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
 	"\/Code\/snippets\/libs\/templates\/template_mailing.html": {
@@ -183,6 +203,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/Code\/snippets\/libs\/templates\/template_mailing.html",
 		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
 	"\/Code\/snippets\/libs\/Validator.php": {
@@ -191,7 +212,19 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/Code\/snippets\/libs\/Validator.php",
 		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
+		},
+	"\/Code\/templates\/autodiagnostic_module.jade": {
+		"compileDebug": 1,
+		"fileType": 512,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Code\/templates\/autodiagnostic_module.jade",
+		"outputAbbreviatedPath": "\/autodiagnostic_module.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
 		},
 	"\/Code\/templates\/footer.jade": {
 		"compileDebug": 1,
@@ -200,6 +233,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/Code\/templates\/footer.jade",
 		"outputAbbreviatedPath": "\/footer.html",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1
 		},
@@ -210,6 +244,18 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/Code\/templates\/head.jade",
 		"outputAbbreviatedPath": "\/head.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/Code\/templates\/header.jade": {
+		"compileDebug": 1,
+		"fileType": 512,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Code\/templates\/header.jade",
+		"outputAbbreviatedPath": "\/header.html",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1
 		},
@@ -217,9 +263,54 @@
 		"compileDebug": 1,
 		"fileType": 512,
 		"ignore": 0,
-		"ignoreWasSetByUser": 0,
+		"ignoreWasSetByUser": 1,
 		"inputAbbreviatedPath": "\/Code\/templates\/index.jade",
 		"outputAbbreviatedPath": "\/index.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/Code\/templates\/index_agosto.jade": {
+		"compileDebug": 1,
+		"fileType": 512,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Code\/templates\/index_agosto.jade",
+		"outputAbbreviatedPath": "\/index_agosto.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/Code\/templates\/index_banamex.jade": {
+		"compileDebug": 1,
+		"fileType": 512,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Code\/templates\/index_banamex.jade",
+		"outputAbbreviatedPath": "\/index_banamex.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/Code\/templates\/index_junio.jade": {
+		"compileDebug": 1,
+		"fileType": 512,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Code\/templates\/index_junio.jade",
+		"outputAbbreviatedPath": "\/index_junio.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1
+		},
+	"\/Code\/templates\/index_normal.jade": {
+		"compileDebug": 1,
+		"fileType": 512,
+		"ignore": 1,
+		"ignoreWasSetByUser": 1,
+		"inputAbbreviatedPath": "\/Code\/templates\/index_normal.jade",
+		"outputAbbreviatedPath": "\/index_normal.html",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1
 		},
@@ -229,6 +320,7 @@
 		"ignoreWasSetByUser": 1,
 		"inputAbbreviatedPath": "\/Code\/templates\/js\/GBLanding.js",
 		"outputAbbreviatedPath": "\/js\/GBLanding.min.js",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 2,
 		"syntaxCheckerStyle": 1
@@ -239,6 +331,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/Code\/templates\/js\/main.js",
 		"outputAbbreviatedPath": "\/js\/main.min.js",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 2,
 		"syntaxCheckerStyle": 1
@@ -249,6 +342,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/Code\/templates\/js\/plugins.js",
 		"outputAbbreviatedPath": "\/js\/plugins.min.js",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 2,
 		"syntaxCheckerStyle": 1
@@ -259,6 +353,7 @@
 		"ignoreWasSetByUser": 1,
 		"inputAbbreviatedPath": "\/Code\/templates\/js\/vendor\/additional-methods.js",
 		"outputAbbreviatedPath": "\/js\/additional-methods.min.js",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 2,
 		"syntaxCheckerStyle": 1
@@ -269,6 +364,7 @@
 		"ignoreWasSetByUser": 1,
 		"inputAbbreviatedPath": "\/Code\/templates\/js\/vendor\/jquery.form.js",
 		"outputAbbreviatedPath": "\/js\/jquery.form.min.js",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 2,
 		"syntaxCheckerStyle": 1
@@ -279,6 +375,7 @@
 		"ignoreWasSetByUser": 1,
 		"inputAbbreviatedPath": "\/Code\/templates\/js\/vendor\/jquery.scrollTo-1.4.3.1-min.js",
 		"outputAbbreviatedPath": "\/js\/jquery.scrollTo-1.4.3.1-min.min.js",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 2,
 		"syntaxCheckerStyle": 1
@@ -289,6 +386,7 @@
 		"ignoreWasSetByUser": 1,
 		"inputAbbreviatedPath": "\/Code\/templates\/js\/vendor\/jquery.scrollTo-1.4.3.1.js",
 		"outputAbbreviatedPath": "\/js\/jquery.scrollTo-1.4.3.1.min.js",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 2,
 		"syntaxCheckerStyle": 1
@@ -299,6 +397,7 @@
 		"ignoreWasSetByUser": 1,
 		"inputAbbreviatedPath": "\/Code\/templates\/js\/vendor\/jquery.tools.custom.min.js",
 		"outputAbbreviatedPath": "\/js\/jquery.tools.custom.min.min.js",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 2,
 		"syntaxCheckerStyle": 1
@@ -309,6 +408,7 @@
 		"ignoreWasSetByUser": 1,
 		"inputAbbreviatedPath": "\/Code\/templates\/js\/vendor\/jquery.tools.min.js",
 		"outputAbbreviatedPath": "\/js\/jquery.tools.min.min.js",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 2,
 		"syntaxCheckerStyle": 1
@@ -319,6 +419,7 @@
 		"ignoreWasSetByUser": 1,
 		"inputAbbreviatedPath": "\/Code\/templates\/js\/vendor\/jquery.uniform.js",
 		"outputAbbreviatedPath": "\/js\/jquery.uniform.min.js",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 2,
 		"syntaxCheckerStyle": 1
@@ -329,6 +430,7 @@
 		"ignoreWasSetByUser": 1,
 		"inputAbbreviatedPath": "\/Code\/templates\/js\/vendor\/jquery.validate.js",
 		"outputAbbreviatedPath": "\/js\/jquery.validate.min.js",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 2,
 		"syntaxCheckerStyle": 1
@@ -339,9 +441,74 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/Code\/templates\/js\/vendor\/jquery.validate.min.js",
 		"outputAbbreviatedPath": "\/js\/jquery.validate.min.min.js",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 2,
 		"syntaxCheckerStyle": 1
+		},
+	"\/Code\/templates\/scss\/august_promo.scss": {
+		"createSourceMap": 1,
+		"debugStyle": 0,
+		"decimalPrecision": 2,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Code\/templates\/scss\/august_promo.scss",
+		"outputAbbreviatedPath": "\/css\/august_promo.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 3,
+		"shouldRunAutoprefixer": 1,
+		"shouldRunBless": 1,
+		"useLibsass": 0
+		},
+	"\/Code\/templates\/scss\/banamex_promo.scss": {
+		"createSourceMap": 1,
+		"debugStyle": 0,
+		"decimalPrecision": 2,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Code\/templates\/scss\/banamex_promo.scss",
+		"outputAbbreviatedPath": "\/css\/banamex_promo.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 3,
+		"shouldRunAutoprefixer": 1,
+		"shouldRunBless": 1,
+		"useLibsass": 0
+		},
+	"\/Code\/templates\/scss\/home_contenedor.scss": {
+		"createSourceMap": 1,
+		"debugStyle": 0,
+		"decimalPrecision": 2,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Code\/templates\/scss\/home_contenedor.scss",
+		"outputAbbreviatedPath": "\/css\/home_contenedor.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 3,
+		"shouldRunAutoprefixer": 1,
+		"shouldRunBless": 1,
+		"useLibsass": 0
+		},
+	"\/Code\/templates\/scss\/junio_promo.scss": {
+		"createSourceMap": 1,
+		"debugStyle": 0,
+		"decimalPrecision": 2,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Code\/templates\/scss\/junio_promo.scss",
+		"outputAbbreviatedPath": "\/css\/junio_promo.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 3,
+		"shouldRunAutoprefixer": 1,
+		"shouldRunBless": 1,
+		"useLibsass": 0
 		},
 	"\/Code\/templates\/scss\/main.scss": {
 		"createSourceMap": 1,
@@ -352,6 +519,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/Code\/templates\/scss\/main.scss",
 		"outputAbbreviatedPath": "\/css\/main.css",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 3,
 		"shouldRunAutoprefixer": 1,
@@ -367,6 +535,23 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/Code\/templates\/scss\/normalize.scss",
 		"outputAbbreviatedPath": "\/css\/normalize.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 3,
+		"shouldRunAutoprefixer": 1,
+		"shouldRunBless": 1,
+		"useLibsass": 0
+		},
+	"\/Code\/templates\/scss\/variables.scss": {
+		"createSourceMap": 1,
+		"debugStyle": 0,
+		"decimalPrecision": 2,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Code\/templates\/scss\/variables.scss",
+		"outputAbbreviatedPath": "\/css\/variables.css",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 3,
 		"shouldRunAutoprefixer": 1,
@@ -378,10 +563,11 @@
 		"enableSmartyPants": 1,
 		"expandTabs": 1,
 		"fileType": 4096,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
+		"ignore": 1,
+		"ignoreWasSetByUser": 1,
 		"inputAbbreviatedPath": "\/CONTRIBUTING.md",
 		"outputAbbreviatedPath": "\/CONTRIBUTING.html",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
 	"\/convertFont.php": {
@@ -390,6 +576,326 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/convertFont.php",
 		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/fonts\/fire-sans\/firasansot-light-demo.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/fonts\/fire-sans\/firasansot-light-demo.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/fonts\/fire-sans\/specimen_files\/easytabs.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/fonts\/fire-sans\/specimen_files\/easytabs.js",
+		"outputAbbreviatedPath": "\/js\/easytabs.min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 2,
+		"syntaxCheckerStyle": 1
+		},
+	"\/css\/fonts\/fire-sans\/specimen_files\/firasansot-light-cleartype.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 84206,
+		"inputAbbreviatedPath": "\/css\/fonts\/fire-sans\/specimen_files\/firasansot-light-cleartype.png",
+		"outputAbbreviatedPath": "\/css\/fonts\/fire-sans\/specimen_files\/firasansot-light-cleartype.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/css\/fonts\/fire-sans\/specimen_files\/grid_12-825-55-15.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/fonts\/fire-sans\/specimen_files\/grid_12-825-55-15.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/fonts\/fire-sans\/specimen_files\/specimen_stylesheet.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/fonts\/fire-sans\/specimen_files\/specimen_stylesheet.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/fonts\/fire-sans\/stylesheet.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/fonts\/fire-sans\/stylesheet.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/fonts\/nobile-bold\/nobile-bold-demo.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/fonts\/nobile-bold\/nobile-bold-demo.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/fonts\/nobile-regular\/nobile-regular-demo.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/fonts\/nobile-regular\/nobile-regular-demo.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/fonts\/nobile\/specimen_files\/easytabs.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/fonts\/nobile\/specimen_files\/easytabs.js",
+		"outputAbbreviatedPath": "\/js\/easytabs.min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 2,
+		"syntaxCheckerStyle": 1
+		},
+	"\/css\/fonts\/nobile\/specimen_files\/grid_12-825-55-15.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/fonts\/nobile\/specimen_files\/grid_12-825-55-15.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/fonts\/nobile\/specimen_files\/nobile-bold-cleartype.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 89884,
+		"inputAbbreviatedPath": "\/css\/fonts\/nobile\/specimen_files\/nobile-bold-cleartype.png",
+		"outputAbbreviatedPath": "\/css\/fonts\/nobile\/specimen_files\/nobile-bold-cleartype.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/css\/fonts\/nobile\/specimen_files\/nobile-regular-cleartype.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 92210,
+		"inputAbbreviatedPath": "\/css\/fonts\/nobile\/specimen_files\/nobile-regular-cleartype.png",
+		"outputAbbreviatedPath": "\/css\/fonts\/nobile\/specimen_files\/nobile-regular-cleartype.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/css\/fonts\/nobile\/specimen_files\/specimen_stylesheet.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/fonts\/nobile\/specimen_files\/specimen_stylesheet.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/fonts\/nobile\/stylesheet.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/fonts\/nobile\/stylesheet.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/fonts\/open-sans-condensed-bold\/OpenSans-CondBold-demo.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/fonts\/open-sans-condensed-bold\/OpenSans-CondBold-demo.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/fonts\/open-sans-condensed-bold\/specimen_files\/easytabs.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/fonts\/open-sans-condensed-bold\/specimen_files\/easytabs.js",
+		"outputAbbreviatedPath": "\/js\/easytabs.min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 2,
+		"syntaxCheckerStyle": 1
+		},
+	"\/css\/fonts\/open-sans-condensed-bold\/specimen_files\/grid_12-825-55-15.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/fonts\/open-sans-condensed-bold\/specimen_files\/grid_12-825-55-15.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/fonts\/open-sans-condensed-bold\/specimen_files\/OpenSans-CondBold-cleartype.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 90683,
+		"inputAbbreviatedPath": "\/css\/fonts\/open-sans-condensed-bold\/specimen_files\/OpenSans-CondBold-cleartype.png",
+		"outputAbbreviatedPath": "\/css\/fonts\/open-sans-condensed-bold\/specimen_files\/OpenSans-CondBold-cleartype.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/css\/fonts\/open-sans-condensed-bold\/specimen_files\/specimen_stylesheet.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/fonts\/open-sans-condensed-bold\/specimen_files\/specimen_stylesheet.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/fonts\/open-sans-condensed-bold\/stylesheet.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/fonts\/open-sans-condensed-bold\/stylesheet.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/fonts\/open-sans-condensed-light-italic\/OpenSans-CondLightItalic-demo.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/fonts\/open-sans-condensed-light-italic\/OpenSans-CondLightItalic-demo.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/fonts\/open-sans-condensed-light-italic\/specimen_files\/easytabs.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/fonts\/open-sans-condensed-light-italic\/specimen_files\/easytabs.js",
+		"outputAbbreviatedPath": "\/js\/easytabs.min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 2,
+		"syntaxCheckerStyle": 1
+		},
+	"\/css\/fonts\/open-sans-condensed-light-italic\/specimen_files\/grid_12-825-55-15.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/fonts\/open-sans-condensed-light-italic\/specimen_files\/grid_12-825-55-15.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/fonts\/open-sans-condensed-light-italic\/specimen_files\/OpenSans-CondLightItalic-cleartype.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 97790,
+		"inputAbbreviatedPath": "\/css\/fonts\/open-sans-condensed-light-italic\/specimen_files\/OpenSans-CondLightItalic-cleartype.png",
+		"outputAbbreviatedPath": "\/css\/fonts\/open-sans-condensed-light-italic\/specimen_files\/OpenSans-CondLightItalic-cleartype.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/css\/fonts\/open-sans-condensed-light-italic\/specimen_files\/specimen_stylesheet.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/fonts\/open-sans-condensed-light-italic\/specimen_files\/specimen_stylesheet.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/fonts\/open-sans-condensed-light-italic\/stylesheet.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/fonts\/open-sans-condensed-light-italic\/stylesheet.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/fonts\/open-sans-condensed-light\/OpenSans-CondLight-demo.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/fonts\/open-sans-condensed-light\/OpenSans-CondLight-demo.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/fonts\/open-sans-condensed-light\/specimen_files\/easytabs.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/fonts\/open-sans-condensed-light\/specimen_files\/easytabs.js",
+		"outputAbbreviatedPath": "\/js\/easytabs.min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 2,
+		"syntaxCheckerStyle": 1
+		},
+	"\/css\/fonts\/open-sans-condensed-light\/specimen_files\/grid_12-825-55-15.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/fonts\/open-sans-condensed-light\/specimen_files\/grid_12-825-55-15.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/fonts\/open-sans-condensed-light\/specimen_files\/OpenSans-CondLight-cleartype.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 92479,
+		"inputAbbreviatedPath": "\/css\/fonts\/open-sans-condensed-light\/specimen_files\/OpenSans-CondLight-cleartype.png",
+		"outputAbbreviatedPath": "\/css\/fonts\/open-sans-condensed-light\/specimen_files\/OpenSans-CondLight-cleartype.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/css\/fonts\/open-sans-condensed-light\/specimen_files\/specimen_stylesheet.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/fonts\/open-sans-condensed-light\/specimen_files\/specimen_stylesheet.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/fonts\/open-sans-condensed-light\/stylesheet.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/fonts\/open-sans-condensed-light\/stylesheet.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/fonts\/open-sans-condensed\/How_to_use_webfonts.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/fonts\/open-sans-condensed\/How_to_use_webfonts.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
 	"\/css\/main.css": {
@@ -398,6 +904,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/css\/main.css",
 		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
 	"\/favicon.png": {
@@ -407,8 +914,9 @@
 		"initialSize": 482,
 		"inputAbbreviatedPath": "\/favicon.png",
 		"outputAbbreviatedPath": "\/favicon.png",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/google726f2f452bf462b1.html": {
 		"fileType": 8192,
@@ -416,6 +924,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/google726f2f452bf462b1.html",
 		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
 	"\/img\/agenda_tuCita.png": {
@@ -425,8 +934,9 @@
 		"initialSize": 2733,
 		"inputAbbreviatedPath": "\/img\/agenda_tuCita.png",
 		"outputAbbreviatedPath": "\/img\/agenda_tuCita.png",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/atras.png": {
 		"fileType": 32768,
@@ -435,8 +945,9 @@
 		"initialSize": 1238,
 		"inputAbbreviatedPath": "\/img\/atras.png",
 		"outputAbbreviatedPath": "\/img\/atras.png",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/background.jpg": {
 		"fileType": 16384,
@@ -445,8 +956,9 @@
 		"initialSize": 1170,
 		"inputAbbreviatedPath": "\/img\/background.jpg",
 		"outputAbbreviatedPath": "\/img\/background.jpg",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/background_lightbox.png": {
 		"fileType": 32768,
@@ -455,8 +967,130 @@
 		"initialSize": 921,
 		"inputAbbreviatedPath": "\/img\/background_lightbox.png",
 		"outputAbbreviatedPath": "\/img\/background_lightbox.png",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
+		},
+	"\/img\/banamex_promo\/banamex_logo.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 5081,
+		"inputAbbreviatedPath": "\/img\/banamex_promo\/banamex_logo.png",
+		"outputAbbreviatedPath": "\/img\/banamex_promo\/banamex_logo.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/img\/banamex_promo\/BG.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 50365,
+		"inputAbbreviatedPath": "\/img\/banamex_promo\/BG.jpg",
+		"outputAbbreviatedPath": "\/img\/banamex_promo\/BG.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/img\/banamex_promo\/boja_header.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8013,
+		"inputAbbreviatedPath": "\/img\/banamex_promo\/boja_header.png",
+		"outputAbbreviatedPath": "\/img\/banamex_promo\/boja_header.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/img\/banamex_promo\/degradado_banamex.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1152,
+		"inputAbbreviatedPath": "\/img\/banamex_promo\/degradado_banamex.png",
+		"outputAbbreviatedPath": "\/img\/banamex_promo\/degradado_banamex.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/img\/banamex_promo\/flecha_cuadro_gris.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1319,
+		"inputAbbreviatedPath": "\/img\/banamex_promo\/flecha_cuadro_gris.png",
+		"outputAbbreviatedPath": "\/img\/banamex_promo\/flecha_cuadro_gris.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/img\/banamex_promo\/flecha_cuandro_amarillo.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1368,
+		"inputAbbreviatedPath": "\/img\/banamex_promo\/flecha_cuandro_amarillo.png",
+		"outputAbbreviatedPath": "\/img\/banamex_promo\/flecha_cuandro_amarillo.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/img\/banamex_promo\/logos.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 10423,
+		"inputAbbreviatedPath": "\/img\/banamex_promo\/logos.png",
+		"outputAbbreviatedPath": "\/img\/banamex_promo\/logos.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/img\/banamex_promo\/mas.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1146,
+		"inputAbbreviatedPath": "\/img\/banamex_promo\/mas.png",
+		"outputAbbreviatedPath": "\/img\/banamex_promo\/mas.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/img\/banamex_promo\/weyes-3.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 494422,
+		"inputAbbreviatedPath": "\/img\/banamex_promo\/weyes-3.png",
+		"outputAbbreviatedPath": "\/img\/banamex_promo\/weyes-3.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/img\/banamex_promo\/weyes.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.14396e+06,
+		"inputAbbreviatedPath": "\/img\/banamex_promo\/weyes.png",
+		"outputAbbreviatedPath": "\/img\/banamex_promo\/weyes.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/img\/banamex_promo\/weyes_2.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.00875e+06,
+		"inputAbbreviatedPath": "\/img\/banamex_promo\/weyes_2.png",
+		"outputAbbreviatedPath": "\/img\/banamex_promo\/weyes_2.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
 		},
 	"\/img\/BG.png": {
 		"fileType": 32768,
@@ -465,8 +1099,9 @@
 		"initialSize": 19499,
 		"inputAbbreviatedPath": "\/img\/BG.png",
 		"outputAbbreviatedPath": "\/img\/BG.png",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/bg_boja.jpg": {
 		"fileType": 16384,
@@ -475,8 +1110,9 @@
 		"initialSize": 732543,
 		"inputAbbreviatedPath": "\/img\/bg_boja.jpg",
 		"outputAbbreviatedPath": "\/img\/bg_boja.jpg",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/bojanini-friends.png": {
 		"fileType": 32768,
@@ -485,8 +1121,9 @@
 		"initialSize": 1.16281e+06,
 		"inputAbbreviatedPath": "\/img\/bojanini-friends.png",
 		"outputAbbreviatedPath": "\/img\/bojanini-friends.png",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/close.png": {
 		"fileType": 32768,
@@ -495,8 +1132,9 @@
 		"initialSize": 1337,
 		"inputAbbreviatedPath": "\/img\/close.png",
 		"outputAbbreviatedPath": "\/img\/close.png",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/comienza-ya-button.png": {
 		"fileType": 32768,
@@ -505,8 +1143,9 @@
 		"initialSize": 4100,
 		"inputAbbreviatedPath": "\/img\/comienza-ya-button.png",
 		"outputAbbreviatedPath": "\/img\/comienza-ya-button.png",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/comienza.png": {
 		"fileType": 32768,
@@ -515,8 +1154,9 @@
 		"initialSize": 1916,
 		"inputAbbreviatedPath": "\/img\/comienza.png",
 		"outputAbbreviatedPath": "\/img\/comienza.png",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/comienza_over.png": {
 		"fileType": 32768,
@@ -525,8 +1165,9 @@
 		"initialSize": 1948,
 		"inputAbbreviatedPath": "\/img\/comienza_over.png",
 		"outputAbbreviatedPath": "\/img\/comienza_over.png",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/cuadro_2.png": {
 		"fileType": 32768,
@@ -535,8 +1176,9 @@
 		"initialSize": 1593,
 		"inputAbbreviatedPath": "\/img\/cuadro_2.png",
 		"outputAbbreviatedPath": "\/img\/cuadro_2.png",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/cuadro_3.png": {
 		"fileType": 32768,
@@ -545,8 +1187,9 @@
 		"initialSize": 1109,
 		"inputAbbreviatedPath": "\/img\/cuadro_3.png",
 		"outputAbbreviatedPath": "\/img\/cuadro_3.png",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/cuadro_amarillo.png": {
 		"fileType": 32768,
@@ -555,8 +1198,9 @@
 		"initialSize": 1805,
 		"inputAbbreviatedPath": "\/img\/cuadro_amarillo.png",
 		"outputAbbreviatedPath": "\/img\/cuadro_amarillo.png",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/cuadro_seleccion.png": {
 		"fileType": 32768,
@@ -565,8 +1209,9 @@
 		"initialSize": 1077,
 		"inputAbbreviatedPath": "\/img\/cuadro_seleccion.png",
 		"outputAbbreviatedPath": "\/img\/cuadro_seleccion.png",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/enviar.png": {
 		"fileType": 32768,
@@ -575,8 +1220,9 @@
 		"initialSize": 1533,
 		"inputAbbreviatedPath": "\/img\/enviar.png",
 		"outputAbbreviatedPath": "\/img\/enviar.png",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/enviar_over.png": {
 		"fileType": 32768,
@@ -585,8 +1231,9 @@
 		"initialSize": 1607,
 		"inputAbbreviatedPath": "\/img\/enviar_over.png",
 		"outputAbbreviatedPath": "\/img\/enviar_over.png",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/Etapas_hombre\/E1_perfil_H.png": {
 		"fileType": 32768,
@@ -595,8 +1242,9 @@
 		"initialSize": 16845,
 		"inputAbbreviatedPath": "\/img\/Etapas_hombre\/E1_perfil_H.png",
 		"outputAbbreviatedPath": "\/img\/Etapas_hombre\/E1_perfil_H.png",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/Etapas_hombre\/E1_Top_H.png": {
 		"fileType": 32768,
@@ -605,8 +1253,9 @@
 		"initialSize": 12666,
 		"inputAbbreviatedPath": "\/img\/Etapas_hombre\/E1_Top_H.png",
 		"outputAbbreviatedPath": "\/img\/Etapas_hombre\/E1_Top_H.png",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/Etapas_hombre\/E2_perfil_H.png": {
 		"fileType": 32768,
@@ -615,8 +1264,9 @@
 		"initialSize": 17057,
 		"inputAbbreviatedPath": "\/img\/Etapas_hombre\/E2_perfil_H.png",
 		"outputAbbreviatedPath": "\/img\/Etapas_hombre\/E2_perfil_H.png",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/Etapas_hombre\/E2_Top_H.png": {
 		"fileType": 32768,
@@ -625,8 +1275,9 @@
 		"initialSize": 13260,
 		"inputAbbreviatedPath": "\/img\/Etapas_hombre\/E2_Top_H.png",
 		"outputAbbreviatedPath": "\/img\/Etapas_hombre\/E2_Top_H.png",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/Etapas_hombre\/E3_perfil_H.png": {
 		"fileType": 32768,
@@ -635,8 +1286,9 @@
 		"initialSize": 17412,
 		"inputAbbreviatedPath": "\/img\/Etapas_hombre\/E3_perfil_H.png",
 		"outputAbbreviatedPath": "\/img\/Etapas_hombre\/E3_perfil_H.png",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/Etapas_hombre\/E3_Top_H.png": {
 		"fileType": 32768,
@@ -645,8 +1297,9 @@
 		"initialSize": 14553,
 		"inputAbbreviatedPath": "\/img\/Etapas_hombre\/E3_Top_H.png",
 		"outputAbbreviatedPath": "\/img\/Etapas_hombre\/E3_Top_H.png",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/Etapas_hombre\/E3Vertex_perfil_H.png": {
 		"fileType": 32768,
@@ -655,8 +1308,9 @@
 		"initialSize": 17515,
 		"inputAbbreviatedPath": "\/img\/Etapas_hombre\/E3Vertex_perfil_H.png",
 		"outputAbbreviatedPath": "\/img\/Etapas_hombre\/E3Vertex_perfil_H.png",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/Etapas_hombre\/E3Vertex_Top_H.png": {
 		"fileType": 32768,
@@ -665,8 +1319,9 @@
 		"initialSize": 14885,
 		"inputAbbreviatedPath": "\/img\/Etapas_hombre\/E3Vertex_Top_H.png",
 		"outputAbbreviatedPath": "\/img\/Etapas_hombre\/E3Vertex_Top_H.png",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/Etapas_hombre\/E4_perfil_H.png": {
 		"fileType": 32768,
@@ -675,8 +1330,9 @@
 		"initialSize": 17824,
 		"inputAbbreviatedPath": "\/img\/Etapas_hombre\/E4_perfil_H.png",
 		"outputAbbreviatedPath": "\/img\/Etapas_hombre\/E4_perfil_H.png",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/Etapas_hombre\/E4_Top_H.png": {
 		"fileType": 32768,
@@ -685,8 +1341,9 @@
 		"initialSize": 15280,
 		"inputAbbreviatedPath": "\/img\/Etapas_hombre\/E4_Top_H.png",
 		"outputAbbreviatedPath": "\/img\/Etapas_hombre\/E4_Top_H.png",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/Etapas_hombre\/E5_perfil_H.png": {
 		"fileType": 32768,
@@ -695,8 +1352,9 @@
 		"initialSize": 17973,
 		"inputAbbreviatedPath": "\/img\/Etapas_hombre\/E5_perfil_H.png",
 		"outputAbbreviatedPath": "\/img\/Etapas_hombre\/E5_perfil_H.png",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/Etapas_hombre\/E5_Top_H.png": {
 		"fileType": 32768,
@@ -705,8 +1363,9 @@
 		"initialSize": 15709,
 		"inputAbbreviatedPath": "\/img\/Etapas_hombre\/E5_Top_H.png",
 		"outputAbbreviatedPath": "\/img\/Etapas_hombre\/E5_Top_H.png",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/Etapas_hombre\/E6_perfil_H.png": {
 		"fileType": 32768,
@@ -715,8 +1374,9 @@
 		"initialSize": 18527,
 		"inputAbbreviatedPath": "\/img\/Etapas_hombre\/E6_perfil_H.png",
 		"outputAbbreviatedPath": "\/img\/Etapas_hombre\/E6_perfil_H.png",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/Etapas_hombre\/E6_Top_H.png": {
 		"fileType": 32768,
@@ -725,8 +1385,9 @@
 		"initialSize": 15827,
 		"inputAbbreviatedPath": "\/img\/Etapas_hombre\/E6_Top_H.png",
 		"outputAbbreviatedPath": "\/img\/Etapas_hombre\/E6_Top_H.png",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/Etapas_hombre\/E7_perfil_H.png": {
 		"fileType": 32768,
@@ -735,8 +1396,9 @@
 		"initialSize": 18414,
 		"inputAbbreviatedPath": "\/img\/Etapas_hombre\/E7_perfil_H.png",
 		"outputAbbreviatedPath": "\/img\/Etapas_hombre\/E7_perfil_H.png",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/Etapas_hombre\/E7_Top_H.png": {
 		"fileType": 32768,
@@ -745,8 +1407,9 @@
 		"initialSize": 15460,
 		"inputAbbreviatedPath": "\/img\/Etapas_hombre\/E7_Top_H.png",
 		"outputAbbreviatedPath": "\/img\/Etapas_hombre\/E7_Top_H.png",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/flecha.png": {
 		"fileType": 32768,
@@ -755,8 +1418,9 @@
 		"initialSize": 3777,
 		"inputAbbreviatedPath": "\/img\/flecha.png",
 		"outputAbbreviatedPath": "\/img\/flecha.png",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/flecha_der.png": {
 		"fileType": 32768,
@@ -765,8 +1429,9 @@
 		"initialSize": 1849,
 		"inputAbbreviatedPath": "\/img\/flecha_der.png",
 		"outputAbbreviatedPath": "\/img\/flecha_der.png",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/flecha_izq.png": {
 		"fileType": 32768,
@@ -775,8 +1440,9 @@
 		"initialSize": 1907,
 		"inputAbbreviatedPath": "\/img\/flecha_izq.png",
 		"outputAbbreviatedPath": "\/img\/flecha_izq.png",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/formulario_texto.png": {
 		"fileType": 32768,
@@ -785,8 +1451,9 @@
 		"initialSize": 1066,
 		"inputAbbreviatedPath": "\/img\/formulario_texto.png",
 		"outputAbbreviatedPath": "\/img\/formulario_texto.png",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/h1.png": {
 		"fileType": 32768,
@@ -795,8 +1462,9 @@
 		"initialSize": 10877,
 		"inputAbbreviatedPath": "\/img\/h1.png",
 		"outputAbbreviatedPath": "\/img\/h1.png",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/linea-titulo_contenido.png": {
 		"fileType": 32768,
@@ -805,8 +1473,9 @@
 		"initialSize": 1000,
 		"inputAbbreviatedPath": "\/img\/linea-titulo_contenido.png",
 		"outputAbbreviatedPath": "\/img\/linea-titulo_contenido.png",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/linea_cabellos.png": {
 		"fileType": 32768,
@@ -815,8 +1484,9 @@
 		"initialSize": 1021,
 		"inputAbbreviatedPath": "\/img\/linea_cabellos.png",
 		"outputAbbreviatedPath": "\/img\/linea_cabellos.png",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/linea_header_cuadro.png": {
 		"fileType": 32768,
@@ -825,8 +1495,9 @@
 		"initialSize": 1001,
 		"inputAbbreviatedPath": "\/img\/linea_header_cuadro.png",
 		"outputAbbreviatedPath": "\/img\/linea_header_cuadro.png",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/linea_numeros.png": {
 		"fileType": 32768,
@@ -835,8 +1506,9 @@
 		"initialSize": 1218,
 		"inputAbbreviatedPath": "\/img\/linea_numeros.png",
 		"outputAbbreviatedPath": "\/img\/linea_numeros.png",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/linea_promo.png": {
 		"fileType": 32768,
@@ -845,8 +1517,9 @@
 		"initialSize": 998,
 		"inputAbbreviatedPath": "\/img\/linea_promo.png",
 		"outputAbbreviatedPath": "\/img\/linea_promo.png",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/linea_telefono.png": {
 		"fileType": 32768,
@@ -855,8 +1528,9 @@
 		"initialSize": 1087,
 		"inputAbbreviatedPath": "\/img\/linea_telefono.png",
 		"outputAbbreviatedPath": "\/img\/linea_telefono.png",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/linea_titulo.png": {
 		"fileType": 32768,
@@ -865,8 +1539,9 @@
 		"initialSize": 1528,
 		"inputAbbreviatedPath": "\/img\/linea_titulo.png",
 		"outputAbbreviatedPath": "\/img\/linea_titulo.png",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/logo-ESHRS.jpg": {
 		"fileType": 16384,
@@ -875,8 +1550,9 @@
 		"initialSize": 2875,
 		"inputAbbreviatedPath": "\/img\/logo-ESHRS.jpg",
 		"outputAbbreviatedPath": "\/img\/logo-ESHRS.jpg",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/logo_boja.png": {
 		"fileType": 32768,
@@ -885,8 +1561,9 @@
 		"initialSize": 7416,
 		"inputAbbreviatedPath": "\/img\/logo_boja.png",
 		"outputAbbreviatedPath": "\/img\/logo_boja.png",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/logo_international_society.png": {
 		"fileType": 32768,
@@ -895,8 +1572,9 @@
 		"initialSize": 11394,
 		"inputAbbreviatedPath": "\/img\/logo_international_society.png",
 		"outputAbbreviatedPath": "\/img\/logo_international_society.png",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/logo_members.png": {
 		"fileType": 32768,
@@ -905,8 +1583,9 @@
 		"initialSize": 8923,
 		"inputAbbreviatedPath": "\/img\/logo_members.png",
 		"outputAbbreviatedPath": "\/img\/logo_members.png",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/Modelo_perfil.png": {
 		"fileType": 32768,
@@ -915,8 +1594,9 @@
 		"initialSize": 15082,
 		"inputAbbreviatedPath": "\/img\/Modelo_perfil.png",
 		"outputAbbreviatedPath": "\/img\/Modelo_perfil.png",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/modelo_top.png": {
 		"fileType": 32768,
@@ -925,8 +1605,9 @@
 		"initialSize": 14950,
 		"inputAbbreviatedPath": "\/img\/modelo_top.png",
 		"outputAbbreviatedPath": "\/img\/modelo_top.png",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/numeros.png": {
 		"fileType": 32768,
@@ -935,8 +1616,9 @@
 		"initialSize": 5914,
 		"inputAbbreviatedPath": "\/img\/numeros.png",
 		"outputAbbreviatedPath": "\/img\/numeros.png",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/promo_20.png": {
 		"fileType": 32768,
@@ -945,8 +1627,9 @@
 		"initialSize": 1979,
 		"inputAbbreviatedPath": "\/img\/promo_20.png",
 		"outputAbbreviatedPath": "\/img\/promo_20.png",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/promo_30.png": {
 		"fileType": 32768,
@@ -955,8 +1638,9 @@
 		"initialSize": 1720,
 		"inputAbbreviatedPath": "\/img\/promo_30.png",
 		"outputAbbreviatedPath": "\/img\/promo_30.png",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/promo_40.png": {
 		"fileType": 32768,
@@ -965,8 +1649,53 @@
 		"initialSize": 1121,
 		"inputAbbreviatedPath": "\/img\/promo_40.png",
 		"outputAbbreviatedPath": "\/img\/promo_40.png",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
+		},
+	"\/img\/promocion-agosto\/30-porciento-de-descuento-3-meses-sin-intereses-con-banamex-en-microinjerto-capilar.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 20988,
+		"inputAbbreviatedPath": "\/img\/promocion-agosto\/30-porciento-de-descuento-3-meses-sin-intereses-con-banamex-en-microinjerto-capilar.png",
+		"outputAbbreviatedPath": "\/img\/promocion-agosto\/30-porciento-de-descuento-3-meses-sin-intereses-con-banamex-en-microinjerto-capilar.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/img\/promocion-agosto\/aprovecha-este-verano-para-realizarte-microinjerto-capilar-con-la-tecnica-fue.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8188,
+		"inputAbbreviatedPath": "\/img\/promocion-agosto\/aprovecha-este-verano-para-realizarte-microinjerto-capilar-con-la-tecnica-fue.png",
+		"outputAbbreviatedPath": "\/img\/promocion-agosto\/aprovecha-este-verano-para-realizarte-microinjerto-capilar-con-la-tecnica-fue.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/img\/promocion-agosto\/cambia-de-look-estas-vacaciones.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 15458,
+		"inputAbbreviatedPath": "\/img\/promocion-agosto\/cambia-de-look-estas-vacaciones.png",
+		"outputAbbreviatedPath": "\/img\/promocion-agosto\/cambia-de-look-estas-vacaciones.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
+		},
+	"\/img\/promocion-agosto\/persona-promocion-agosto.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 591591,
+		"inputAbbreviatedPath": "\/img\/promocion-agosto\/persona-promocion-agosto.png",
+		"outputAbbreviatedPath": "\/img\/promocion-agosto\/persona-promocion-agosto.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 1
 		},
 	"\/img\/recuadro_grande.png": {
 		"fileType": 32768,
@@ -975,8 +1704,9 @@
 		"initialSize": 2613,
 		"inputAbbreviatedPath": "\/img\/recuadro_grande.png",
 		"outputAbbreviatedPath": "\/img\/recuadro_grande.png",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/seleccion-sprite.png": {
 		"fileType": 32768,
@@ -985,8 +1715,9 @@
 		"initialSize": 2857,
 		"inputAbbreviatedPath": "\/img\/seleccion-sprite.png",
 		"outputAbbreviatedPath": "\/img\/seleccion-sprite.png",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/seleccion.png": {
 		"fileType": 32768,
@@ -995,8 +1726,9 @@
 		"initialSize": 1165,
 		"inputAbbreviatedPath": "\/img\/seleccion.png",
 		"outputAbbreviatedPath": "\/img\/seleccion.png",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/seleccion_over.png": {
 		"fileType": 32768,
@@ -1005,8 +1737,9 @@
 		"initialSize": 1242,
 		"inputAbbreviatedPath": "\/img\/seleccion_over.png",
 		"outputAbbreviatedPath": "\/img\/seleccion_over.png",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/send-button.png": {
 		"fileType": 32768,
@@ -1015,8 +1748,9 @@
 		"initialSize": 3582,
 		"inputAbbreviatedPath": "\/img\/send-button.png",
 		"outputAbbreviatedPath": "\/img\/send-button.png",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/titulo.png": {
 		"fileType": 32768,
@@ -1025,8 +1759,9 @@
 		"initialSize": 10090,
 		"inputAbbreviatedPath": "\/img\/titulo.png",
 		"outputAbbreviatedPath": "\/img\/titulo.png",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/weyes.png": {
 		"fileType": 32768,
@@ -1035,8 +1770,9 @@
 		"initialSize": 811721,
 		"inputAbbreviatedPath": "\/img\/weyes.png",
 		"outputAbbreviatedPath": "\/img\/weyes.png",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/weyes_small.png": {
 		"fileType": 32768,
@@ -1045,8 +1781,27 @@
 		"initialSize": 499801,
 		"inputAbbreviatedPath": "\/img\/weyes_small.png",
 		"outputAbbreviatedPath": "\/img\/weyes_small.png",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
+		},
+	"\/index.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/index_banamex.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/index_banamex.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
 		},
 	"\/js\/main.min.js": {
 		"fileType": 64,
@@ -1054,6 +1809,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/js\/main.min.js",
 		"outputAbbreviatedPath": "\/js\/main.min.min.js",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 2,
 		"syntaxCheckerStyle": 1
@@ -1064,6 +1820,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/js\/plugins.min.js",
 		"outputAbbreviatedPath": "\/js\/plugins.min.min.js",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 2,
 		"syntaxCheckerStyle": 1
@@ -1074,6 +1831,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/js\/vendor\/jquery-1.8.3.min.js",
 		"outputAbbreviatedPath": "\/js\/jquery-1.8.3.min.min.js",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 2,
 		"syntaxCheckerStyle": 1
@@ -1084,6 +1842,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/js\/vendor\/jquery-1.9.0.min.js",
 		"outputAbbreviatedPath": "\/js\/jquery-1.9.0.min.min.js",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 2,
 		"syntaxCheckerStyle": 1
@@ -1094,6 +1853,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/js\/vendor\/modernizr-2.6.2.min.js",
 		"outputAbbreviatedPath": "\/js\/modernizr-2.6.2.min.min.js",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 2,
 		"syntaxCheckerStyle": 1
@@ -1104,6 +1864,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/js\/vendor\/prefixfree.min.js",
 		"outputAbbreviatedPath": "\/js\/prefixfree.min.min.js",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 2,
 		"syntaxCheckerStyle": 1
@@ -1113,10 +1874,11 @@
 		"enableSmartyPants": 1,
 		"expandTabs": 1,
 		"fileType": 4096,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
+		"ignore": 1,
+		"ignoreWasSetByUser": 1,
 		"inputAbbreviatedPath": "\/LICENSE.md",
 		"outputAbbreviatedPath": "\/LICENSE.html",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
 	"\/README.md": {
@@ -1124,16 +1886,17 @@
 		"enableSmartyPants": 1,
 		"expandTabs": 1,
 		"fileType": 4096,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
+		"ignore": 1,
+		"ignoreWasSetByUser": 1,
 		"inputAbbreviatedPath": "\/README.md",
 		"outputAbbreviatedPath": "\/README.html",
+		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		}
 	},
 "hooks": [
 	],
-"lastSavedByUser": "Jesús Antonio García Valadez",
+"lastSavedByUser": "Jesús García Valadez",
 "manualImportLinks": {
 	},
 "projectAttributes": {
@@ -1149,6 +1912,8 @@
 	"autoprefixerBrowserString": "> 1%, last 2 versions, ff 17, opera 12.1",
 	"autoSyncProjectSettingsFile": 1,
 	"browserRefreshDelay": 0,
+	"coffeeAutoOutputPathEnabled": 1,
+	"coffeeAutoOutputPathFilenamePattern": "*.js",
 	"coffeeAutoOutputPathRelativePath": "js",
 	"coffeeAutoOutputPathReplace1": "",
 	"coffeeAutoOutputPathReplace2": "",
@@ -1199,12 +1964,16 @@
 			"active": 0,
 			"flagValue": 3
 			},
-		"no-unnecessary_fat_arrows": {
+		"no_backticks": {
 			"active": 1,
 			"flagValue": -1
 			},
-		"no_backticks": {
+		"no_debugger": {
 			"active": 1,
+			"flagValue": -1
+			},
+		"no_empty_functions": {
+			"active": 0,
 			"flagValue": -1
 			},
 		"no_empty_param_list": {
@@ -1216,6 +1985,10 @@
 			"flagValue": -1
 			},
 		"no_implicit_parens": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_interpolation_in_single_quotes": {
 			"active": 0,
 			"flagValue": -1
 			},
@@ -1243,6 +2016,14 @@
 			"active": 1,
 			"flagValue": -1
 			},
+		"no_unnecessary_double_quotes": {
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_unnecessary_fat_arrows": {
+			"active": 1,
+			"flagValue": -1
+			},
 		"non_empty_constructor_needs_parens": {
 			"active": 0,
 			"flagValue": -1
@@ -1258,6 +2039,8 @@
 	"externalServerAddress": "http:\/\/localhost:80\/new_giovanni_bojanini_landing",
 	"externalServerPreviewPathAddition": "",
 	"genericWebpageFileExtensionsString": "html, htm, shtml, shtm, xhtml, php, jsp, asp, aspx, erb, ctp",
+	"hamlAutoOutputPathEnabled": 1,
+	"hamlAutoOutputPathFilenamePattern": "*.html",
 	"hamlAutoOutputPathRelativePath": "..\/",
 	"hamlAutoOutputPathReplace1": "",
 	"hamlAutoOutputPathReplace2": "",
@@ -1269,19 +2052,22 @@
 	"hamlUseCDATA": 0,
 	"hamlUseDoubleQuotes": 1,
 	"hamlUseUnixNewlines": 0,
+	"jadeAutoOutputPathEnabled": 1,
+	"jadeAutoOutputPathFilenamePattern": "*.html",
 	"jadeAutoOutputPathRelativePath": "..\/",
 	"jadeAutoOutputPathReplace1": "",
 	"jadeAutoOutputPathReplace2": "",
 	"jadeAutoOutputPathStyle": 1,
 	"jadeCompileDebug": 1,
 	"jadeOutputStyle": 1,
+	"javascriptAutoOutputPathEnabled": 1,
+	"javascriptAutoOutputPathFilenamePattern": "*-min.js",
 	"javascriptAutoOutputPathRelativePath": "\/js",
 	"javascriptAutoOutputPathReplace1": "",
 	"javascriptAutoOutputPathReplace2": "",
 	"javascriptAutoOutputPathStyle": 1,
 	"javascriptCreateSourceMap": 1,
 	"javascriptOutputStyle": 2,
-	"javascriptOutputSuffix": ".min",
 	"javascriptSyntaxCheckerStyle": 1,
 	"jsCheckerReservedNamesString": "jQuery,$,_,GBLanding:write,_GBLanding:write,_selector:write,selector:write,_class:write,_title:write,_markup:write,_options:write,elemLeft:write,_comment:write,_valueChange:write,_durationInSec:write,_scrollYOffset:write,_offsetTop:write,_classToFix:write,_classToDeFix:write,toFix:write,toDeFix:write,_selectorToApply:write,",
 	"jsHintFlags2": {
@@ -1358,10 +2144,6 @@
 			"flagValue": -1
 			},
 		"funcscope": {
-			"active": 0,
-			"flagValue": -1
-			},
-		"gcl": {
 			"active": 0,
 			"flagValue": -1
 			},
@@ -1477,10 +2259,6 @@
 			"active": 0,
 			"flagValue": -1
 			},
-		"onevar": {
-			"active": 0,
-			"flagValue": -1
-			},
 		"phantom": {
 			"active": 0,
 			"flagValue": -1
@@ -1517,10 +2295,6 @@
 			"active": 0,
 			"flagValue": -1
 			},
-		"smarttabs": {
-			"active": 0,
-			"flagValue": -1
-			},
 		"strict": {
 			"active": 0,
 			"flagValue": -1
@@ -1533,10 +2307,6 @@
 			"active": 0,
 			"flagValue": -1
 			},
-		"trailing": {
-			"active": 1,
-			"flagValue": -1
-			},
 		"typed": {
 			"active": 0,
 			"flagValue": -1
@@ -1547,10 +2317,6 @@
 			},
 		"unused": {
 			"active": 1,
-			"flagValue": -1
-			},
-		"white": {
-			"active": 0,
 			"flagValue": -1
 			},
 		"withstmt": {
@@ -1676,11 +2442,15 @@
 			"flagValue": -1
 			}
 		},
+	"kitAutoOutputPathEnabled": 1,
+	"kitAutoOutputPathFilenamePattern": "*.html",
 	"kitAutoOutputPathRelativePath": "",
 	"kitAutoOutputPathReplace1": "",
 	"kitAutoOutputPathReplace2": "",
 	"kitAutoOutputPathStyle": 0,
 	"lessAllowInsecureImports": 0,
+	"lessAutoOutputPathEnabled": 1,
+	"lessAutoOutputPathFilenamePattern": "*.css",
 	"lessAutoOutputPathRelativePath": "..\/css",
 	"lessAutoOutputPathReplace1": "less",
 	"lessAutoOutputPathReplace2": "css",
@@ -1693,6 +2463,8 @@
 	"lessStrictImports": 0,
 	"lessStrictMath": 0,
 	"lessStrictUnits": 0,
+	"markdownAutoOutputPathEnabled": 1,
+	"markdownAutoOutputPathFilenamePattern": "*.html",
 	"markdownAutoOutputPathRelativePath": "",
 	"markdownAutoOutputPathReplace1": "",
 	"markdownAutoOutputPathReplace2": "",
@@ -1701,6 +2473,8 @@
 	"markdownEnableSmartyPants": 1,
 	"markdownExpandTabs": 1,
 	"reloadFileURLs": 1,
+	"sassAutoOutputPathEnabled": 1,
+	"sassAutoOutputPathFilenamePattern": "*.css",
 	"sassAutoOutputPathRelativePath": "css",
 	"sassAutoOutputPathReplace1": "sass",
 	"sassAutoOutputPathReplace2": "css",
@@ -1713,6 +2487,8 @@
 	"shouldRunAutoprefixer": 1,
 	"shouldRunBless": 1,
 	"skippedItemsString": ".svn, .git, .hg, log, _logs, _cache, cache, logs",
+	"slimAutoOutputPathEnabled": 1,
+	"slimAutoOutputPathFilenamePattern": "*.html",
 	"slimAutoOutputPathRelativePath": "",
 	"slimAutoOutputPathReplace1": "",
 	"slimAutoOutputPathReplace2": "",
@@ -1721,6 +2497,8 @@
 	"slimLogicless": 0,
 	"slimOutputStyle": 1,
 	"slimRailsCompatible": 0,
+	"stylusAutoOutputPathEnabled": 1,
+	"stylusAutoOutputPathFilenamePattern": "*.css",
 	"stylusAutoOutputPathRelativePath": "..\/css",
 	"stylusAutoOutputPathReplace1": "stylus",
 	"stylusAutoOutputPathReplace2": "css",
@@ -1729,6 +2507,8 @@
 	"stylusImportCSS": 0,
 	"stylusOutputStyle": 0,
 	"stylusResolveRelativeURLS": 0,
+	"typescriptAutoOutputPathEnabled": 1,
+	"typescriptAutoOutputPathFilenamePattern": "*.js",
 	"typescriptAutoOutputPathRelativePath": "\/js",
 	"typescriptAutoOutputPathReplace1": "",
 	"typescriptAutoOutputPathReplace2": "",

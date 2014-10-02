@@ -1,0 +1,63 @@
+#junio_promo{
+    
+    #discounts{
+        float: none !important;
+        > div{
+            background-image: none !important;
+            box-sizing: border-box;
+            padding: 0 !important;
+            width: 33.335% !important;
+            p{
+                padding: 0 !important;
+                position: relative;
+                top: 50%;
+                width: 100%;
+            }
+            .triangle{ @extend .triangle; }
+        }
+        .twenty{
+            background-color: $yellow !important;
+            p{
+                @include font-mask( $text_gray, em( 16, 16 ) !important, em( 16, 16 ) !important, normal, $Nobile_Bold !important );
+                margin: -28px auto 0 !important;
+                strong{
+                    
+                    span{
+                        font-size: em( 27, 16 );
+                        line-height: em( 27, 27 );
+                    }
+                }
+            }
+            .triangle{}
+        }
+        .thirty{
+            background-color: #494949 !important;
+            left: 144px;
+            z-index: 5;
+            p{
+                @include font-mask( $white, em( 50, 16 ) !important, em( 50, 50 ) !important, normal, $Nobile_Bold !important );
+                margin: -25px auto 0 !important;
+                strong{}
+            }
+            .triangle{ border-left-color: #494949; }
+        }
+        .fourthy{
+            background-color: $text_gray !important;
+            p{
+                @include font-mask( $white !important, em( 14, 16 ) !important, em( 21, 14 ) !important, normal, $Nobile_Bold !important );
+                margin: -42px auto 0 !important;
+                strong{
+                    
+                    .yellow{ color: $yellow; }
+                }
+            }
+        }
+        .aclaration{
+            width: 100% !important;
+            p{
+                position: static;
+                strong{}
+            }
+        }
+    }
+}

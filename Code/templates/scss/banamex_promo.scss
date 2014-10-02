@@ -1,0 +1,116 @@
+#banamex_promo{
+    
+    #description{
+        float: none !important;
+        margin: 10px 0;
+        p{
+            
+            strong{}
+        }
+    }
+    #discounts{
+        float: none !important;
+        > div{
+            box-sizing: border-box;
+            padding: 0 !important;
+            .discount{
+                font-size: 45px !important;
+                line-height: 50px !important;
+                margin: 0 !important;
+                padding: 0 !important;
+                &:nth-child( 2n + 3 ){
+                    display: inline-block;
+                    float: left;
+                }
+            }
+            .of_discount{
+                margin: 10px 0 0 !important;
+                padding: 0 !important;
+            }
+            p.without_interest{
+                margin: 0 !important;
+                padding: 0 !important;
+                strong{}
+            }
+            .months{}
+            .triangle{}
+        }
+        .twenty{
+            background-color: $yellow !important;
+            background-image: none !important;
+            width: 33.33%;
+            .discount{
+                
+                &:nth-child( 2n + 3 ){
+                    display: inline-block;
+                    float: left;
+                }
+            }
+            .of_discount{
+                
+            }
+            p.without_interest{
+                
+                strong{}
+            }
+            .months{}
+            .triangle{}
+        }
+        .fifteen{
+            background-color: $text_gray;
+            background-image: none !important;
+            left: 144px;
+            padding: 0 !important;
+            width: 33.33%;
+            z-index: 5;
+            .discount{
+                
+                &:nth-child( 2n + 3 ){
+                    display: inline-block !important;
+                    float: left !important;
+                }
+            }
+            .of_discount{}
+            .plus{
+                color: $white !important;
+                font-family: $Fira_Sans_Ot_Light !important;
+                font-size: em( 30, 16 ) !important;
+                line-height: em( 18, 30 ) !important;
+                margin: 0 0 10px;
+                strong{}
+            }
+            .months{}
+            p.without_interest{
+                margin: 0 !important;
+                padding: 0 !important;
+                strong{}
+            }
+            .triangle{ border-left-color: $text_gray; }
+        }
+        .banamex_logo{
+            background: url("../img/banamex_promo/degradado_banamex.png") repeat-x scroll 0 0 transparent;
+            display: inline-block;
+            height: 142px;
+            left: 288px;
+            padding: 0 !important;
+            width: 33.33%;
+            z-index: 0;
+            p{
+                @include font-mask( $white !important, em( 18, 16 ) !important, em( 18, 18 ) !important, normal, $Fira_Sans_Ot_Light );
+                margin: 15px 0 5px !important;
+            }
+            img{
+                display: block;
+                margin: 0 auto;
+                vertical-align: middle;
+            }
+        }
+        .aclaration{
+            
+            p{
+                
+                strong{}
+            }
+        }
+    }
+}

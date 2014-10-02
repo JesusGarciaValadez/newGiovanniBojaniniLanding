@@ -1,0 +1,191 @@
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+@font-face {
+    font-family: 'Helvetica_Neue_LT_STD_Ultra_Light_Condensed';
+    src: url('fonts/HelveticaNeueLTStd_UltLtCn.eot');
+    src: url('fonts/HelveticaNeueLTStd_UltLtCn?#iefix') format('embedded-opentype'),
+         url('fonts/HelveticaNeueLTStd_UltLtCn.woff') format('woff'),
+         url('fonts/HelveticaNeueLTStd_UltLtCn.ttf') format('truetype'),
+         url('fonts/HelveticaNeueLTStd_UltLtCn.svg#Helvetica_Neue_LT_STD_Ultra_Light_Condensed') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}   // Helvetica_Neue_LT_STD_Ultra_Light_Condensed
+@font-face {
+    font-family: 'Helvetica_Neue_LT_STD_Light_Condensed';
+    src: url('fonts/HelveticaNeueLTStd_LtCn.eot');
+    src: url('fonts/HelveticaNeueLTStd_LtCn?#iefix') format('embedded-opentype'),
+         url('fonts/HelveticaNeueLTStd_LtCn.woff') format('woff'),
+         url('fonts/HelveticaNeueLTStd_LtCn.ttf') format('truetype'),
+         url('fonts/HelveticaNeueLTStd_LtCn.svg#Helvetica_Neue_LT_STD_Light_Condensed') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}   // Helvetica_Neue_LT_STD_Light_Condensed
+@font-face {
+    font-family: 'Helvetica_Neue_LT_STD_Bold_Condensed';
+    src: url('fonts/HelveticaNeueLTStd_BdCn.eot');
+    src: url('fonts/HelveticaNeueLTStd_BdCn.eot?#iefix') format('embedded-opentype'),
+         url('fonts/HelveticaNeueLTStd_BdCn.woff') format('woff'),
+         url('fonts/HelveticaNeueLTStd_BdCn.ttf') format('truetype'),
+         url('fonts/HelveticaNeueLTStd_BdCn.svg#Helvetica_Neue_LT_STD_Bold_Condensed') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}   // Helvetica_Neue_LT_STD_Bold_Condensed
+@font-face {
+    font-family: 'Helvetica_Neue_LT_STD_Condensed';
+    src: url('fonts/HelveticaNeueLTStd_Cn.eot');
+    src: url('fonts/HelveticaNeueLTStd_Cn.eot?#iefix') format('embedded-opentype'),
+         url('fonts/HelveticaNeueLTStd_Cn.woff') format('woff'),
+         url('fonts/HelveticaNeueLTStd_Cn.ttf') format('truetype'),
+         url('fonts/HelveticaNeueLTStd_Cn.svg#Helvetica_Neue_LT_STD_Condensed') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}   // Helvetica_Neue_LT_STD_Condensed
+@font-face {
+    font-family: 'Helvetica_Neue_LT_STD_Bold';
+    src: url('fonts/HelveticaNeueLTStd_Bd.eot');
+    src: url('fonts/HelveticaNeueLTStd_Bd.eot?#iefix') format('embedded-opentype'),
+         url('fonts/HelveticaNeueLTStd_Bd.woff') format('woff'),
+         url('fonts/HelveticaNeueLTStd_Bd.ttf') format('truetype'),
+         url('fonts/HelveticaNeueLTStd_Bd.svg#Helvetica_Neue_LT_STD_Bold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}   // Helvetica_Neue_LT_STD_Bold
+@font-face {
+    font-family: 'Helvetica_Neue_LT_STD_Roman';
+    src: url('fonts/HelveticaNeueLTStd_Roman.eot');
+    src: url('fonts/HelveticaNeueLTStd_Roman.eot?#iefix') format('embedded-opentype'),
+         url('fonts/HelveticaNeueLTStd_Roman.woff') format('woff'),
+         url('fonts/HelveticaNeueLTStd_Roman.ttf') format('truetype'),
+         url('fonts/HelveticaNeueLTStd_Roman.svg#Helvetica_Neue_LT_STD_Roman') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}   // Helvetica_Neue_LT_STD_Roman
+@font-face {
+    font-family: 'Nobile_Medium';
+    src: url('fonts/nobile-medium/nobile-medium-webfont.eot');
+    src: url('fonts/nobile-medium/nobile-medium-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/nobile-medium/nobile-medium-webfont.woff') format('woff'),
+         url('fonts/nobile-medium/nobile-medium-webfont.ttf') format('truetype'),
+         url('fonts/nobile-medium/nobile-medium-webfont.svg#Nobile_Medium') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}   // Nobile_Medium
+@font-face {
+    font-family: 'Nobile_Regular';
+    src: url('fonts/nobile-regular/nobile-regular-webfont.eot');
+    src: url('fonts/nobile-regular/nobile-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/nobile-regular/nobile-regular-webfont.woff') format('woff'),
+         url('fonts/nobile-regular/nobile-regular-webfont.ttf') format('truetype'),
+         url('fonts/nobile-regular/nobile-regular-webfont.svg#Nobile_Regular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}   // Nobile_Regular
+@font-face {
+    font-family: 'Nobile_Bold';
+    src: url('fonts/nobile-bold/nobile-bold-webfont.eot');
+    src: url('fonts/nobile-bold/nobile-bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/nobile-bold/nobile-bold-webfont.woff') format('woff'),
+         url('fonts/nobile-bold/nobile-bold-webfont.ttf') format('truetype'),
+         url('fonts/nobile-bold/nobile-bold-webfont.svg#Nobile_Bold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}   // Nobile_Bold
+@font-face {
+    font-family: 'Ostrich_Sans_Medium';
+    src: url('fonts/ostrich-regular/ostrich-regular-webfont.eot');
+    src: url('fonts/ostrich-regular/ostrich-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/ostrich-regular/ostrich-regular-webfont.woff') format('woff'),
+         url('fonts/ostrich-regular/ostrich-regular-webfont.ttf') format('truetype'),
+         url('fonts/ostrich-regular/ostrich-regular-webfont.svg#Ostrich_Sans_Medium') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}   // Ostrich_Sans_Medium
+@font-face {
+    font-family: 'Ostrich_Sans_Black';
+    src: url('fonts/ostrich-black/ostrich-black-webfont.eot');
+    src: url('fonts/ostrich-black/ostrich-black-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/ostrich-black/ostrich-black-webfont.woff') format('woff'),
+         url('fonts/ostrich-black/ostrich-black-webfont.ttf') format('truetype'),
+         url('fonts/ostrich-black/ostrich-black-webfont.svg#Ostrich_Sans_Black') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}   // Ostrich_Sans_Black
+@font-face {
+    font-family: 'Open-Sans-Condensed-Light';
+    src: url('fonts/open-sans-condensed-light/OpenSans-CondLight-webfont.eot');
+    src: url('fonts/open-sans-condensed-light/OpenSans-CondLight-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/open-sans-condensed-light/OpenSans-CondLight-webfont.woff') format('woff'),
+         url('fonts/open-sans-condensed-light/OpenSans-CondLight-webfont.ttf') format('truetype'),
+         url('fonts/open-sans-condensed-light/OpenSans-CondLight-webfont.svg#Open-Sans-Condensed-Light') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}   // Open-Sans-Condensed-Light
+@font-face {
+    font-family: 'Open-Sans-Condensed-Light-Italic';
+    src: url('fonts/open-sans-condensed-light-italic/OpenSans-CondLightItalic-webfont.eot');
+    src: url('fonts/open-sans-condensed-light-italic/OpenSans-CondLightItalic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/open-sans-condensed-light-italic/OpenSans-CondLightItalic-webfont.woff') format('woff'),
+         url('fonts/open-sans-condensed-light-italic/OpenSans-CondLightItalic-webfont.ttf') format('truetype'),
+         url('fonts/open-sans-condensed-light-italic/OpenSans-CondLightItalic-webfont.svg#Open-Sans-Condensed-Light-Italic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}   // Open-Sans-Condensed-Light-Italic
+@font-face {
+    font-family: 'Open-Sans-Condensed-Bold';
+    src: url('fonts/open-sans-condensed-bold/OpenSans-CondBold-webfont.eot');
+    src: url('fonts/open-sans-condensed-bold/OpenSans-CondBold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/open-sans-condensed-bold/OpenSans-CondBold-webfont.woff') format('woff'),
+         url('fonts/open-sans-condensed-bold/OpenSans-CondBold-webfont.ttf') format('truetype'),
+         url('fonts/open-sans-condensed-bold/OpenSans-CondBold-webfont.svg#Open-Sans-Condensed-Bold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}   // Open-Sans-Condensed-Bold
+@font-face {
+    font-family: 'Fira-Sans-Ot-Light';
+    src: url('fonts/fire-sans/firasansot-light-webfont.eot');
+    src: url('fonts/fire-sans/firasansot-light-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/fire-sans/firasansot-light-webfont.woff') format('woff'),
+         url('fonts/fire-sans/firasansot-light-webfont.ttf') format('truetype'),
+         url('fonts/fire-sans/firasansot-light-webfont.svg#Fira-Sans-Ot-Light') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}   // Fira-Sans-Ot-Light
+
+$HelveticaArial:                        Helvetica,Arial,'sans-serif';
+$Helvetica:                             'Helvetica_Neue_lt_std',Helvetica,Arial,'sans-serif';
+$Helvetica_Neue_LT_STD_Bold:            'Helvetica_Neue_LT_STD_Bold',Helvetica,Arial,'sans-serif';
+$Helvetica_Neue_LT_com_Roman:           'Helvetica_Neue_LT_com_Roman',Helvetica,Arial,'sans-serif';
+$Helvetica_Neue_LT_STD_Light_Condensed: 'Helvetica_Neue_LT_STD_Light_Condensed',Helvetica,Arial,'sans-serif';
+$Helvetica_Neue_LT_STD_Medium_Condensed:'Helvetica_Neue_LT_STD_Medium_Condensed',Helvetica,Arial,'sans-serif';
+$Helvetica_Neue_LT_STD_Bold_Condensed:  'Helvetica_Neue_LT_STD_Bold_Condensed',Helvetica,Arial,'sans-serif';
+$Helvetica_Neue_LT_STD_Condensed:       'Helvetica_Neue_LT_STD_Condensed',Helvetica,Arial,'sans-serif';
+$Nobile_Medium:                         'Nobile_Medium',Helvetica,Arial,'sans-serif';
+$Nobile_Regular:                        'Nobile_Regular',Helvetica,Arial,'sans-serif';
+$Nobile_Bold:                           'Nobile_Bold',Helvetica,Arial,'sans-serif';
+/*$Ostrich_Sans_Black:                    'Ostrich_Sans_Black',Helvetica,Arial,'sans-serif';
+$Ostrich_Sans_Medium:                   'Ostrich_Sans_Medium',Helvetica,Arial,'sans-serif';*/
+$Open_Sans_Condensed_Light:             'Open-Sans-Condensed-Light',Helvetica,Arial,'sans-serif';
+$Open_Sans_Condensed_Light_Italic:      'Open-Sans-Condensed-Light-Italic',Helvetica,Arial,'sans-serif';
+$Open_Sans_Condensed_Bold:              'Open-Sans-Condensed-Bold',Helvetica,Arial,'sans-serif';
+$Fira_Sans_Ot_Light:                    'Fira-Sans-Ot-Light',Helvetica,Arial,'sans-serif';
+$yellow:                                #ECD102;
+$mild_gray:                             #494949;
+$text_gray:                             #2B2B2B;
+$white:                                 #FFF;
+@mixin font-mask( $color,$size,$height,$weight,$font:$Fira_Sans_Ot_Light ) {
+    color: $color;
+    font-size: $size;
+    line-height: $height;
+    font-weight: $weight;
+    font-family: $font;
+}
