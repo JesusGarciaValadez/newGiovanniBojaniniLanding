@@ -1,393 +1,393 @@
 {
 "CodeKitInfo": "This is a CodeKit 2.x project configuration file. It is designed to sync project settings across multiple machines. MODIFYING THE CONTENTS OF THIS FILE IS A POOR LIFE DECISION. If you do so, you will likely cause CodeKit to crash. This file is not useful unless accompanied by the project that created it in CodeKit 2. This file is not backwards-compatible with CodeKit 1.x. For more information, see: http:\/\/incident57.com\/codekit",
-"creatorBuild": "16921",
+"creatorBuild": "17682",
 "files": {
-	"\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/404.html": {
+	"\/404.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/404.html",
+		"inputAbbreviatedPath": "\/404.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/apple-touch-icon-114x114-precomposed.png": {
+	"\/apple-touch-icon-114x114-precomposed.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 1189,
-		"inputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/apple-touch-icon-114x114-precomposed.png",
-		"outputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/apple-touch-icon-114x114-precomposed.png",
+		"inputAbbreviatedPath": "\/apple-touch-icon-114x114-precomposed.png",
+		"outputAbbreviatedPath": "\/apple-touch-icon-114x114-precomposed.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/apple-touch-icon-144x144-precomposed.png": {
+	"\/apple-touch-icon-144x144-precomposed.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 1475,
-		"inputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/apple-touch-icon-144x144-precomposed.png",
-		"outputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/apple-touch-icon-144x144-precomposed.png",
+		"inputAbbreviatedPath": "\/apple-touch-icon-144x144-precomposed.png",
+		"outputAbbreviatedPath": "\/apple-touch-icon-144x144-precomposed.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/apple-touch-icon-57x57-precomposed.png": {
+	"\/apple-touch-icon-57x57-precomposed.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 730,
-		"inputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/apple-touch-icon-57x57-precomposed.png",
-		"outputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/apple-touch-icon-57x57-precomposed.png",
+		"inputAbbreviatedPath": "\/apple-touch-icon-57x57-precomposed.png",
+		"outputAbbreviatedPath": "\/apple-touch-icon-57x57-precomposed.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/apple-touch-icon-72x72-precomposed.png": {
+	"\/apple-touch-icon-72x72-precomposed.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 854,
-		"inputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/apple-touch-icon-72x72-precomposed.png",
-		"outputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/apple-touch-icon-72x72-precomposed.png",
+		"inputAbbreviatedPath": "\/apple-touch-icon-72x72-precomposed.png",
+		"outputAbbreviatedPath": "\/apple-touch-icon-72x72-precomposed.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/apple-touch-icon-precomposed.png": {
+	"\/apple-touch-icon-precomposed.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 1226,
-		"inputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/apple-touch-icon-precomposed.png",
-		"outputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/apple-touch-icon-precomposed.png",
+		"inputAbbreviatedPath": "\/apple-touch-icon-precomposed.png",
+		"outputAbbreviatedPath": "\/apple-touch-icon-precomposed.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/apple-touch-icon.png": {
+	"\/apple-touch-icon.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 730,
-		"inputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/apple-touch-icon.png",
-		"outputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/apple-touch-icon.png",
+		"inputAbbreviatedPath": "\/apple-touch-icon.png",
+		"outputAbbreviatedPath": "\/apple-touch-icon.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/CHANGELOG.md": {
+	"\/CHANGELOG.md": {
 		"enableFootnoteSupport": 0,
 		"enableSmartyPants": 1,
 		"expandTabs": 1,
 		"fileType": 4096,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/CHANGELOG.md",
-		"outputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/CHANGELOG.html",
+		"inputAbbreviatedPath": "\/CHANGELOG.md",
+		"outputAbbreviatedPath": "\/CHANGELOG.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/Code\/snippets\/config\/config.php": {
+	"\/Code\/snippets\/config\/config.php": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/Code\/snippets\/config\/config.php",
+		"inputAbbreviatedPath": "\/Code\/snippets\/config\/config.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/Code\/snippets\/db\/connection.php": {
+	"\/Code\/snippets\/db\/connection.php": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/Code\/snippets\/db\/connection.php",
+		"inputAbbreviatedPath": "\/Code\/snippets\/db\/connection.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/Code\/snippets\/dispatcher.php": {
+	"\/Code\/snippets\/dispatcher.php": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/Code\/snippets\/dispatcher.php",
+		"inputAbbreviatedPath": "\/Code\/snippets\/dispatcher.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/Code\/snippets\/libs\/Common.php": {
+	"\/Code\/snippets\/libs\/Common.php": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/Code\/snippets\/libs\/Common.php",
+		"inputAbbreviatedPath": "\/Code\/snippets\/libs\/Common.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/Code\/snippets\/libs\/FilterInput.php": {
+	"\/Code\/snippets\/libs\/FilterInput.php": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/Code\/snippets\/libs\/FilterInput.php",
+		"inputAbbreviatedPath": "\/Code\/snippets\/libs\/FilterInput.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/Code\/snippets\/libs\/Mailer.php": {
+	"\/Code\/snippets\/libs\/Mailer.php": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/Code\/snippets\/libs\/Mailer.php",
+		"inputAbbreviatedPath": "\/Code\/snippets\/libs\/Mailer.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/Code\/snippets\/libs\/Model.php": {
+	"\/Code\/snippets\/libs\/Model.php": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/Code\/snippets\/libs\/Model.php",
+		"inputAbbreviatedPath": "\/Code\/snippets\/libs\/Model.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/Code\/snippets\/libs\/ParserTemplate.php": {
+	"\/Code\/snippets\/libs\/ParserTemplate.php": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/Code\/snippets\/libs\/ParserTemplate.php",
+		"inputAbbreviatedPath": "\/Code\/snippets\/libs\/ParserTemplate.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/Code\/snippets\/libs\/phpmailer\/class.phpmailer.php": {
+	"\/Code\/snippets\/libs\/phpmailer\/class.phpmailer.php": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/Code\/snippets\/libs\/phpmailer\/class.phpmailer.php",
+		"inputAbbreviatedPath": "\/Code\/snippets\/libs\/phpmailer\/class.phpmailer.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/Code\/snippets\/libs\/phpmailer\/class.pop3.php": {
+	"\/Code\/snippets\/libs\/phpmailer\/class.pop3.php": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/Code\/snippets\/libs\/phpmailer\/class.pop3.php",
+		"inputAbbreviatedPath": "\/Code\/snippets\/libs\/phpmailer\/class.pop3.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/Code\/snippets\/libs\/phpmailer\/class.smtp.php": {
+	"\/Code\/snippets\/libs\/phpmailer\/class.smtp.php": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/Code\/snippets\/libs\/phpmailer\/class.smtp.php",
+		"inputAbbreviatedPath": "\/Code\/snippets\/libs\/phpmailer\/class.smtp.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/Code\/snippets\/libs\/Review.php": {
+	"\/Code\/snippets\/libs\/Review.php": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/Code\/snippets\/libs\/Review.php",
+		"inputAbbreviatedPath": "\/Code\/snippets\/libs\/Review.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/Code\/snippets\/libs\/templates\/template_mailing.html": {
+	"\/Code\/snippets\/libs\/templates\/template_mailing.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/Code\/snippets\/libs\/templates\/template_mailing.html",
+		"inputAbbreviatedPath": "\/Code\/snippets\/libs\/templates\/template_mailing.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/Code\/snippets\/libs\/Validator.php": {
+	"\/Code\/snippets\/libs\/Validator.php": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/Code\/snippets\/libs\/Validator.php",
+		"inputAbbreviatedPath": "\/Code\/snippets\/libs\/Validator.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/Code\/templates\/footer.jade": {
+	"\/Code\/templates\/footer.jade": {
 		"compileDebug": 1,
 		"fileType": 512,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/Code\/templates\/footer.jade",
+		"inputAbbreviatedPath": "\/Code\/templates\/footer.jade",
 		"outputAbbreviatedPath": "\/footer.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1
 		},
-	"\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/Code\/templates\/head.jade": {
+	"\/Code\/templates\/head.jade": {
 		"compileDebug": 1,
 		"fileType": 512,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/Code\/templates\/head.jade",
+		"inputAbbreviatedPath": "\/Code\/templates\/head.jade",
 		"outputAbbreviatedPath": "\/head.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1
 		},
-	"\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/Code\/templates\/index.jade": {
+	"\/Code\/templates\/index.jade": {
 		"compileDebug": 1,
 		"fileType": 512,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/Code\/templates\/index.jade",
+		"inputAbbreviatedPath": "\/Code\/templates\/index.jade",
 		"outputAbbreviatedPath": "\/index.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1
 		},
-	"\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/Code\/templates\/js\/GBLanding.js": {
+	"\/Code\/templates\/js\/GBLanding.js": {
 		"fileType": 64,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/Code\/templates\/js\/GBLanding.js",
-		"outputAbbreviatedPath": "\/js\/GBLanding.min.js",
+		"inputAbbreviatedPath": "\/Code\/templates\/js\/GBLanding.js",
+		"outputAbbreviatedPath": "\/js\/GBLanding-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 2,
 		"syntaxCheckerStyle": 1
 		},
-	"\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/Code\/templates\/js\/main.js": {
+	"\/Code\/templates\/js\/main.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/Code\/templates\/js\/main.js",
-		"outputAbbreviatedPath": "\/js\/main.min.js",
+		"inputAbbreviatedPath": "\/Code\/templates\/js\/main.js",
+		"outputAbbreviatedPath": "\/js\/main-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 2,
 		"syntaxCheckerStyle": 1
 		},
-	"\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/Code\/templates\/js\/plugins.js": {
+	"\/Code\/templates\/js\/plugins.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/Code\/templates\/js\/plugins.js",
-		"outputAbbreviatedPath": "\/js\/plugins.min.js",
+		"inputAbbreviatedPath": "\/Code\/templates\/js\/plugins.js",
+		"outputAbbreviatedPath": "\/js\/plugins-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 2,
 		"syntaxCheckerStyle": 1
 		},
-	"\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/Code\/templates\/js\/vendor\/additional-methods.js": {
+	"\/Code\/templates\/js\/vendor\/additional-methods.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/Code\/templates\/js\/vendor\/additional-methods.js",
-		"outputAbbreviatedPath": "\/js\/additional-methods.min.js",
+		"inputAbbreviatedPath": "\/Code\/templates\/js\/vendor\/additional-methods.js",
+		"outputAbbreviatedPath": "\/js\/additional-methods-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 2,
 		"syntaxCheckerStyle": 1
 		},
-	"\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/Code\/templates\/js\/vendor\/jquery.form.js": {
+	"\/Code\/templates\/js\/vendor\/jquery.form.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/Code\/templates\/js\/vendor\/jquery.form.js",
-		"outputAbbreviatedPath": "\/js\/jquery.form.min.js",
+		"inputAbbreviatedPath": "\/Code\/templates\/js\/vendor\/jquery.form.js",
+		"outputAbbreviatedPath": "\/js\/jquery.form-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 2,
 		"syntaxCheckerStyle": 1
 		},
-	"\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/Code\/templates\/js\/vendor\/jquery.scrollTo-1.4.3.1-min.js": {
+	"\/Code\/templates\/js\/vendor\/jquery.scrollTo-1.4.3.1-min.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/Code\/templates\/js\/vendor\/jquery.scrollTo-1.4.3.1-min.js",
-		"outputAbbreviatedPath": "\/js\/jquery.scrollTo-1.4.3.1-min.min.js",
+		"inputAbbreviatedPath": "\/Code\/templates\/js\/vendor\/jquery.scrollTo-1.4.3.1-min.js",
+		"outputAbbreviatedPath": "\/js\/jquery.scrollTo-1.4.3.1-min-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 2,
 		"syntaxCheckerStyle": 1
 		},
-	"\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/Code\/templates\/js\/vendor\/jquery.scrollTo-1.4.3.1.js": {
+	"\/Code\/templates\/js\/vendor\/jquery.scrollTo-1.4.3.1.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/Code\/templates\/js\/vendor\/jquery.scrollTo-1.4.3.1.js",
-		"outputAbbreviatedPath": "\/js\/jquery.scrollTo-1.4.3.1.min.js",
+		"inputAbbreviatedPath": "\/Code\/templates\/js\/vendor\/jquery.scrollTo-1.4.3.1.js",
+		"outputAbbreviatedPath": "\/js\/jquery.scrollTo-1.4.3.1-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 2,
 		"syntaxCheckerStyle": 1
 		},
-	"\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/Code\/templates\/js\/vendor\/jquery.tools.custom.min.js": {
+	"\/Code\/templates\/js\/vendor\/jquery.tools.custom.min.js": {
 		"fileType": 64,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/Code\/templates\/js\/vendor\/jquery.tools.custom.min.js",
-		"outputAbbreviatedPath": "\/js\/jquery.tools.custom.min.min.js",
+		"inputAbbreviatedPath": "\/Code\/templates\/js\/vendor\/jquery.tools.custom.min.js",
+		"outputAbbreviatedPath": "\/js\/jquery.tools.custom.min-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 2,
 		"syntaxCheckerStyle": 1
 		},
-	"\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/Code\/templates\/js\/vendor\/jquery.tools.min.js": {
+	"\/Code\/templates\/js\/vendor\/jquery.tools.min.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/Code\/templates\/js\/vendor\/jquery.tools.min.js",
-		"outputAbbreviatedPath": "\/js\/jquery.tools.min.min.js",
+		"inputAbbreviatedPath": "\/Code\/templates\/js\/vendor\/jquery.tools.min.js",
+		"outputAbbreviatedPath": "\/js\/jquery.tools.min-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 2,
 		"syntaxCheckerStyle": 1
 		},
-	"\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/Code\/templates\/js\/vendor\/jquery.uniform.js": {
+	"\/Code\/templates\/js\/vendor\/jquery.uniform.js": {
 		"fileType": 64,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/Code\/templates\/js\/vendor\/jquery.uniform.js",
-		"outputAbbreviatedPath": "\/js\/jquery.uniform.min.js",
+		"inputAbbreviatedPath": "\/Code\/templates\/js\/vendor\/jquery.uniform.js",
+		"outputAbbreviatedPath": "\/js\/jquery.uniform-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 2,
 		"syntaxCheckerStyle": 1
 		},
-	"\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/Code\/templates\/js\/vendor\/jquery.validate.js": {
+	"\/Code\/templates\/js\/vendor\/jquery.validate.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/Code\/templates\/js\/vendor\/jquery.validate.js",
-		"outputAbbreviatedPath": "\/js\/jquery.validate.min.js",
+		"inputAbbreviatedPath": "\/Code\/templates\/js\/vendor\/jquery.validate.js",
+		"outputAbbreviatedPath": "\/js\/jquery.validate-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 2,
 		"syntaxCheckerStyle": 1
 		},
-	"\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/Code\/templates\/js\/vendor\/jquery.validate.min.js": {
+	"\/Code\/templates\/js\/vendor\/jquery.validate.min.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/Code\/templates\/js\/vendor\/jquery.validate.min.js",
-		"outputAbbreviatedPath": "\/js\/jquery.validate.min.min.js",
+		"inputAbbreviatedPath": "\/Code\/templates\/js\/vendor\/jquery.validate.min.js",
+		"outputAbbreviatedPath": "\/js\/jquery.validate.min-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 2,
 		"syntaxCheckerStyle": 1
 		},
-	"\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/Code\/templates\/scss\/main.scss": {
+	"\/Code\/templates\/scss\/main.scss": {
 		"createSourceMap": 1,
 		"debugStyle": 0,
 		"decimalPrecision": 5,
 		"fileType": 4,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/Code\/templates\/scss\/main.scss",
+		"inputAbbreviatedPath": "\/Code\/templates\/scss\/main.scss",
 		"outputAbbreviatedPath": "\/css\/main.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
@@ -396,14 +396,14 @@
 		"shouldRunBless": 1,
 		"useLibsass": 0
 		},
-	"\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/Code\/templates\/scss\/normalize.scss": {
+	"\/Code\/templates\/scss\/normalize.scss": {
 		"createSourceMap": 1,
 		"debugStyle": 0,
 		"decimalPrecision": 5,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/Code\/templates\/scss\/normalize.scss",
+		"inputAbbreviatedPath": "\/Code\/templates\/scss\/normalize.scss",
 		"outputAbbreviatedPath": "\/css\/normalize.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
@@ -412,836 +412,845 @@
 		"shouldRunBless": 1,
 		"useLibsass": 0
 		},
-	"\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/CONTRIBUTING.md": {
+	"\/CONTRIBUTING.md": {
 		"enableFootnoteSupport": 0,
 		"enableSmartyPants": 1,
 		"expandTabs": 1,
 		"fileType": 4096,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/CONTRIBUTING.md",
-		"outputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/CONTRIBUTING.html",
+		"inputAbbreviatedPath": "\/CONTRIBUTING.md",
+		"outputAbbreviatedPath": "\/CONTRIBUTING.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/css\/main.css": {
-		"fileType": 16,
+	"\/convertFont.php": {
+		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/css\/main.css",
+		"inputAbbreviatedPath": "\/convertFont.php",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/favicon.png": {
+	"\/css\/main.css": {
+		"fileType": 16,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/main.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/favicon.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 482,
-		"inputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/favicon.png",
-		"outputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/favicon.png",
+		"inputAbbreviatedPath": "\/favicon.png",
+		"outputAbbreviatedPath": "\/favicon.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/google726f2f452bf462b1.html": {
+	"\/google726f2f452bf462b1.html": {
 		"fileType": 8192,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/google726f2f452bf462b1.html",
+		"inputAbbreviatedPath": "\/google726f2f452bf462b1.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/agenda_tuCita.png": {
+	"\/img\/agenda_tuCita.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 2733,
-		"inputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/agenda_tuCita.png",
-		"outputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/agenda_tuCita.png",
+		"inputAbbreviatedPath": "\/img\/agenda_tuCita.png",
+		"outputAbbreviatedPath": "\/img\/agenda_tuCita.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/atras.png": {
+	"\/img\/atras.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 1238,
-		"inputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/atras.png",
-		"outputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/atras.png",
+		"inputAbbreviatedPath": "\/img\/atras.png",
+		"outputAbbreviatedPath": "\/img\/atras.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/background.jpg": {
+	"\/img\/background.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 1170,
-		"inputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/background.jpg",
-		"outputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/background.jpg",
+		"inputAbbreviatedPath": "\/img\/background.jpg",
+		"outputAbbreviatedPath": "\/img\/background.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/background_lightbox.png": {
+	"\/img\/background_lightbox.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 921,
-		"inputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/background_lightbox.png",
-		"outputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/background_lightbox.png",
+		"inputAbbreviatedPath": "\/img\/background_lightbox.png",
+		"outputAbbreviatedPath": "\/img\/background_lightbox.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/BG.png": {
+	"\/img\/BG.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 19499,
-		"inputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/BG.png",
-		"outputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/BG.png",
+		"inputAbbreviatedPath": "\/img\/BG.png",
+		"outputAbbreviatedPath": "\/img\/BG.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/bg_boja.jpg": {
+	"\/img\/bg_boja.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 732543,
-		"inputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/bg_boja.jpg",
-		"outputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/bg_boja.jpg",
+		"inputAbbreviatedPath": "\/img\/bg_boja.jpg",
+		"outputAbbreviatedPath": "\/img\/bg_boja.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/bojanini-friends.png": {
+	"\/img\/bojanini-friends.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 1.16281e+06,
-		"inputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/bojanini-friends.png",
-		"outputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/bojanini-friends.png",
+		"inputAbbreviatedPath": "\/img\/bojanini-friends.png",
+		"outputAbbreviatedPath": "\/img\/bojanini-friends.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/close.png": {
+	"\/img\/close.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 1337,
-		"inputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/close.png",
-		"outputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/close.png",
+		"inputAbbreviatedPath": "\/img\/close.png",
+		"outputAbbreviatedPath": "\/img\/close.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/comienza-ya-button.png": {
+	"\/img\/comienza-ya-button.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 4100,
-		"inputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/comienza-ya-button.png",
-		"outputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/comienza-ya-button.png",
+		"inputAbbreviatedPath": "\/img\/comienza-ya-button.png",
+		"outputAbbreviatedPath": "\/img\/comienza-ya-button.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/comienza.png": {
+	"\/img\/comienza.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 1916,
-		"inputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/comienza.png",
-		"outputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/comienza.png",
+		"inputAbbreviatedPath": "\/img\/comienza.png",
+		"outputAbbreviatedPath": "\/img\/comienza.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/comienza_over.png": {
+	"\/img\/comienza_over.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 1948,
-		"inputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/comienza_over.png",
-		"outputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/comienza_over.png",
+		"inputAbbreviatedPath": "\/img\/comienza_over.png",
+		"outputAbbreviatedPath": "\/img\/comienza_over.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/cuadro_2.png": {
+	"\/img\/cuadro_2.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 1593,
-		"inputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/cuadro_2.png",
-		"outputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/cuadro_2.png",
+		"inputAbbreviatedPath": "\/img\/cuadro_2.png",
+		"outputAbbreviatedPath": "\/img\/cuadro_2.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/cuadro_3.png": {
+	"\/img\/cuadro_3.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 1109,
-		"inputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/cuadro_3.png",
-		"outputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/cuadro_3.png",
+		"inputAbbreviatedPath": "\/img\/cuadro_3.png",
+		"outputAbbreviatedPath": "\/img\/cuadro_3.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/cuadro_amarillo.png": {
+	"\/img\/cuadro_amarillo.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 1805,
-		"inputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/cuadro_amarillo.png",
-		"outputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/cuadro_amarillo.png",
+		"inputAbbreviatedPath": "\/img\/cuadro_amarillo.png",
+		"outputAbbreviatedPath": "\/img\/cuadro_amarillo.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/cuadro_seleccion.png": {
+	"\/img\/cuadro_seleccion.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 1077,
-		"inputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/cuadro_seleccion.png",
-		"outputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/cuadro_seleccion.png",
+		"inputAbbreviatedPath": "\/img\/cuadro_seleccion.png",
+		"outputAbbreviatedPath": "\/img\/cuadro_seleccion.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/enviar.png": {
+	"\/img\/enviar.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 1533,
-		"inputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/enviar.png",
-		"outputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/enviar.png",
+		"inputAbbreviatedPath": "\/img\/enviar.png",
+		"outputAbbreviatedPath": "\/img\/enviar.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/enviar_over.png": {
+	"\/img\/enviar_over.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 1607,
-		"inputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/enviar_over.png",
-		"outputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/enviar_over.png",
+		"inputAbbreviatedPath": "\/img\/enviar_over.png",
+		"outputAbbreviatedPath": "\/img\/enviar_over.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/Etapas_hombre\/E1_perfil_H.png": {
+	"\/img\/Etapas_hombre\/E1_perfil_H.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 16845,
-		"inputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/Etapas_hombre\/E1_perfil_H.png",
-		"outputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/Etapas_hombre\/E1_perfil_H.png",
+		"inputAbbreviatedPath": "\/img\/Etapas_hombre\/E1_perfil_H.png",
+		"outputAbbreviatedPath": "\/img\/Etapas_hombre\/E1_perfil_H.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/Etapas_hombre\/E1_Top_H.png": {
+	"\/img\/Etapas_hombre\/E1_Top_H.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 12666,
-		"inputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/Etapas_hombre\/E1_Top_H.png",
-		"outputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/Etapas_hombre\/E1_Top_H.png",
+		"inputAbbreviatedPath": "\/img\/Etapas_hombre\/E1_Top_H.png",
+		"outputAbbreviatedPath": "\/img\/Etapas_hombre\/E1_Top_H.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/Etapas_hombre\/E2_perfil_H.png": {
+	"\/img\/Etapas_hombre\/E2_perfil_H.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 17057,
-		"inputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/Etapas_hombre\/E2_perfil_H.png",
-		"outputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/Etapas_hombre\/E2_perfil_H.png",
+		"inputAbbreviatedPath": "\/img\/Etapas_hombre\/E2_perfil_H.png",
+		"outputAbbreviatedPath": "\/img\/Etapas_hombre\/E2_perfil_H.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/Etapas_hombre\/E2_Top_H.png": {
+	"\/img\/Etapas_hombre\/E2_Top_H.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 13260,
-		"inputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/Etapas_hombre\/E2_Top_H.png",
-		"outputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/Etapas_hombre\/E2_Top_H.png",
+		"inputAbbreviatedPath": "\/img\/Etapas_hombre\/E2_Top_H.png",
+		"outputAbbreviatedPath": "\/img\/Etapas_hombre\/E2_Top_H.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/Etapas_hombre\/E3_perfil_H.png": {
+	"\/img\/Etapas_hombre\/E3_perfil_H.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 17412,
-		"inputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/Etapas_hombre\/E3_perfil_H.png",
-		"outputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/Etapas_hombre\/E3_perfil_H.png",
+		"inputAbbreviatedPath": "\/img\/Etapas_hombre\/E3_perfil_H.png",
+		"outputAbbreviatedPath": "\/img\/Etapas_hombre\/E3_perfil_H.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/Etapas_hombre\/E3_Top_H.png": {
+	"\/img\/Etapas_hombre\/E3_Top_H.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 14553,
-		"inputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/Etapas_hombre\/E3_Top_H.png",
-		"outputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/Etapas_hombre\/E3_Top_H.png",
+		"inputAbbreviatedPath": "\/img\/Etapas_hombre\/E3_Top_H.png",
+		"outputAbbreviatedPath": "\/img\/Etapas_hombre\/E3_Top_H.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/Etapas_hombre\/E3Vertex_perfil_H.png": {
+	"\/img\/Etapas_hombre\/E3Vertex_perfil_H.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 17515,
-		"inputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/Etapas_hombre\/E3Vertex_perfil_H.png",
-		"outputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/Etapas_hombre\/E3Vertex_perfil_H.png",
+		"inputAbbreviatedPath": "\/img\/Etapas_hombre\/E3Vertex_perfil_H.png",
+		"outputAbbreviatedPath": "\/img\/Etapas_hombre\/E3Vertex_perfil_H.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/Etapas_hombre\/E3Vertex_Top_H.png": {
+	"\/img\/Etapas_hombre\/E3Vertex_Top_H.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 14885,
-		"inputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/Etapas_hombre\/E3Vertex_Top_H.png",
-		"outputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/Etapas_hombre\/E3Vertex_Top_H.png",
+		"inputAbbreviatedPath": "\/img\/Etapas_hombre\/E3Vertex_Top_H.png",
+		"outputAbbreviatedPath": "\/img\/Etapas_hombre\/E3Vertex_Top_H.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/Etapas_hombre\/E4_perfil_H.png": {
+	"\/img\/Etapas_hombre\/E4_perfil_H.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 17824,
-		"inputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/Etapas_hombre\/E4_perfil_H.png",
-		"outputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/Etapas_hombre\/E4_perfil_H.png",
+		"inputAbbreviatedPath": "\/img\/Etapas_hombre\/E4_perfil_H.png",
+		"outputAbbreviatedPath": "\/img\/Etapas_hombre\/E4_perfil_H.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/Etapas_hombre\/E4_Top_H.png": {
+	"\/img\/Etapas_hombre\/E4_Top_H.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 15280,
-		"inputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/Etapas_hombre\/E4_Top_H.png",
-		"outputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/Etapas_hombre\/E4_Top_H.png",
+		"inputAbbreviatedPath": "\/img\/Etapas_hombre\/E4_Top_H.png",
+		"outputAbbreviatedPath": "\/img\/Etapas_hombre\/E4_Top_H.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/Etapas_hombre\/E5_perfil_H.png": {
+	"\/img\/Etapas_hombre\/E5_perfil_H.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 17973,
-		"inputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/Etapas_hombre\/E5_perfil_H.png",
-		"outputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/Etapas_hombre\/E5_perfil_H.png",
+		"inputAbbreviatedPath": "\/img\/Etapas_hombre\/E5_perfil_H.png",
+		"outputAbbreviatedPath": "\/img\/Etapas_hombre\/E5_perfil_H.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/Etapas_hombre\/E5_Top_H.png": {
+	"\/img\/Etapas_hombre\/E5_Top_H.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 15709,
-		"inputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/Etapas_hombre\/E5_Top_H.png",
-		"outputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/Etapas_hombre\/E5_Top_H.png",
+		"inputAbbreviatedPath": "\/img\/Etapas_hombre\/E5_Top_H.png",
+		"outputAbbreviatedPath": "\/img\/Etapas_hombre\/E5_Top_H.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/Etapas_hombre\/E6_perfil_H.png": {
+	"\/img\/Etapas_hombre\/E6_perfil_H.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 18527,
-		"inputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/Etapas_hombre\/E6_perfil_H.png",
-		"outputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/Etapas_hombre\/E6_perfil_H.png",
+		"inputAbbreviatedPath": "\/img\/Etapas_hombre\/E6_perfil_H.png",
+		"outputAbbreviatedPath": "\/img\/Etapas_hombre\/E6_perfil_H.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/Etapas_hombre\/E6_Top_H.png": {
+	"\/img\/Etapas_hombre\/E6_Top_H.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 15827,
-		"inputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/Etapas_hombre\/E6_Top_H.png",
-		"outputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/Etapas_hombre\/E6_Top_H.png",
+		"inputAbbreviatedPath": "\/img\/Etapas_hombre\/E6_Top_H.png",
+		"outputAbbreviatedPath": "\/img\/Etapas_hombre\/E6_Top_H.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/Etapas_hombre\/E7_perfil_H.png": {
+	"\/img\/Etapas_hombre\/E7_perfil_H.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 18414,
-		"inputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/Etapas_hombre\/E7_perfil_H.png",
-		"outputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/Etapas_hombre\/E7_perfil_H.png",
+		"inputAbbreviatedPath": "\/img\/Etapas_hombre\/E7_perfil_H.png",
+		"outputAbbreviatedPath": "\/img\/Etapas_hombre\/E7_perfil_H.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/Etapas_hombre\/E7_Top_H.png": {
+	"\/img\/Etapas_hombre\/E7_Top_H.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 15460,
-		"inputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/Etapas_hombre\/E7_Top_H.png",
-		"outputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/Etapas_hombre\/E7_Top_H.png",
+		"inputAbbreviatedPath": "\/img\/Etapas_hombre\/E7_Top_H.png",
+		"outputAbbreviatedPath": "\/img\/Etapas_hombre\/E7_Top_H.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/flecha.png": {
+	"\/img\/flecha.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 3777,
-		"inputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/flecha.png",
-		"outputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/flecha.png",
+		"inputAbbreviatedPath": "\/img\/flecha.png",
+		"outputAbbreviatedPath": "\/img\/flecha.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/flecha_der.png": {
+	"\/img\/flecha_der.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 1849,
-		"inputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/flecha_der.png",
-		"outputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/flecha_der.png",
+		"inputAbbreviatedPath": "\/img\/flecha_der.png",
+		"outputAbbreviatedPath": "\/img\/flecha_der.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/flecha_izq.png": {
+	"\/img\/flecha_izq.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 1907,
-		"inputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/flecha_izq.png",
-		"outputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/flecha_izq.png",
+		"inputAbbreviatedPath": "\/img\/flecha_izq.png",
+		"outputAbbreviatedPath": "\/img\/flecha_izq.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/formulario_texto.png": {
+	"\/img\/formulario_texto.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 1066,
-		"inputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/formulario_texto.png",
-		"outputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/formulario_texto.png",
+		"inputAbbreviatedPath": "\/img\/formulario_texto.png",
+		"outputAbbreviatedPath": "\/img\/formulario_texto.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/h1.png": {
+	"\/img\/h1.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 10877,
-		"inputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/h1.png",
-		"outputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/h1.png",
+		"inputAbbreviatedPath": "\/img\/h1.png",
+		"outputAbbreviatedPath": "\/img\/h1.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/linea-titulo_contenido.png": {
+	"\/img\/linea-titulo_contenido.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 1000,
-		"inputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/linea-titulo_contenido.png",
-		"outputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/linea-titulo_contenido.png",
+		"inputAbbreviatedPath": "\/img\/linea-titulo_contenido.png",
+		"outputAbbreviatedPath": "\/img\/linea-titulo_contenido.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/linea_cabellos.png": {
+	"\/img\/linea_cabellos.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 1021,
-		"inputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/linea_cabellos.png",
-		"outputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/linea_cabellos.png",
+		"inputAbbreviatedPath": "\/img\/linea_cabellos.png",
+		"outputAbbreviatedPath": "\/img\/linea_cabellos.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/linea_header_cuadro.png": {
+	"\/img\/linea_header_cuadro.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 1001,
-		"inputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/linea_header_cuadro.png",
-		"outputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/linea_header_cuadro.png",
+		"inputAbbreviatedPath": "\/img\/linea_header_cuadro.png",
+		"outputAbbreviatedPath": "\/img\/linea_header_cuadro.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/linea_numeros.png": {
+	"\/img\/linea_numeros.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 1218,
-		"inputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/linea_numeros.png",
-		"outputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/linea_numeros.png",
+		"inputAbbreviatedPath": "\/img\/linea_numeros.png",
+		"outputAbbreviatedPath": "\/img\/linea_numeros.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/linea_promo.png": {
+	"\/img\/linea_promo.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 998,
-		"inputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/linea_promo.png",
-		"outputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/linea_promo.png",
+		"inputAbbreviatedPath": "\/img\/linea_promo.png",
+		"outputAbbreviatedPath": "\/img\/linea_promo.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/linea_telefono.png": {
+	"\/img\/linea_telefono.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 1087,
-		"inputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/linea_telefono.png",
-		"outputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/linea_telefono.png",
+		"inputAbbreviatedPath": "\/img\/linea_telefono.png",
+		"outputAbbreviatedPath": "\/img\/linea_telefono.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/linea_titulo.png": {
+	"\/img\/linea_titulo.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 1528,
-		"inputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/linea_titulo.png",
-		"outputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/linea_titulo.png",
+		"inputAbbreviatedPath": "\/img\/linea_titulo.png",
+		"outputAbbreviatedPath": "\/img\/linea_titulo.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/logo-ESHRS.jpg": {
+	"\/img\/logo-ESHRS.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 2875,
-		"inputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/logo-ESHRS.jpg",
-		"outputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/logo-ESHRS.jpg",
+		"inputAbbreviatedPath": "\/img\/logo-ESHRS.jpg",
+		"outputAbbreviatedPath": "\/img\/logo-ESHRS.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/logo_boja.png": {
+	"\/img\/logo_boja.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 7416,
-		"inputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/logo_boja.png",
-		"outputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/logo_boja.png",
+		"inputAbbreviatedPath": "\/img\/logo_boja.png",
+		"outputAbbreviatedPath": "\/img\/logo_boja.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/logo_international_society.png": {
+	"\/img\/logo_international_society.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 11394,
-		"inputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/logo_international_society.png",
-		"outputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/logo_international_society.png",
+		"inputAbbreviatedPath": "\/img\/logo_international_society.png",
+		"outputAbbreviatedPath": "\/img\/logo_international_society.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/logo_members.png": {
+	"\/img\/logo_members.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 8923,
-		"inputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/logo_members.png",
-		"outputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/logo_members.png",
+		"inputAbbreviatedPath": "\/img\/logo_members.png",
+		"outputAbbreviatedPath": "\/img\/logo_members.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/Modelo_perfil.png": {
+	"\/img\/Modelo_perfil.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 15082,
-		"inputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/Modelo_perfil.png",
-		"outputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/Modelo_perfil.png",
+		"inputAbbreviatedPath": "\/img\/Modelo_perfil.png",
+		"outputAbbreviatedPath": "\/img\/Modelo_perfil.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/modelo_top.png": {
+	"\/img\/modelo_top.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 14950,
-		"inputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/modelo_top.png",
-		"outputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/modelo_top.png",
+		"inputAbbreviatedPath": "\/img\/modelo_top.png",
+		"outputAbbreviatedPath": "\/img\/modelo_top.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/numeros.png": {
+	"\/img\/numeros.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 5914,
-		"inputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/numeros.png",
-		"outputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/numeros.png",
+		"inputAbbreviatedPath": "\/img\/numeros.png",
+		"outputAbbreviatedPath": "\/img\/numeros.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/promo_20.png": {
+	"\/img\/promo_20.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 1979,
-		"inputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/promo_20.png",
-		"outputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/promo_20.png",
+		"inputAbbreviatedPath": "\/img\/promo_20.png",
+		"outputAbbreviatedPath": "\/img\/promo_20.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/promo_30.png": {
+	"\/img\/promo_30.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 1720,
-		"inputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/promo_30.png",
-		"outputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/promo_30.png",
+		"inputAbbreviatedPath": "\/img\/promo_30.png",
+		"outputAbbreviatedPath": "\/img\/promo_30.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/promo_40.png": {
+	"\/img\/promo_40.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 1121,
-		"inputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/promo_40.png",
-		"outputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/promo_40.png",
+		"inputAbbreviatedPath": "\/img\/promo_40.png",
+		"outputAbbreviatedPath": "\/img\/promo_40.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/recuadro_grande.png": {
+	"\/img\/recuadro_grande.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 2613,
-		"inputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/recuadro_grande.png",
-		"outputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/recuadro_grande.png",
+		"inputAbbreviatedPath": "\/img\/recuadro_grande.png",
+		"outputAbbreviatedPath": "\/img\/recuadro_grande.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/seleccion-sprite.png": {
+	"\/img\/seleccion-sprite.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 2857,
-		"inputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/seleccion-sprite.png",
-		"outputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/seleccion-sprite.png",
+		"inputAbbreviatedPath": "\/img\/seleccion-sprite.png",
+		"outputAbbreviatedPath": "\/img\/seleccion-sprite.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/seleccion.png": {
+	"\/img\/seleccion.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 1165,
-		"inputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/seleccion.png",
-		"outputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/seleccion.png",
+		"inputAbbreviatedPath": "\/img\/seleccion.png",
+		"outputAbbreviatedPath": "\/img\/seleccion.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/seleccion_over.png": {
+	"\/img\/seleccion_over.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 1242,
-		"inputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/seleccion_over.png",
-		"outputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/seleccion_over.png",
+		"inputAbbreviatedPath": "\/img\/seleccion_over.png",
+		"outputAbbreviatedPath": "\/img\/seleccion_over.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/send-button.png": {
+	"\/img\/send-button.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 3582,
-		"inputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/send-button.png",
-		"outputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/send-button.png",
+		"inputAbbreviatedPath": "\/img\/send-button.png",
+		"outputAbbreviatedPath": "\/img\/send-button.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/titulo.png": {
+	"\/img\/titulo.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 10090,
-		"inputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/titulo.png",
-		"outputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/titulo.png",
+		"inputAbbreviatedPath": "\/img\/titulo.png",
+		"outputAbbreviatedPath": "\/img\/titulo.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/weyes.png": {
+	"\/img\/weyes.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 811721,
-		"inputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/weyes.png",
-		"outputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/weyes.png",
+		"inputAbbreviatedPath": "\/img\/weyes.png",
+		"outputAbbreviatedPath": "\/img\/weyes.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/weyes_small.png": {
+	"\/img\/weyes_small.png": {
 		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"initialSize": 499801,
-		"inputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/weyes_small.png",
-		"outputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/img\/weyes_small.png",
+		"inputAbbreviatedPath": "\/img\/weyes_small.png",
+		"outputAbbreviatedPath": "\/img\/weyes_small.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/index.html": {
+	"\/index.html": {
 		"fileType": 8192,
-		"ignore": 0,
+		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/index.html",
+		"inputAbbreviatedPath": "\/index.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/js\/main.min.js": {
+	"\/js\/main.min.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/js\/main.min.js",
-		"outputAbbreviatedPath": "\/js\/main.min.min.js",
+		"inputAbbreviatedPath": "\/js\/main.min.js",
+		"outputAbbreviatedPath": "\/js\/main.min-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 2,
 		"syntaxCheckerStyle": 1
 		},
-	"\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/js\/plugins.min.js": {
+	"\/js\/plugins.min.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/js\/plugins.min.js",
-		"outputAbbreviatedPath": "\/js\/plugins.min.min.js",
+		"inputAbbreviatedPath": "\/js\/plugins.min.js",
+		"outputAbbreviatedPath": "\/js\/plugins.min-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 2,
 		"syntaxCheckerStyle": 1
 		},
-	"\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/js\/vendor\/jquery-1.8.3.min.js": {
+	"\/js\/vendor\/jquery-1.8.3.min.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/js\/vendor\/jquery-1.8.3.min.js",
-		"outputAbbreviatedPath": "\/js\/jquery-1.8.3.min.min.js",
+		"inputAbbreviatedPath": "\/js\/vendor\/jquery-1.8.3.min.js",
+		"outputAbbreviatedPath": "\/js\/jquery-1.8.3.min-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 2,
 		"syntaxCheckerStyle": 1
 		},
-	"\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/js\/vendor\/jquery-1.9.0.min.js": {
+	"\/js\/vendor\/jquery-1.9.0.min.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/js\/vendor\/jquery-1.9.0.min.js",
-		"outputAbbreviatedPath": "\/js\/jquery-1.9.0.min.min.js",
+		"inputAbbreviatedPath": "\/js\/vendor\/jquery-1.9.0.min.js",
+		"outputAbbreviatedPath": "\/js\/jquery-1.9.0.min-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 2,
 		"syntaxCheckerStyle": 1
 		},
-	"\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/js\/vendor\/modernizr-2.6.2.min.js": {
+	"\/js\/vendor\/modernizr-2.6.2.min.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/js\/vendor\/modernizr-2.6.2.min.js",
-		"outputAbbreviatedPath": "\/js\/modernizr-2.6.2.min.min.js",
+		"inputAbbreviatedPath": "\/js\/vendor\/modernizr-2.6.2.min.js",
+		"outputAbbreviatedPath": "\/js\/modernizr-2.6.2.min-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 2,
 		"syntaxCheckerStyle": 1
 		},
-	"\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/js\/vendor\/prefixfree.min.js": {
+	"\/js\/vendor\/prefixfree.min.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/js\/vendor\/prefixfree.min.js",
-		"outputAbbreviatedPath": "\/js\/prefixfree.min.min.js",
+		"inputAbbreviatedPath": "\/js\/vendor\/prefixfree.min.js",
+		"outputAbbreviatedPath": "\/js\/prefixfree.min-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 2,
 		"syntaxCheckerStyle": 1
 		},
-	"\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/LICENSE.md": {
+	"\/LICENSE.md": {
 		"enableFootnoteSupport": 0,
 		"enableSmartyPants": 1,
 		"expandTabs": 1,
 		"fileType": 4096,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/LICENSE.md",
-		"outputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/LICENSE.html",
+		"inputAbbreviatedPath": "\/LICENSE.md",
+		"outputAbbreviatedPath": "\/LICENSE.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/README.md": {
+	"\/README.md": {
 		"enableFootnoteSupport": 0,
 		"enableSmartyPants": 1,
 		"expandTabs": 1,
 		"fileType": 4096,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/README.md",
-		"outputAbbreviatedPath": "\/Applications\/MAMP\/htdocs\/new_giovanni_bojanini_landing\/README.html",
+		"inputAbbreviatedPath": "\/README.md",
+		"outputAbbreviatedPath": "\/README.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		}
@@ -1253,7 +1262,7 @@
 	},
 "projectAttributes": {
 	"bowerAbbreviatedPath": "",
-	"displayValue": "Giovanni Bojanini Landing Microinjerto",
+	"displayValue": "Microinjerto Bojanini",
 	"displayValueWasSetByUser": 1,
 	"iconImageName": "meme-facepalm"
 	},
@@ -1264,6 +1273,8 @@
 	"autoprefixerBrowserString": "> 1%, last 2 versions, ff 17, opera 12.1",
 	"autoSyncProjectSettingsFile": 1,
 	"browserRefreshDelay": 0,
+	"coffeeAutoOutputPathEnabled": 1,
+	"coffeeAutoOutputPathFilenamePattern": "*.js",
 	"coffeeAutoOutputPathRelativePath": "js",
 	"coffeeAutoOutputPathReplace1": "",
 	"coffeeAutoOutputPathReplace2": "",
@@ -1314,20 +1325,16 @@
 			"active": 0,
 			"flagValue": 3
 			},
-		"no-unnecessary_fat_arrows": {
-			"active": 1,
-			"flagValue": -1
-			},
 		"no_backticks": {
 			"active": 1,
 			"flagValue": -1
 			},
 		"no_debugger": {
-			"active": true,
+			"active": 1,
 			"flagValue": -1
 			},
 		"no_empty_functions": {
-			"active": false,
+			"active": 0,
 			"flagValue": -1
 			},
 		"no_empty_param_list": {
@@ -1343,7 +1350,7 @@
 			"flagValue": -1
 			},
 		"no_interpolation_in_single_quotes": {
-			"active": false,
+			"active": 0,
 			"flagValue": -1
 			},
 		"no_plusplus": {
@@ -1371,7 +1378,11 @@
 			"flagValue": -1
 			},
 		"no_unnecessary_double_quotes": {
-			"active": false,
+			"active": 0,
+			"flagValue": -1
+			},
+		"no_unnecessary_fat_arrows": {
+			"active": 1,
 			"flagValue": -1
 			},
 		"non_empty_constructor_needs_parens": {
@@ -1389,6 +1400,8 @@
 	"externalServerAddress": "http:\/\/localhost:80\/new_giovanni_bojanini_landing",
 	"externalServerPreviewPathAddition": "",
 	"genericWebpageFileExtensionsString": "html, htm, shtml, shtm, xhtml, php, jsp, asp, aspx, erb, ctp",
+	"hamlAutoOutputPathEnabled": 1,
+	"hamlAutoOutputPathFilenamePattern": "*.html",
 	"hamlAutoOutputPathRelativePath": "..\/",
 	"hamlAutoOutputPathReplace1": "",
 	"hamlAutoOutputPathReplace2": "",
@@ -1400,19 +1413,22 @@
 	"hamlUseCDATA": 0,
 	"hamlUseDoubleQuotes": 1,
 	"hamlUseUnixNewlines": 0,
+	"jadeAutoOutputPathEnabled": 1,
+	"jadeAutoOutputPathFilenamePattern": "*.html",
 	"jadeAutoOutputPathRelativePath": "..\/",
 	"jadeAutoOutputPathReplace1": "",
 	"jadeAutoOutputPathReplace2": "",
 	"jadeAutoOutputPathStyle": 1,
 	"jadeCompileDebug": 1,
 	"jadeOutputStyle": 1,
+	"javascriptAutoOutputPathEnabled": 1,
+	"javascriptAutoOutputPathFilenamePattern": "*-min.js",
 	"javascriptAutoOutputPathRelativePath": "\/js",
 	"javascriptAutoOutputPathReplace1": "",
 	"javascriptAutoOutputPathReplace2": "",
 	"javascriptAutoOutputPathStyle": 1,
 	"javascriptCreateSourceMap": 1,
 	"javascriptOutputStyle": 2,
-	"javascriptOutputSuffix": ".min",
 	"javascriptSyntaxCheckerStyle": 1,
 	"jsCheckerReservedNamesString": "jQuery,$,_,GBLanding:write,_GBLanding:write,_selector:write,selector:write,_class:write,_title:write,_markup:write,_options:write,elemLeft:write,_comment:write,_valueChange:write,_durationInSec:write,_scrollYOffset:write,_offsetTop:write,_classToFix:write,_classToDeFix:write,toFix:write,toDeFix:write,_selectorToApply:write,",
 	"jsHintFlags2": {
@@ -1787,11 +1803,15 @@
 			"flagValue": -1
 			}
 		},
+	"kitAutoOutputPathEnabled": 1,
+	"kitAutoOutputPathFilenamePattern": "*.html",
 	"kitAutoOutputPathRelativePath": "",
 	"kitAutoOutputPathReplace1": "",
 	"kitAutoOutputPathReplace2": "",
 	"kitAutoOutputPathStyle": 0,
 	"lessAllowInsecureImports": 0,
+	"lessAutoOutputPathEnabled": 1,
+	"lessAutoOutputPathFilenamePattern": "*.css",
 	"lessAutoOutputPathRelativePath": "..\/css",
 	"lessAutoOutputPathReplace1": "less",
 	"lessAutoOutputPathReplace2": "css",
@@ -1804,6 +1824,8 @@
 	"lessStrictImports": 0,
 	"lessStrictMath": 0,
 	"lessStrictUnits": 0,
+	"markdownAutoOutputPathEnabled": 1,
+	"markdownAutoOutputPathFilenamePattern": "*.html",
 	"markdownAutoOutputPathRelativePath": "",
 	"markdownAutoOutputPathReplace1": "",
 	"markdownAutoOutputPathReplace2": "",
@@ -1812,6 +1834,8 @@
 	"markdownEnableSmartyPants": 1,
 	"markdownExpandTabs": 1,
 	"reloadFileURLs": 1,
+	"sassAutoOutputPathEnabled": 1,
+	"sassAutoOutputPathFilenamePattern": "*.css",
 	"sassAutoOutputPathRelativePath": "css",
 	"sassAutoOutputPathReplace1": "sass",
 	"sassAutoOutputPathReplace2": "css",
@@ -1824,6 +1848,8 @@
 	"shouldRunAutoprefixer": 1,
 	"shouldRunBless": 1,
 	"skippedItemsString": ".svn, .git, .hg, log, _logs, _cache, cache, logs",
+	"slimAutoOutputPathEnabled": 1,
+	"slimAutoOutputPathFilenamePattern": "*.html",
 	"slimAutoOutputPathRelativePath": "",
 	"slimAutoOutputPathReplace1": "",
 	"slimAutoOutputPathReplace2": "",
@@ -1832,6 +1858,8 @@
 	"slimLogicless": 0,
 	"slimOutputStyle": 1,
 	"slimRailsCompatible": 0,
+	"stylusAutoOutputPathEnabled": 1,
+	"stylusAutoOutputPathFilenamePattern": "*.css",
 	"stylusAutoOutputPathRelativePath": "..\/css",
 	"stylusAutoOutputPathReplace1": "stylus",
 	"stylusAutoOutputPathReplace2": "css",
@@ -1840,6 +1868,8 @@
 	"stylusImportCSS": 0,
 	"stylusOutputStyle": 0,
 	"stylusResolveRelativeURLS": 0,
+	"typescriptAutoOutputPathEnabled": 1,
+	"typescriptAutoOutputPathFilenamePattern": "*.js",
 	"typescriptAutoOutputPathRelativePath": "\/js",
 	"typescriptAutoOutputPathReplace1": "",
 	"typescriptAutoOutputPathReplace2": "",
