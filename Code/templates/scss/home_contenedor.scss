@@ -1,0 +1,603 @@
+#home.contenedor{
+    @extend .clearfix;
+    min-width: 960px;
+    figure.friends{
+        @extend .clearfix;
+        display: block;
+        position: absolute;
+        z-index: 0;
+        img{
+            height: auto !important;
+            position: absolute;
+            width: auto !important;
+        }
+        .desktop{ display: block; }
+        .mobile{ display: none; }
+    }
+    .wrapper{
+        //background: rgba(255,255,255,0.6);
+        display: block;
+        height: 100%;
+        margin: 0 auto;
+        padding: 10px 0 0;
+        width: 960px;
+        z-index: 1;
+        figure.logo{
+            @extend .clearfix;
+            display: inline-block;
+            padding: 0;
+            position: relative;
+            z-index: 0;
+            img{  }
+        }
+        #contact_phone{
+            float: right;
+            padding: 0 20px 0 0;
+            position: relative;
+            right: -123px;
+            text-transform: uppercase;
+            z-index: 1;
+            p{
+                @include font-mask( $white, em( 16.5, 16 ), em( 16.5, 16.5 ), normal );
+                margin: 0;
+                text-align: center;
+                padding: 0 0 11px;
+            }
+            p.info{
+                @include font-mask( $yellow !important, em( 28, 16 ), em( 28, 28 ), normal );
+                padding: 0;
+                span{
+                    display:inline-block;
+                    font-family: $Nobile_Bold;
+                    line-height: em( 28, 28 );
+                    padding: 0;
+                }
+                a{
+                    @include font-mask( $yellow, em( 16.5, 28 ), em( 16.5, 16.5 ), normal, $Nobile_Bold );
+                    border-bottom: 3px solid $yellow;
+                    letter-spacing: 0.1px;
+                    padding: 0;
+                    text-decoration: none;
+                }
+            }
+        }
+        .wrapper_information{
+            padding: 17px 0 0;
+            position: relative;
+            width: 700px;
+            h1,h2{
+                font-weight: normal;
+                margin: 0;
+                padding: 0;
+                text-align: center;
+                text-transform: uppercase;
+            }
+            h1{
+                @include font-mask( #000, em( 63, 16 ), em( 28, 63 ), normal );
+                letter-spacing: em( 10, 63 );
+                padding: 20px 0 0;
+                text-align: center;
+                strong{ font-family: $Nobile_Bold; font-size: em( 53, 63 ) }
+            }
+            hr{
+                border-top:3px solid $yellow;
+                display: block;
+                height: 0;
+                margin: 11px 0 9px;
+                padding: 0;
+            }
+            h2{
+                @include font-mask( #000, em( 18, 16 ), em( 18, 18 ), normal );
+                letter-spacing: em( 23, 18 );
+                padding: 0 0 10px;
+                text-align: center;
+            }
+            #description{
+                float: left;
+                padding: 0 23px 0 0;
+                width: em( 244, 16 );
+                p{
+                    @include font-mask( $text_gray, em( 15, 16 ), em( 22, 15 ), normal );
+                    clear: both;
+                    display: block;
+                    letter-spacing: 1px;
+                    margin: 0;
+                    padding: 0;
+                    text-align: justify;
+                    strong{
+                        font-family: $Nobile_Bold;
+                        font-weight: normal;
+                        letter-spacing: em( 0.9, 15 );
+                    }
+                }
+                p.emphazise{
+                    @include font-mask( $text_gray, em( 45, 16 ), em( 48, 53 ), normal );
+                    font-weight: normal;
+                    letter-spacing: 18.5px;
+                    padding: em( 7, 45 ) 0 0;
+                    text-align: center;
+                    strong{
+                        @include font-mask( #000, em( 45, 45 ), em( 23, 45 ), normal, $Nobile_Bold );
+                        clear: both;
+                        display: block;
+                        letter-spacing: em( 3, 45 );
+                        padding: em( 12, 45 ) 0 0;
+                    }
+                }
+            }
+            div#discounts{
+                @extend .clearfix;
+                float: left;
+                height: 171px;
+                position: relative;
+                width: 432px;
+                div{
+                    float: left;
+                    height: 141px;
+                    position: absolute;
+                    p{
+                        @include font-mask( $yellow, em( 12, 16 ), em( 15, 12 ), normal );
+                        clear: both;
+                        display: block;
+                        margin: 0;
+                        padding: 0;
+                        text-align: center;
+                        text-transform: uppercase;
+                        strong{ font-family: $Nobile_Bold; font-weight: normal; }
+                    }
+                    .discount{
+                        @include font-mask( $white !important, em( 65, 16 ) !important, em( 54.85, 65 ), normal, $Nobile_Bold );
+                        padding: 0 !important;
+                    }
+                }
+                div.twenty{
+                    background: url("../img/cuadro_amarillo.png") no-repeat scroll left top transparent;
+                    padding: 0 18px 0 0;
+                    width: 144px;
+                    z-index: 10;
+                    p{
+                        color: $text_gray;
+                        font-size: em( 11.4, 16 );
+                        line-height: em( 15, 11.4 );
+                        padding: 15px 10px 0;
+                        strong{}
+                    }
+                    p.discount{
+                        font-size: em( 65, 16 );
+                        line-height: em( 54.85, 70 );
+                        padding: 19px 10px 0;
+                    }
+                }
+                div.thirty{
+                    background: url("../img/cuadro_2.png") no-repeat scroll left top transparent;
+                    left: 144px;
+                    padding: 0 25px 0 0;
+                    width: 137px;
+                    z-index: 5;
+                    p{
+                        padding: 21px 10px 0 24px;
+                        width: 116px;
+                        strong{}
+                    }
+                    p.discount{
+                        letter-spacing: 0.1px;
+                        padding: 23px 14px 0;
+                    }
+                }
+                div.fourthy{
+                    background: url("../img/cuadro_3.png") no-repeat scroll left top transparent;
+                    left: 288px;
+                    padding: 0 23px 0 0;
+                    width: 121px;
+                    z-index: 0;
+                    p{
+                        padding: 24px 12px 0;
+                        width: 119px;
+                        strong{}
+                    }
+                    p.discount{
+                        letter-spacing: 0.1px;
+                        padding: 20px 12px 0 13px;
+                    }
+                }
+                div.aclaration{
+                    background-color: #2b2b2b;
+                    bottom: 0;
+                    height: 30px;
+                    left: 0;
+                    width: 100%;
+                    p{
+                        @include font-mask( $white, em( 12, 16 ), em( 24, 12 ), normal );
+                        letter-spacing: em( 11, 12 );
+                        padding: em( 5, 12 ) 0 0;
+                        text-align: center;
+                        strong{ font-family: $Nobile_Bold; font-weight: normal; }
+                    }
+                }
+            }
+            .browse{
+                background: url("../img/flecha.png") no-repeat scroll 0 0 transparent;
+                display: inline-block;
+                height:83px;
+                position: absolute;
+                bottom:200px;
+                width:41px;
+            }
+            a.prev{ background-position:0px 0px; left: -41px; }
+            a.next{ background-position:0px -83px; right: -39px; }
+            .disabled{ display: none !important; }
+            div#auto_diagnostic{
+                clear: both;
+                display: block;
+                overflow: hidden;
+                padding: 15px 0 0;
+                position: relative;
+                width: 698px;
+                h3{
+                    @include font-mask( $white, em( 25, 16 ), em( 31, 25 ), normal );
+                    background: $text_gray;
+                    letter-spacing: 0.1px;
+                    margin: 0;
+                    padding: 10px 0 3px;
+                    text-indent: 27px;
+                    text-transform: uppercase;
+                    strong{ font-family: $Nobile_Bold; font-size: em( 22, 25 ); font-weight: normal; }
+                }
+                .scrollable{
+                    background: $yellow;
+                    height: 225px;
+                    overflow: hidden;
+                    width: 698px;
+                    .items{
+                        position: relative;
+                        width: 2000em;
+                        .levels{
+                            display: inline-block;
+                            float: left;
+                            height: 244px;
+                            width: 698px;
+                            img{ float: left; }
+                            .profile{ padding: 18px 0 0 36px; }
+                            .top{ padding: 23px 0 0 75px; }
+                            > div{
+                                float: left;
+                                height: 225px;
+                                padding: 0 0 0 32px;
+                                position: relative;
+                                width: 270px;
+                                h4{
+                                    @include font-mask( $text_gray, em( 64, 16 ), em( 64, 64 ), normal );
+                                    letter-spacing: 0.1px;
+                                    margin: 0;
+                                    padding: 54px 0 64px;
+                                    text-align: left;
+                                    text-indent: 24px;
+                                    text-transform: uppercase;
+                                    strong{ font-family: $Nobile_Bold; font-size: em( 55, 64 ); font-weight: normal; }
+                                }
+                                div.input_radio{
+                                    @extend .clearfix;
+                                    bottom: em( 5, 16 );
+                                    position: absolute;
+                                    width: em( 270, 16 );
+                                    label{
+                                        @include font-mask( $text_gray, em( 14, 16 ), em( 32, 14 ), normal );
+                                        display: inline-block;
+                                        left: -10px;
+                                        letter-spacing: 0.1px;
+                                        padding: 0 12px 0 0;
+                                        position: absolute;
+                                        text-transform: uppercase;
+                                        strong{ font-family: $Nobile_Bold; font-size: em( 12, 14 ); font-weight: normal; }
+                                    }
+                                    .radio{
+                                        display: inline-block;
+                                        float: right;
+                                        padding: 0 10px 0 0;
+                                        span{
+                                            background: url("../img/seleccion-sprite.png") no-repeat scroll center top transparent;
+                                            display: block;
+                                            height: 30px;
+                                            left: 0;
+                                            position: relative;
+                                            top: 2px;
+                                            width: 31px;
+                                            .select_level{
+                                                background: none transparent;
+                                                border: 0 none transparent;
+                                                display: block;
+                                                filter: alpha(opacity=0);
+                                                height: 100%;
+                                                margin: 0;
+                                                opacity: 0;
+                                                padding: 0;
+                                                width: 100%;
+                                            }
+                                        }
+                                        .checked{ background-position: 0 -29px; }
+                                    }
+                                }
+                            }
+                        }
+                        .V{
+
+                            > div{
+
+                                h4{
+                                    font-size: em( 36, 16 );
+                                    line-height: em( 36, 32 );
+                                    text-indent: 0;
+                                }
+                            }
+                        }
+                    }
+                }
+                p.disclaimer{
+                    @include font-mask( $text_gray, em( 11, 16 ), em( 17, 11 ), normal );
+                    margin: 0;
+                    padding: 19px 0;
+                    width: 270px;
+                }
+                .logos{
+                    bottom: 60px;
+                    left: 300px;
+                    position: absolute;
+                }
+            }
+            div.response{
+                bottom: 65px;
+                height: 279px;
+                left: 753px;
+                position: absolute;
+                width: 100%;
+                .diagnosis_displayed{
+                    background: url("../img/recuadro_grande.png") no-repeat scroll left center transparent;
+                    float: left;
+                    display: inline-block;
+                    height: 276px;
+                    position: relative;
+                    width: 317px;
+                    z-index: 1;
+                    .profile{ float: left; padding: 28px 0 0 65px; }
+                    > a{
+                        @include font-mask( $text_gray, em( 16.7, 16 ), em( 35, 16.7 ), normal );
+                        background: url("../img/atras.png") no-repeat scroll left center transparent;
+                        clear: both;
+                        display: inline-block;
+                        float: left;
+                        height: 29px;
+                        left: 10px;
+                        position: relative;
+                        text-decoration: none;
+                        text-indent: 40px;
+                        text-transform: uppercase;
+                        top: -6px;
+                        width: 100px;
+                    }
+                }
+                .diagnosis_information{
+                    background: $text_gray;
+                    float: left;
+                    height: 278px;
+                    position: absolute;
+                    right: 0;
+                    width: 421px;
+                    z-index: 0;
+                    h4{
+                        @include font-mask( $white, em( 30, 16 ), em( 43, 30 ), normal );
+                        background: #494949;
+                        display: inline-block;
+                        letter-spacing: em( 2, 30 );
+                        margin: 0;
+                        padding: em( 13.33, 30 ) 0 0;
+                        text-indent: em( 35, 30 );
+                        text-transform: uppercase;
+                        width: 100%;
+                    }
+                    .diagnosis_level{
+                        @include font-mask( $yellow, em( 18.5, 16 ), em( 18.5, 18.5 ), normal, $Nobile_Bold );
+                        clear: both;
+                        display: block;
+                        margin: 0;
+                        padding: 13px 0;
+                        text-indent: 50px;
+                        strong{ font-weight: normal; font-size: em( 16, 18.5 ); }
+                    }
+                    .diagnosis_description{
+                        @include font-mask( $white, em( 13, 16 ), em( 13, 13 ), normal );
+                        clear: both;
+                        display: block;
+                        margin: 0 auto;
+                        padding: 0 0 7px 24px;
+                        width: 347px;
+                    }
+                    .diagnosis_prescription{
+                        @include font-mask( $yellow, em( 45, 16 ), em( 44, 45 ), normal );
+                        clear: both;
+                        display: block;
+                        margin: 0 auto;
+                        padding: 0 0 7px 50px;
+                        text-transform: uppercase;
+                        strong{
+                            color: $white;
+                            font-family: $Nobile_Bold;
+                            font-size: em( 42, 45 );
+                            font-weight: normal;
+                            text-transform: uppercase;
+                        }
+                    }
+                    .need{ padding: 13px 0 6px; }
+                    hr{
+                        border: 0 none transparent;
+                        border-top: 3px solid #737373;
+                        bottom: em( 60, 16 );
+                        clear: both;
+                        display: block;
+                        height: 1px;
+                        margin: 0 auto 0 em( 50, 16 );
+                        position: absolute;
+                        width: 361px;
+                    }
+                    .promotions_link{
+                        @include font-mask( $white, em( 13, 16 ), em( 15, 13 ), normal );
+                        bottom: em( 15, 13 );
+                        clear: both;
+                        display: block;
+                        text-transform: uppercase;
+                        margin: 0;
+                        overflow: hidden;
+                        padding: 0;
+                        position: absolute;
+                        text-indent: 50px;
+                        text-transform: uppercase;
+                        width: 100%;
+                        a{
+                            background: url("../img/comienza-ya-button.png") no-repeat scroll 0 8px transparent;
+                            color: transparent;
+                            display: inline-block;
+                            height: 40px;
+                            font-weight: bold;
+                            padding: 8px 0 0;
+                            text-decoration: none;
+                            text-indent: 200em;
+                            width: 113px;
+                            &:hover{ background: url("../img/comienza_over.png") no-repeat scroll 0 8px transparent; }
+                        }
+                    }
+                }
+                .diagnosis_budget{
+                    @extend .diagnosis_information;
+                    position: absolute;
+                    right: -421px;
+                    top: 0;
+                    h4{
+                        @include font-mask( $white, em( 28, 16 ), em( 43, 28 ), normal );
+                        background: #494949;
+                        display: inline-block;
+                        letter-spacing: em( 0.5, 28 );
+                        margin: 0;
+                        padding: em( 13.33, 28 ) 0 0;
+                        text-indent: em( 35, 28 );
+                        text-transform: uppercase;
+                        width: 100%;
+                        strong{ font-family: $Nobile_Bold; font-size: em( 25, 28 ); font-weight: normal; }
+                    }
+                    form{
+                        display: inline-block;
+                        height: 70px;
+                        padding: 17px 0 12px 50px;
+                        fieldset{
+                            height: 100%;
+                            position: relative;
+                            .text{
+                                float: left;
+                                padding: 3px 15px 3px 0;
+                                position: relative;
+                                width: 280px;
+                                .error{
+                                    color: $white;
+                                    left: 78px;
+                                    position: absolute;
+                                    text-align: right;
+                                    top:2px;
+                                }
+                                input{
+                                    @include font-mask( $yellow, em( 13, 16 ), em( 13, 13 ), normal );
+                                    background-color: #494949;
+                                    border: 0 none transparent;
+                                    letter-spacing: 0.5px;
+                                    padding: 0 5px;
+                                    width: 270px;
+                                }
+                                &:first-child{ padding: 0 15px 3px 0; }
+                                &:last-child{ padding: 3px 15px 0 0; }
+                            }
+                            .submit{
+                                display: inline-block;
+                                float: left;
+                                height: 65px;
+                                position: absolute;
+                                top: 0;
+                                right: 15px;
+                                width: 65px;
+                                input{
+                                    background: url("../img/send-button.png") no-repeat scroll 0 0 transparent;
+                                    border: 0 none transparent;
+                                    color: transparent;
+                                    display: block;
+                                    height: 65px;
+                                    text-indent: 2000em;
+                                    width: 65px;
+                                    &:hover{ background-position: 0 -65px; }
+                                }
+                            }
+                        }
+                    }
+                    hr{
+                        border: 0 none transparent;
+                        border-top: 3px solid #737373;
+                        bottom: auto;
+                        clear: both;
+                        display: block;
+                        height: 1px;
+                        margin: 0 0 0 em( 45, 16 );
+                        width: 361px;
+                    }
+                    div.schedule_your_date{
+                        float: left;
+                        padding: 34px 0 0 43px;
+                        img.schedule{}
+                    }
+                    div.branch{
+                        float: left;
+                        height: 84px;
+                        padding: 35px 15px 0 20px;
+                        width: 219px;
+                        h5{
+                            @include font-mask( $white, em( 20, 16 ), em( 13, 20 ), normal );
+                            margin: 0;
+                            padding: 0 0 12px;
+                            text-align: right;
+                            text-transform: uppercase;
+                            strong{ color: $yellow; font-family: $Nobile_Bold; font-size: em( 17, 20 ); font-weight: normal; }
+                        }
+                        p{
+                            @include font-mask( $white, em( 10, 16 ), em( 12, 10 ), normal );
+                            margin: 0;
+                            padding: 0;
+                            text-align: right;
+                        }
+                        p.branch_phone{
+                            @include font-mask( $white, em( 15, 16 ), em( 26, 15 ), normal );
+                            letter-spacing: 0.7px;
+                            margin: 0;
+                            padding: 0;
+                            span{ color: $yellow; }
+                        }
+                    }
+                }
+            }
+            .response.first,.response.second,.response.third,
+            .response.thirdV,.response.fourth,.response.fifth,
+            .response.sixth,.response.seventh{
+
+                .diagnosis_information{
+
+                    .diagnosis_prescription{
+                        font-size: em( 22, 16 );
+                        line-height: em( 26, 22 );
+                    }
+                }
+            }
+            .response.fifth{
+
+                .diagnosis_information{
+
+                    .need{
+                        padding: 0 0 em( 6, 18.5 );
+                    }
+                }
+            }
+        }
+    }
+}

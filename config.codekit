@@ -1,6 +1,10 @@
 {
 "CodeKitInfo": "This is a CodeKit 2.x project configuration file. It is designed to sync project settings across multiple machines. MODIFYING THE CONTENTS OF THIS FILE IS A POOR LIFE DECISION. If you do so, you will likely cause CodeKit to crash. This file is not useful unless accompanied by the project that created it in CodeKit 2. This file is not backwards-compatible with CodeKit 1.x. For more information, see: http:\/\/incident57.com\/codekit",
+<<<<<<< HEAD
 "creatorBuild": "17682",
+=======
+"creatorBuild": "17945",
+>>>>>>> 1e875a8dc1b4ef586efdfaffbdcb2c81f2308cb8
 "files": {
 	"\/404.html": {
 		"fileType": 8192,
@@ -215,28 +219,71 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+<<<<<<< HEAD
 	"\/Code\/templates\/footer.jade": {
+=======
+	"\/Code\/templates\/autodiagnostic_module.jade": {
+>>>>>>> 1e875a8dc1b4ef586efdfaffbdcb2c81f2308cb8
 		"compileDebug": 1,
 		"fileType": 512,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
+<<<<<<< HEAD
 		"inputAbbreviatedPath": "\/Code\/templates\/footer.jade",
 		"outputAbbreviatedPath": "\/footer.html",
+=======
+		"inputAbbreviatedPath": "\/Code\/templates\/autodiagnostic_module.jade",
+		"outputAbbreviatedPath": "\/Code\/autodiagnostic_module.html",
+>>>>>>> 1e875a8dc1b4ef586efdfaffbdcb2c81f2308cb8
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
+		"outputStyle": 0
 		},
+<<<<<<< HEAD
+	"\/Code\/templates\/head.jade": {
+=======
+	"\/Code\/templates\/footer.jade": {
+>>>>>>> 1e875a8dc1b4ef586efdfaffbdcb2c81f2308cb8
+		"compileDebug": 1,
+		"fileType": 512,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+<<<<<<< HEAD
+		"inputAbbreviatedPath": "\/Code\/templates\/head.jade",
+		"outputAbbreviatedPath": "\/head.html",
+=======
+		"inputAbbreviatedPath": "\/Code\/templates\/footer.jade",
+		"outputAbbreviatedPath": "\/Code\/footer.html",
+>>>>>>> 1e875a8dc1b4ef586efdfaffbdcb2c81f2308cb8
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0
+		},
+<<<<<<< HEAD
+=======
 	"\/Code\/templates\/head.jade": {
 		"compileDebug": 1,
 		"fileType": 512,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/Code\/templates\/head.jade",
-		"outputAbbreviatedPath": "\/head.html",
+		"outputAbbreviatedPath": "\/Code\/head.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
+		"outputStyle": 0
 		},
+	"\/Code\/templates\/header.jade": {
+		"compileDebug": 1,
+		"fileType": 512,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Code\/templates\/header.jade",
+		"outputAbbreviatedPath": "\/Code\/header.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0
+		},
+>>>>>>> 1e875a8dc1b4ef586efdfaffbdcb2c81f2308cb8
 	"\/Code\/templates\/index.jade": {
 		"compileDebug": 1,
 		"fileType": 512,
@@ -245,18 +292,80 @@
 		"inputAbbreviatedPath": "\/Code\/templates\/index.jade",
 		"outputAbbreviatedPath": "\/index.html",
 		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1
+		"outputPathIsSetByUser": 1,
+		"outputStyle": 0
 		},
+	"\/Code\/templates\/index_agosto.jade": {
+		"compileDebug": 1,
+		"fileType": 512,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Code\/templates\/index_agosto.jade",
+		"outputAbbreviatedPath": "\/Code\/index_agosto.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0
+		},
+	"\/Code\/templates\/index_banamex.jade": {
+		"compileDebug": 1,
+		"fileType": 512,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Code\/templates\/index_banamex.jade",
+		"outputAbbreviatedPath": "\/Code\/index_banamex.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0
+		},
+<<<<<<< HEAD
+=======
+	"\/Code\/templates\/index_junio.jade": {
+		"compileDebug": 1,
+		"fileType": 512,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Code\/templates\/index_junio.jade",
+		"outputAbbreviatedPath": "\/Code\/index_junio.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0
+		},
+	"\/Code\/templates\/index_normal.jade": {
+		"compileDebug": 1,
+		"fileType": 512,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Code\/templates\/index_normal.jade",
+		"outputAbbreviatedPath": "\/Code\/index_normal.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0
+		},
+	"\/Code\/templates\/index_october.jade": {
+		"compileDebug": 1,
+		"fileType": 512,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Code\/templates\/index_october.jade",
+		"outputAbbreviatedPath": "\/Code\/index_october.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0
+		},
+>>>>>>> 1e875a8dc1b4ef586efdfaffbdcb2c81f2308cb8
 	"\/Code\/templates\/js\/GBLanding.js": {
 		"fileType": 64,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/Code\/templates\/js\/GBLanding.js",
+<<<<<<< HEAD
 		"outputAbbreviatedPath": "\/js\/GBLanding-min.js",
+=======
+		"outputAbbreviatedPath": "\/Code\/templates\/js\/GBLanding-min.js",
+>>>>>>> 1e875a8dc1b4ef586efdfaffbdcb2c81f2308cb8
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 2,
+		"outputStyle": 0,
 		"syntaxCheckerStyle": 1
 		},
 	"\/Code\/templates\/js\/main.js": {
@@ -264,10 +373,14 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/Code\/templates\/js\/main.js",
+<<<<<<< HEAD
 		"outputAbbreviatedPath": "\/js\/main-min.js",
+=======
+		"outputAbbreviatedPath": "\/Code\/templates\/js\/main-min.js",
+>>>>>>> 1e875a8dc1b4ef586efdfaffbdcb2c81f2308cb8
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 2,
+		"outputStyle": 0,
 		"syntaxCheckerStyle": 1
 		},
 	"\/Code\/templates\/js\/plugins.js": {
@@ -275,10 +388,14 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/Code\/templates\/js\/plugins.js",
+<<<<<<< HEAD
 		"outputAbbreviatedPath": "\/js\/plugins-min.js",
+=======
+		"outputAbbreviatedPath": "\/Code\/templates\/js\/plugins-min.js",
+>>>>>>> 1e875a8dc1b4ef586efdfaffbdcb2c81f2308cb8
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 2,
+		"outputStyle": 0,
 		"syntaxCheckerStyle": 1
 		},
 	"\/Code\/templates\/js\/vendor\/additional-methods.js": {
@@ -286,10 +403,14 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/Code\/templates\/js\/vendor\/additional-methods.js",
+<<<<<<< HEAD
 		"outputAbbreviatedPath": "\/js\/additional-methods-min.js",
+=======
+		"outputAbbreviatedPath": "\/Code\/templates\/js\/vendor\/additional-methods-min.js",
+>>>>>>> 1e875a8dc1b4ef586efdfaffbdcb2c81f2308cb8
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 2,
+		"outputStyle": 0,
 		"syntaxCheckerStyle": 1
 		},
 	"\/Code\/templates\/js\/vendor\/jquery.form.js": {
@@ -297,21 +418,29 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/Code\/templates\/js\/vendor\/jquery.form.js",
+<<<<<<< HEAD
 		"outputAbbreviatedPath": "\/js\/jquery.form-min.js",
+=======
+		"outputAbbreviatedPath": "\/Code\/templates\/js\/vendor\/jquery.form-min.js",
+>>>>>>> 1e875a8dc1b4ef586efdfaffbdcb2c81f2308cb8
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 2,
+		"outputStyle": 0,
 		"syntaxCheckerStyle": 1
 		},
 	"\/Code\/templates\/js\/vendor\/jquery.scrollTo-1.4.3.1-min.js": {
 		"fileType": 64,
-		"ignore": 0,
+		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/Code\/templates\/js\/vendor\/jquery.scrollTo-1.4.3.1-min.js",
+<<<<<<< HEAD
 		"outputAbbreviatedPath": "\/js\/jquery.scrollTo-1.4.3.1-min-min.js",
+=======
+		"outputAbbreviatedPath": "\/Code\/templates\/js\/vendor\/jquery.scrollTo-1.4.3.1-min-min.js",
+>>>>>>> 1e875a8dc1b4ef586efdfaffbdcb2c81f2308cb8
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 2,
+		"outputStyle": 0,
 		"syntaxCheckerStyle": 1
 		},
 	"\/Code\/templates\/js\/vendor\/jquery.scrollTo-1.4.3.1.js": {
@@ -319,10 +448,14 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/Code\/templates\/js\/vendor\/jquery.scrollTo-1.4.3.1.js",
+<<<<<<< HEAD
 		"outputAbbreviatedPath": "\/js\/jquery.scrollTo-1.4.3.1-min.js",
+=======
+		"outputAbbreviatedPath": "\/Code\/templates\/js\/vendor\/jquery.scrollTo-1.4.3.1-min.js",
+>>>>>>> 1e875a8dc1b4ef586efdfaffbdcb2c81f2308cb8
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 2,
+		"outputStyle": 0,
 		"syntaxCheckerStyle": 1
 		},
 	"\/Code\/templates\/js\/vendor\/jquery.tools.custom.min.js": {
@@ -330,10 +463,14 @@
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/Code\/templates\/js\/vendor\/jquery.tools.custom.min.js",
+<<<<<<< HEAD
 		"outputAbbreviatedPath": "\/js\/jquery.tools.custom.min-min.js",
+=======
+		"outputAbbreviatedPath": "\/Code\/templates\/js\/vendor\/jquery.tools.custom.min-min.js",
+>>>>>>> 1e875a8dc1b4ef586efdfaffbdcb2c81f2308cb8
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 2,
+		"outputStyle": 0,
 		"syntaxCheckerStyle": 1
 		},
 	"\/Code\/templates\/js\/vendor\/jquery.tools.min.js": {
@@ -341,10 +478,14 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/Code\/templates\/js\/vendor\/jquery.tools.min.js",
+<<<<<<< HEAD
 		"outputAbbreviatedPath": "\/js\/jquery.tools.min-min.js",
+=======
+		"outputAbbreviatedPath": "\/Code\/templates\/js\/vendor\/jquery.tools.min-min.js",
+>>>>>>> 1e875a8dc1b4ef586efdfaffbdcb2c81f2308cb8
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 2,
+		"outputStyle": 0,
 		"syntaxCheckerStyle": 1
 		},
 	"\/Code\/templates\/js\/vendor\/jquery.uniform.js": {
@@ -352,10 +493,14 @@
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/Code\/templates\/js\/vendor\/jquery.uniform.js",
+<<<<<<< HEAD
 		"outputAbbreviatedPath": "\/js\/jquery.uniform-min.js",
+=======
+		"outputAbbreviatedPath": "\/Code\/templates\/js\/vendor\/jquery.uniform-min.js",
+>>>>>>> 1e875a8dc1b4ef586efdfaffbdcb2c81f2308cb8
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 2,
+		"outputStyle": 0,
 		"syntaxCheckerStyle": 1
 		},
 	"\/Code\/templates\/js\/vendor\/jquery.validate.js": {
@@ -363,10 +508,14 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/Code\/templates\/js\/vendor\/jquery.validate.js",
+<<<<<<< HEAD
 		"outputAbbreviatedPath": "\/js\/jquery.validate-min.js",
+=======
+		"outputAbbreviatedPath": "\/Code\/templates\/js\/vendor\/jquery.validate-min.js",
+>>>>>>> 1e875a8dc1b4ef586efdfaffbdcb2c81f2308cb8
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 2,
+		"outputStyle": 0,
 		"syntaxCheckerStyle": 1
 		},
 	"\/Code\/templates\/js\/vendor\/jquery.validate.min.js": {
@@ -374,21 +523,96 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/Code\/templates\/js\/vendor\/jquery.validate.min.js",
+<<<<<<< HEAD
 		"outputAbbreviatedPath": "\/js\/jquery.validate.min-min.js",
+=======
+		"outputAbbreviatedPath": "\/Code\/templates\/js\/vendor\/jquery.validate.min-min.js",
+>>>>>>> 1e875a8dc1b4ef586efdfaffbdcb2c81f2308cb8
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 2,
+		"outputStyle": 0,
 		"syntaxCheckerStyle": 1
+		},
+<<<<<<< HEAD
+	"\/Code\/templates\/scss\/main.scss": {
+=======
+	"\/Code\/templates\/scss\/august_promo.scss": {
+		"createSourceMap": 1,
+		"debugStyle": 0,
+		"decimalPrecision": 2,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Code\/templates\/scss\/august_promo.scss",
+		"outputAbbreviatedPath": "\/Code\/templates\/august_promo.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 3,
+		"shouldRunAutoprefixer": 1,
+		"shouldRunBless": 1,
+		"useLibsass": 0
+		},
+	"\/Code\/templates\/scss\/banamex_promo.scss": {
+		"createSourceMap": 1,
+		"debugStyle": 0,
+		"decimalPrecision": 2,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Code\/templates\/scss\/banamex_promo.scss",
+		"outputAbbreviatedPath": "\/Code\/templates\/banamex_promo.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 3,
+		"shouldRunAutoprefixer": 1,
+		"shouldRunBless": 1,
+		"useLibsass": 0
+		},
+	"\/Code\/templates\/scss\/home_contenedor.scss": {
+		"createSourceMap": 1,
+		"debugStyle": 0,
+		"decimalPrecision": 2,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Code\/templates\/scss\/home_contenedor.scss",
+		"outputAbbreviatedPath": "\/Code\/templates\/home_contenedor.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 3,
+		"shouldRunAutoprefixer": 1,
+		"shouldRunBless": 1,
+		"useLibsass": 0
+		},
+	"\/Code\/templates\/scss\/junio_promo.scss": {
+>>>>>>> 1e875a8dc1b4ef586efdfaffbdcb2c81f2308cb8
+		"createSourceMap": 1,
+		"debugStyle": 0,
+		"decimalPrecision": 2,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Code\/templates\/scss\/junio_promo.scss",
+		"outputAbbreviatedPath": "\/Code\/templates\/junio_promo.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 3,
+		"shouldRunAutoprefixer": 1,
+		"shouldRunBless": 1,
+		"useLibsass": 0
 		},
 	"\/Code\/templates\/scss\/main.scss": {
 		"createSourceMap": 1,
 		"debugStyle": 0,
-		"decimalPrecision": 5,
+		"decimalPrecision": 2,
 		"fileType": 4,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/Code\/templates\/scss\/main.scss",
+<<<<<<< HEAD
 		"outputAbbreviatedPath": "\/css\/main.css",
+=======
+		"outputAbbreviatedPath": "\/Code\/templates\/main.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 3,
@@ -399,12 +623,38 @@
 	"\/Code\/templates\/scss\/normalize.scss": {
 		"createSourceMap": 1,
 		"debugStyle": 0,
-		"decimalPrecision": 5,
+		"decimalPrecision": 2,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/Code\/templates\/scss\/normalize.scss",
+		"outputAbbreviatedPath": "\/Code\/templates\/normalize.css",
+>>>>>>> 1e875a8dc1b4ef586efdfaffbdcb2c81f2308cb8
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 3,
+		"shouldRunAutoprefixer": 1,
+		"shouldRunBless": 1,
+		"useLibsass": 0
+		},
+<<<<<<< HEAD
+	"\/Code\/templates\/scss\/normalize.scss": {
+=======
+	"\/Code\/templates\/scss\/variables.scss": {
+>>>>>>> 1e875a8dc1b4ef586efdfaffbdcb2c81f2308cb8
+		"createSourceMap": 1,
+		"debugStyle": 0,
+		"decimalPrecision": 2,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+<<<<<<< HEAD
+		"inputAbbreviatedPath": "\/Code\/templates\/scss\/normalize.scss",
 		"outputAbbreviatedPath": "\/css\/normalize.css",
+=======
+		"inputAbbreviatedPath": "\/Code\/templates\/scss\/variables.scss",
+		"outputAbbreviatedPath": "\/Code\/templates\/variables.css",
+>>>>>>> 1e875a8dc1b4ef586efdfaffbdcb2c81f2308cb8
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 3,
@@ -421,6 +671,7 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/CONTRIBUTING.md",
 		"outputAbbreviatedPath": "\/CONTRIBUTING.html",
+<<<<<<< HEAD
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
@@ -429,6 +680,335 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/convertFont.php",
+=======
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/convertFont.php": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/convertFont.php",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/fonts\/fire-sans\/firasansot-light-demo.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/fonts\/fire-sans\/firasansot-light-demo.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/fonts\/fire-sans\/specimen_files\/easytabs.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/fonts\/fire-sans\/specimen_files\/easytabs.js",
+		"outputAbbreviatedPath": "\/css\/fonts\/fire-sans\/specimen_files\/easytabs-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"syntaxCheckerStyle": 1
+		},
+	"\/css\/fonts\/fire-sans\/specimen_files\/firasansot-light-cleartype.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 84206,
+		"inputAbbreviatedPath": "\/css\/fonts\/fire-sans\/specimen_files\/firasansot-light-cleartype.png",
+		"outputAbbreviatedPath": "\/css\/fonts\/fire-sans\/specimen_files\/firasansot-light-cleartype.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/css\/fonts\/fire-sans\/specimen_files\/grid_12-825-55-15.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/fonts\/fire-sans\/specimen_files\/grid_12-825-55-15.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/fonts\/fire-sans\/specimen_files\/specimen_stylesheet.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/fonts\/fire-sans\/specimen_files\/specimen_stylesheet.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/fonts\/fire-sans\/stylesheet.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/fonts\/fire-sans\/stylesheet.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/fonts\/nobile-bold\/nobile-bold-demo.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/fonts\/nobile-bold\/nobile-bold-demo.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/fonts\/nobile-regular\/nobile-regular-demo.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/fonts\/nobile-regular\/nobile-regular-demo.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/fonts\/nobile\/specimen_files\/easytabs.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/fonts\/nobile\/specimen_files\/easytabs.js",
+		"outputAbbreviatedPath": "\/css\/fonts\/nobile\/specimen_files\/easytabs-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"syntaxCheckerStyle": 1
+		},
+	"\/css\/fonts\/nobile\/specimen_files\/grid_12-825-55-15.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/fonts\/nobile\/specimen_files\/grid_12-825-55-15.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/fonts\/nobile\/specimen_files\/nobile-bold-cleartype.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 89884,
+		"inputAbbreviatedPath": "\/css\/fonts\/nobile\/specimen_files\/nobile-bold-cleartype.png",
+		"outputAbbreviatedPath": "\/css\/fonts\/nobile\/specimen_files\/nobile-bold-cleartype.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/css\/fonts\/nobile\/specimen_files\/nobile-regular-cleartype.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 92210,
+		"inputAbbreviatedPath": "\/css\/fonts\/nobile\/specimen_files\/nobile-regular-cleartype.png",
+		"outputAbbreviatedPath": "\/css\/fonts\/nobile\/specimen_files\/nobile-regular-cleartype.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/css\/fonts\/nobile\/specimen_files\/specimen_stylesheet.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/fonts\/nobile\/specimen_files\/specimen_stylesheet.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/fonts\/nobile\/stylesheet.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/fonts\/nobile\/stylesheet.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/fonts\/open-sans-condensed-bold\/OpenSans-CondBold-demo.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/fonts\/open-sans-condensed-bold\/OpenSans-CondBold-demo.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/fonts\/open-sans-condensed-bold\/specimen_files\/easytabs.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/fonts\/open-sans-condensed-bold\/specimen_files\/easytabs.js",
+		"outputAbbreviatedPath": "\/css\/fonts\/open-sans-condensed-bold\/specimen_files\/easytabs-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"syntaxCheckerStyle": 1
+		},
+	"\/css\/fonts\/open-sans-condensed-bold\/specimen_files\/grid_12-825-55-15.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/fonts\/open-sans-condensed-bold\/specimen_files\/grid_12-825-55-15.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/fonts\/open-sans-condensed-bold\/specimen_files\/OpenSans-CondBold-cleartype.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 90683,
+		"inputAbbreviatedPath": "\/css\/fonts\/open-sans-condensed-bold\/specimen_files\/OpenSans-CondBold-cleartype.png",
+		"outputAbbreviatedPath": "\/css\/fonts\/open-sans-condensed-bold\/specimen_files\/OpenSans-CondBold-cleartype.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/css\/fonts\/open-sans-condensed-bold\/specimen_files\/specimen_stylesheet.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/fonts\/open-sans-condensed-bold\/specimen_files\/specimen_stylesheet.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/fonts\/open-sans-condensed-bold\/stylesheet.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/fonts\/open-sans-condensed-bold\/stylesheet.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/fonts\/open-sans-condensed-light-italic\/OpenSans-CondLightItalic-demo.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/fonts\/open-sans-condensed-light-italic\/OpenSans-CondLightItalic-demo.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/fonts\/open-sans-condensed-light-italic\/specimen_files\/easytabs.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/fonts\/open-sans-condensed-light-italic\/specimen_files\/easytabs.js",
+		"outputAbbreviatedPath": "\/css\/fonts\/open-sans-condensed-light-italic\/specimen_files\/easytabs-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"syntaxCheckerStyle": 1
+		},
+	"\/css\/fonts\/open-sans-condensed-light-italic\/specimen_files\/grid_12-825-55-15.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/fonts\/open-sans-condensed-light-italic\/specimen_files\/grid_12-825-55-15.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/fonts\/open-sans-condensed-light-italic\/specimen_files\/OpenSans-CondLightItalic-cleartype.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 97790,
+		"inputAbbreviatedPath": "\/css\/fonts\/open-sans-condensed-light-italic\/specimen_files\/OpenSans-CondLightItalic-cleartype.png",
+		"outputAbbreviatedPath": "\/css\/fonts\/open-sans-condensed-light-italic\/specimen_files\/OpenSans-CondLightItalic-cleartype.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/css\/fonts\/open-sans-condensed-light-italic\/specimen_files\/specimen_stylesheet.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/fonts\/open-sans-condensed-light-italic\/specimen_files\/specimen_stylesheet.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/fonts\/open-sans-condensed-light-italic\/stylesheet.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/fonts\/open-sans-condensed-light-italic\/stylesheet.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/fonts\/open-sans-condensed-light\/OpenSans-CondLight-demo.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/fonts\/open-sans-condensed-light\/OpenSans-CondLight-demo.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/fonts\/open-sans-condensed-light\/specimen_files\/easytabs.js": {
+		"fileType": 64,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/fonts\/open-sans-condensed-light\/specimen_files\/easytabs.js",
+		"outputAbbreviatedPath": "\/css\/fonts\/open-sans-condensed-light\/specimen_files\/easytabs-min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 0,
+		"syntaxCheckerStyle": 1
+		},
+	"\/css\/fonts\/open-sans-condensed-light\/specimen_files\/grid_12-825-55-15.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/fonts\/open-sans-condensed-light\/specimen_files\/grid_12-825-55-15.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/fonts\/open-sans-condensed-light\/specimen_files\/OpenSans-CondLight-cleartype.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 92479,
+		"inputAbbreviatedPath": "\/css\/fonts\/open-sans-condensed-light\/specimen_files\/OpenSans-CondLight-cleartype.png",
+		"outputAbbreviatedPath": "\/css\/fonts\/open-sans-condensed-light\/specimen_files\/OpenSans-CondLight-cleartype.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/css\/fonts\/open-sans-condensed-light\/specimen_files\/specimen_stylesheet.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/fonts\/open-sans-condensed-light\/specimen_files\/specimen_stylesheet.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/fonts\/open-sans-condensed-light\/stylesheet.css": {
+		"fileType": 16,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/fonts\/open-sans-condensed-light\/stylesheet.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/css\/fonts\/open-sans-condensed\/How_to_use_webfonts.html": {
+		"fileType": 8192,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/css\/fonts\/open-sans-condensed\/How_to_use_webfonts.html",
+>>>>>>> 1e875a8dc1b4ef586efdfaffbdcb2c81f2308cb8
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -502,10 +1082,137 @@
 		"initialSize": 921,
 		"inputAbbreviatedPath": "\/img\/background_lightbox.png",
 		"outputAbbreviatedPath": "\/img\/background_lightbox.png",
+<<<<<<< HEAD
+=======
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/img\/banamex_promo\/banamex_logo.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 3931,
+		"inputAbbreviatedPath": "\/img\/banamex_promo\/banamex_logo.png",
+		"outputAbbreviatedPath": "\/img\/banamex_promo\/banamex_logo.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/banamex_promo\/BG.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 49455,
+		"inputAbbreviatedPath": "\/img\/banamex_promo\/BG.jpg",
+		"outputAbbreviatedPath": "\/img\/banamex_promo\/BG.jpg",
+>>>>>>> 1e875a8dc1b4ef586efdfaffbdcb2c81f2308cb8
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+<<<<<<< HEAD
+=======
+	"\/img\/banamex_promo\/boja_header.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 7742,
+		"inputAbbreviatedPath": "\/img\/banamex_promo\/boja_header.png",
+		"outputAbbreviatedPath": "\/img\/banamex_promo\/boja_header.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/banamex_promo\/degradado_banamex.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1120,
+		"inputAbbreviatedPath": "\/img\/banamex_promo\/degradado_banamex.png",
+		"outputAbbreviatedPath": "\/img\/banamex_promo\/degradado_banamex.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/banamex_promo\/flecha_cuadro_gris.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1162,
+		"inputAbbreviatedPath": "\/img\/banamex_promo\/flecha_cuadro_gris.png",
+		"outputAbbreviatedPath": "\/img\/banamex_promo\/flecha_cuadro_gris.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/banamex_promo\/flecha_cuandro_amarillo.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1211,
+		"inputAbbreviatedPath": "\/img\/banamex_promo\/flecha_cuandro_amarillo.png",
+		"outputAbbreviatedPath": "\/img\/banamex_promo\/flecha_cuandro_amarillo.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/banamex_promo\/logos.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 9350,
+		"inputAbbreviatedPath": "\/img\/banamex_promo\/logos.png",
+		"outputAbbreviatedPath": "\/img\/banamex_promo\/logos.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/banamex_promo\/mas.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1070,
+		"inputAbbreviatedPath": "\/img\/banamex_promo\/mas.png",
+		"outputAbbreviatedPath": "\/img\/banamex_promo\/mas.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/banamex_promo\/weyes-3.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 615455,
+		"inputAbbreviatedPath": "\/img\/banamex_promo\/weyes-3.png",
+		"outputAbbreviatedPath": "\/img\/banamex_promo\/weyes-3.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/banamex_promo\/weyes.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.10825e+06,
+		"inputAbbreviatedPath": "\/img\/banamex_promo\/weyes.png",
+		"outputAbbreviatedPath": "\/img\/banamex_promo\/weyes.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/banamex_promo\/weyes_2.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 1.00402e+06,
+		"inputAbbreviatedPath": "\/img\/banamex_promo\/weyes_2.png",
+		"outputAbbreviatedPath": "\/img\/banamex_promo\/weyes_2.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+>>>>>>> 1e875a8dc1b4ef586efdfaffbdcb2c81f2308cb8
 	"\/img\/BG.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -1067,6 +1774,97 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+<<<<<<< HEAD
+=======
+	"\/img\/promocion-agosto\/30-porciento-de-descuento-3-meses-sin-intereses-con-banamex-en-microinjerto-capilar.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 20988,
+		"inputAbbreviatedPath": "\/img\/promocion-agosto\/30-porciento-de-descuento-3-meses-sin-intereses-con-banamex-en-microinjerto-capilar.png",
+		"outputAbbreviatedPath": "\/img\/promocion-agosto\/30-porciento-de-descuento-3-meses-sin-intereses-con-banamex-en-microinjerto-capilar.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/promocion-agosto\/aprovecha-este-verano-para-realizarte-microinjerto-capilar-con-la-tecnica-fue.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8188,
+		"inputAbbreviatedPath": "\/img\/promocion-agosto\/aprovecha-este-verano-para-realizarte-microinjerto-capilar-con-la-tecnica-fue.png",
+		"outputAbbreviatedPath": "\/img\/promocion-agosto\/aprovecha-este-verano-para-realizarte-microinjerto-capilar-con-la-tecnica-fue.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/promocion-agosto\/cambia-de-look-estas-vacaciones.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 15458,
+		"inputAbbreviatedPath": "\/img\/promocion-agosto\/cambia-de-look-estas-vacaciones.png",
+		"outputAbbreviatedPath": "\/img\/promocion-agosto\/cambia-de-look-estas-vacaciones.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/promocion-agosto\/persona-promocion-agosto.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 591591,
+		"inputAbbreviatedPath": "\/img\/promocion-agosto\/persona-promocion-agosto.png",
+		"outputAbbreviatedPath": "\/img\/promocion-agosto\/persona-promocion-agosto.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/promocion-october\/30-porciento-de-descuento-3-y-6-meses-sin-intereses-solo-con-banamex-en-microinjerto-capilar.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 22592,
+		"inputAbbreviatedPath": "\/img\/promocion-october\/30-porciento-de-descuento-3-y-6-meses-sin-intereses-solo-con-banamex-en-microinjerto-capilar.jpg",
+		"outputAbbreviatedPath": "\/img\/promocion-october\/30-porciento-de-descuento-3-y-6-meses-sin-intereses-solo-con-banamex-en-microinjerto-capilar.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/promocion-october\/cambia-de-look-durante-el-otono.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 29081,
+		"inputAbbreviatedPath": "\/img\/promocion-october\/cambia-de-look-durante-el-otono.png",
+		"outputAbbreviatedPath": "\/img\/promocion-october\/cambia-de-look-durante-el-otono.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/promocion-october\/deja-que-las-hojas-sean-lo-unico-que-caiga-en-octubre-aprovecha-esta-temporada-para-realizarte-un-microinjerto-capilar-con-la-tecnica-fue-pelo-por-pelo-en-una-sola-sesion-resultados-naturales-garantizados.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 19882,
+		"inputAbbreviatedPath": "\/img\/promocion-october\/deja-que-las-hojas-sean-lo-unico-que-caiga-en-octubre-aprovecha-esta-temporada-para-realizarte-un-microinjerto-capilar-con-la-tecnica-fue-pelo-por-pelo-en-una-sola-sesion-resultados-naturales-garantizados.png",
+		"outputAbbreviatedPath": "\/img\/promocion-october\/deja-que-las-hojas-sean-lo-unico-que-caiga-en-octubre-aprovecha-esta-temporada-para-realizarte-un-microinjerto-capilar-con-la-tecnica-fue-pelo-por-pelo-en-una-sola-sesion-resultados-naturales-garantizados.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/img\/promocion-october\/del-1-al-31-de-octubre.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 2614,
+		"inputAbbreviatedPath": "\/img\/promocion-october\/del-1-al-31-de-octubre.png",
+		"outputAbbreviatedPath": "\/img\/promocion-october\/del-1-al-31-de-octubre.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+>>>>>>> 1e875a8dc1b4ef586efdfaffbdcb2c81f2308cb8
 	"\/img\/recuadro_grande.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -1172,7 +1970,7 @@
 		"outputAbbreviatedPath": "\/js\/main.min-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 2,
+		"outputStyle": 0,
 		"syntaxCheckerStyle": 1
 		},
 	"\/js\/plugins.min.js": {
@@ -1183,7 +1981,7 @@
 		"outputAbbreviatedPath": "\/js\/plugins.min-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 2,
+		"outputStyle": 0,
 		"syntaxCheckerStyle": 1
 		},
 	"\/js\/vendor\/jquery-1.8.3.min.js": {
@@ -1191,10 +1989,14 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/js\/vendor\/jquery-1.8.3.min.js",
+<<<<<<< HEAD
 		"outputAbbreviatedPath": "\/js\/jquery-1.8.3.min-min.js",
+=======
+		"outputAbbreviatedPath": "\/js\/vendor\/jquery-1.8.3.min-min.js",
+>>>>>>> 1e875a8dc1b4ef586efdfaffbdcb2c81f2308cb8
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 2,
+		"outputStyle": 0,
 		"syntaxCheckerStyle": 1
 		},
 	"\/js\/vendor\/jquery-1.9.0.min.js": {
@@ -1202,10 +2004,14 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/js\/vendor\/jquery-1.9.0.min.js",
+<<<<<<< HEAD
 		"outputAbbreviatedPath": "\/js\/jquery-1.9.0.min-min.js",
+=======
+		"outputAbbreviatedPath": "\/js\/vendor\/jquery-1.9.0.min-min.js",
+>>>>>>> 1e875a8dc1b4ef586efdfaffbdcb2c81f2308cb8
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 2,
+		"outputStyle": 0,
 		"syntaxCheckerStyle": 1
 		},
 	"\/js\/vendor\/modernizr-2.6.2.min.js": {
@@ -1213,10 +2019,14 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/js\/vendor\/modernizr-2.6.2.min.js",
+<<<<<<< HEAD
 		"outputAbbreviatedPath": "\/js\/modernizr-2.6.2.min-min.js",
+=======
+		"outputAbbreviatedPath": "\/js\/vendor\/modernizr-2.6.2.min-min.js",
+>>>>>>> 1e875a8dc1b4ef586efdfaffbdcb2c81f2308cb8
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 2,
+		"outputStyle": 0,
 		"syntaxCheckerStyle": 1
 		},
 	"\/js\/vendor\/prefixfree.min.js": {
@@ -1224,10 +2034,14 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/js\/vendor\/prefixfree.min.js",
+<<<<<<< HEAD
 		"outputAbbreviatedPath": "\/js\/prefixfree.min-min.js",
+=======
+		"outputAbbreviatedPath": "\/js\/vendor\/prefixfree.min-min.js",
+>>>>>>> 1e875a8dc1b4ef586efdfaffbdcb2c81f2308cb8
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 2,
+		"outputStyle": 0,
 		"syntaxCheckerStyle": 1
 		},
 	"\/LICENSE.md": {
@@ -1270,15 +2084,19 @@
 	"alwaysUseExternalServer": 1,
 	"animateCSSInjections": 1,
 	"autoApplyPSLanguageSettingsStyle": 0,
-	"autoprefixerBrowserString": "> 1%, last 2 versions, ff 17, opera 12.1",
+	"autoprefixerBrowserString": "> 1%, last 2 versions, Firefox ESR, Opera 12.1",
 	"autoSyncProjectSettingsFile": 1,
 	"browserRefreshDelay": 0,
 	"coffeeAutoOutputPathEnabled": 1,
 	"coffeeAutoOutputPathFilenamePattern": "*.js",
+<<<<<<< HEAD
 	"coffeeAutoOutputPathRelativePath": "js",
+=======
+	"coffeeAutoOutputPathRelativePath": "",
+>>>>>>> 1e875a8dc1b4ef586efdfaffbdcb2c81f2308cb8
 	"coffeeAutoOutputPathReplace1": "",
 	"coffeeAutoOutputPathReplace2": "",
-	"coffeeAutoOutputPathStyle": 1,
+	"coffeeAutoOutputPathStyle": 0,
 	"coffeeCreateSourceMap": 1,
 	"coffeeLintFlags2": {
 		"arrow_spacing": {
@@ -1298,7 +2116,7 @@
 			"flagValue": 10
 			},
 		"duplicate_key": {
-			"active": 0,
+			"active": 1,
 			"flagValue": -1
 			},
 		"empty_constructor_needs_parens": {
@@ -1389,6 +2207,10 @@
 			"active": 0,
 			"flagValue": -1
 			},
+		"prefer_english_operator": {
+			"active": 0,
+			"flagValue": -1
+			},
 		"space_operators": {
 			"active": 0,
 			"flagValue": -1
@@ -1397,40 +2219,55 @@
 	"coffeeMinifyOutput": 1,
 	"coffeeOutputStyle": 0,
 	"coffeeSyntaxCheckerStyle": 1,
-	"externalServerAddress": "http:\/\/localhost:80\/new_giovanni_bojanini_landing",
+	"externalServerAddress": "http:\/\/localhost:80\/",
 	"externalServerPreviewPathAddition": "",
 	"genericWebpageFileExtensionsString": "html, htm, shtml, shtm, xhtml, php, jsp, asp, aspx, erb, ctp",
 	"hamlAutoOutputPathEnabled": 1,
 	"hamlAutoOutputPathFilenamePattern": "*.html",
+<<<<<<< HEAD
 	"hamlAutoOutputPathRelativePath": "..\/",
+=======
+	"hamlAutoOutputPathRelativePath": "",
+>>>>>>> 1e875a8dc1b4ef586efdfaffbdcb2c81f2308cb8
 	"hamlAutoOutputPathReplace1": "",
 	"hamlAutoOutputPathReplace2": "",
-	"hamlAutoOutputPathStyle": 2,
-	"hamlEscapeHTMLCharacters": 1,
+	"hamlAutoOutputPathStyle": 0,
+	"hamlEscapeHTMLCharacters": 0,
 	"hamlNoEscapeInAttributes": 0,
 	"hamlOutputFormat": 2,
 	"hamlOutputStyle": 0,
 	"hamlUseCDATA": 0,
-	"hamlUseDoubleQuotes": 1,
+	"hamlUseDoubleQuotes": 0,
 	"hamlUseUnixNewlines": 0,
 	"jadeAutoOutputPathEnabled": 1,
 	"jadeAutoOutputPathFilenamePattern": "*.html",
 	"jadeAutoOutputPathRelativePath": "..\/",
 	"jadeAutoOutputPathReplace1": "",
 	"jadeAutoOutputPathReplace2": "",
-	"jadeAutoOutputPathStyle": 1,
+	"jadeAutoOutputPathStyle": 2,
 	"jadeCompileDebug": 1,
+<<<<<<< HEAD
 	"jadeOutputStyle": 1,
 	"javascriptAutoOutputPathEnabled": 1,
 	"javascriptAutoOutputPathFilenamePattern": "*-min.js",
 	"javascriptAutoOutputPathRelativePath": "\/js",
+=======
+	"jadeOutputStyle": 0,
+	"javascriptAutoOutputPathEnabled": 1,
+	"javascriptAutoOutputPathFilenamePattern": "*-min.js",
+	"javascriptAutoOutputPathRelativePath": "\/min",
+>>>>>>> 1e875a8dc1b4ef586efdfaffbdcb2c81f2308cb8
 	"javascriptAutoOutputPathReplace1": "",
 	"javascriptAutoOutputPathReplace2": "",
-	"javascriptAutoOutputPathStyle": 1,
+	"javascriptAutoOutputPathStyle": 0,
 	"javascriptCreateSourceMap": 1,
+<<<<<<< HEAD
 	"javascriptOutputStyle": 2,
+=======
+	"javascriptOutputStyle": 0,
+>>>>>>> 1e875a8dc1b4ef586efdfaffbdcb2c81f2308cb8
 	"javascriptSyntaxCheckerStyle": 1,
-	"jsCheckerReservedNamesString": "jQuery,$,_,GBLanding:write,_GBLanding:write,_selector:write,selector:write,_class:write,_title:write,_markup:write,_options:write,elemLeft:write,_comment:write,_valueChange:write,_durationInSec:write,_scrollYOffset:write,_offsetTop:write,_classToFix:write,_classToDeFix:write,toFix:write,toDeFix:write,_selectorToApply:write,",
+	"jsCheckerReservedNamesString": "jQuery,_jQuery,_",
 	"jsHintFlags2": {
 		"asi": {
 			"active": 0,
@@ -1723,7 +2560,7 @@
 			"flagValue": -1
 			},
 		"devel": {
-			"active": 1,
+			"active": 0,
 			"flagValue": -1
 			},
 		"eqeq": {
@@ -1791,7 +2628,7 @@
 			"flagValue": -1
 			},
 		"unparam": {
-			"active": 1,
+			"active": 0,
 			"flagValue": -1
 			},
 		"vars": {
@@ -1805,10 +2642,14 @@
 		},
 	"kitAutoOutputPathEnabled": 1,
 	"kitAutoOutputPathFilenamePattern": "*.html",
+<<<<<<< HEAD
 	"kitAutoOutputPathRelativePath": "",
+=======
+	"kitAutoOutputPathRelativePath": "..\/",
+>>>>>>> 1e875a8dc1b4ef586efdfaffbdcb2c81f2308cb8
 	"kitAutoOutputPathReplace1": "",
 	"kitAutoOutputPathReplace2": "",
-	"kitAutoOutputPathStyle": 0,
+	"kitAutoOutputPathStyle": 2,
 	"lessAllowInsecureImports": 0,
 	"lessAutoOutputPathEnabled": 1,
 	"lessAutoOutputPathFilenamePattern": "*.css",
@@ -1836,37 +2677,50 @@
 	"reloadFileURLs": 1,
 	"sassAutoOutputPathEnabled": 1,
 	"sassAutoOutputPathFilenamePattern": "*.css",
+<<<<<<< HEAD
 	"sassAutoOutputPathRelativePath": "css",
+=======
+	"sassAutoOutputPathRelativePath": "..\/",
+>>>>>>> 1e875a8dc1b4ef586efdfaffbdcb2c81f2308cb8
 	"sassAutoOutputPathReplace1": "sass",
 	"sassAutoOutputPathReplace2": "css",
-	"sassAutoOutputPathStyle": 1,
+	"sassAutoOutputPathStyle": 2,
 	"sassCreateSourceMap": 1,
 	"sassDebugStyle": 0,
-	"sassDecimalPrecision": 5,
+	"sassDecimalPrecision": 2,
 	"sassOutputStyle": 3,
 	"sassUseLibsass": 0,
 	"shouldRunAutoprefixer": 1,
 	"shouldRunBless": 1,
+<<<<<<< HEAD
 	"skippedItemsString": ".svn, .git, .hg, log, _logs, _cache, cache, logs",
+=======
+	"skippedItemsString": ".svn, .git, .hg, log, _logs, _cache, cache, logs, node_modules",
+>>>>>>> 1e875a8dc1b4ef586efdfaffbdcb2c81f2308cb8
 	"slimAutoOutputPathEnabled": 1,
 	"slimAutoOutputPathFilenamePattern": "*.html",
 	"slimAutoOutputPathRelativePath": "",
 	"slimAutoOutputPathReplace1": "",
 	"slimAutoOutputPathReplace2": "",
 	"slimAutoOutputPathStyle": 0,
-	"slimCompileOnly": 0,
+	"slimCompileOnly": 1,
 	"slimLogicless": 0,
 	"slimOutputStyle": 1,
 	"slimRailsCompatible": 0,
 	"stylusAutoOutputPathEnabled": 1,
 	"stylusAutoOutputPathFilenamePattern": "*.css",
+<<<<<<< HEAD
 	"stylusAutoOutputPathRelativePath": "..\/css",
+=======
+	"stylusAutoOutputPathRelativePath": "..\/",
+>>>>>>> 1e875a8dc1b4ef586efdfaffbdcb2c81f2308cb8
 	"stylusAutoOutputPathReplace1": "stylus",
 	"stylusAutoOutputPathReplace2": "css",
 	"stylusAutoOutputPathStyle": 2,
-	"stylusDebugStyle": 0,
-	"stylusImportCSS": 0,
-	"stylusOutputStyle": 0,
+	"stylusCreateSourceMap": 0,
+	"stylusDebugStyle": 2,
+	"stylusImportCSS": 1,
+	"stylusOutputStyle": 1,
 	"stylusResolveRelativeURLS": 0,
 	"typescriptAutoOutputPathEnabled": 1,
 	"typescriptAutoOutputPathFilenamePattern": "*.js",

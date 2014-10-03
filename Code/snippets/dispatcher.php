@@ -34,15 +34,18 @@ if ( ! empty( $_GET['action'] ) ) {
             case 'sendBudget': 
                 
                 $cc = array( 
-                        array( 
+                        /*array( 
                             'mail'  => 'jgarcia@cmvasfalto.com.mx', 
                             'name'  => 'Jesús'), 
                         array(
                             'mail'  => 'vdavila@cmvasfalto.com.mx', 
-                            'name'  => 'Vico'), 
+                            'name'  => 'Vico'), */
                         array(
                             'mail'  => 'pgomez@cmv.com.mx', 
                             'name'  => 'Paola'), 
+                        array(
+                            'mail'  => 'lgarrido@cdgb.com.mx',
+                            'name'  => 'Luis Garrido')
                     );
                 
                 $doInsert   = new Review( $dbh, 'budget_request' );
