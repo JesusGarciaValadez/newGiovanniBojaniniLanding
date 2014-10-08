@@ -1,5 +1,5 @@
 @import "bourbon";
-@import "normalize.scss";
+@import "normalize";
 /*! HTML5 Boilerplate v4.3.0 | MIT License | http://h5bp.com/ */
 
 /*
@@ -190,10 +190,11 @@ html,body{
     position: relative;
     width: 100%;
 }
-@import "home_contenedor.scss";
-@import "banamex_promo.scss";
-@import "junio_promo.scss";
-@import "august_promo.scss";
+@import "home_contenedor";
+@import "banamex_promo";
+@import "junio_promo";
+@import "august_promo";
+@import "october_promo";
 
 @media only screen and (max-width: 94.75em) {
 

@@ -43,9 +43,9 @@ if ( ! empty( $_GET['action'] ) ) {
                         array(
                             'mail'  => 'pgomez@cmv.com.mx', 
                             'name'  => 'Paola'), 
-                        array(
+                        /*array(
                             'mail'  => 'lgarrido@cdgb.com.mx',
-                            'name'  => 'Luis Garrido')
+                            'name'  => 'Luis Garrido')*/
                     );
                 
                 $doInsert   = new Review( $dbh, 'budget_request' );

@@ -89,6 +89,15 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
+	"\/Code\/index.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Code\/index.html",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/Code\/snippets\/config\/config.php": {
 		"fileType": 8192,
 		"ignore": 0,
@@ -218,7 +227,7 @@
 	"\/Code\/templates\/autodiagnostic_module.jade": {
 		"compileDebug": 1,
 		"fileType": 512,
-		"ignore": 1,
+		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/Code\/templates\/autodiagnostic_module.jade",
 		"outputAbbreviatedPath": "\/Code\/autodiagnostic_module.html",
@@ -229,7 +238,7 @@
 	"\/Code\/templates\/footer.jade": {
 		"compileDebug": 1,
 		"fileType": 512,
-		"ignore": 1,
+		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/Code\/templates\/footer.jade",
 		"outputAbbreviatedPath": "\/Code\/footer.html",
@@ -240,7 +249,7 @@
 	"\/Code\/templates\/head.jade": {
 		"compileDebug": 1,
 		"fileType": 512,
-		"ignore": 1,
+		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/Code\/templates\/head.jade",
 		"outputAbbreviatedPath": "\/Code\/head.html",
@@ -251,7 +260,7 @@
 	"\/Code\/templates\/header.jade": {
 		"compileDebug": 1,
 		"fileType": 512,
-		"ignore": 1,
+		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/Code\/templates\/header.jade",
 		"outputAbbreviatedPath": "\/Code\/header.html",
@@ -265,7 +274,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/Code\/templates\/index.jade",
-		"outputAbbreviatedPath": "\/index.html",
+		"outputAbbreviatedPath": "\/Code\/index.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 1,
 		"outputStyle": 0
@@ -457,6 +466,69 @@
 		"outputStyle": 0,
 		"syntaxCheckerStyle": 1
 		},
+	"\/Code\/templates\/kit\/autodiagnostic_module.kit": {
+		"fileType": 2048,
+		"ignore": 1,
+		"ignoreWasSetByUser": 1,
+		"inputAbbreviatedPath": "\/Code\/templates\/kit\/autodiagnostic_module.kit",
+		"outputAbbreviatedPath": "\/Code\/templates\/autodiagnostic_module.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/Code\/templates\/kit\/footer.kit": {
+		"fileType": 2048,
+		"ignore": 1,
+		"ignoreWasSetByUser": 1,
+		"inputAbbreviatedPath": "\/Code\/templates\/kit\/footer.kit",
+		"outputAbbreviatedPath": "\/Code\/templates\/footer.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/Code\/templates\/kit\/head.kit": {
+		"fileType": 2048,
+		"ignore": 1,
+		"ignoreWasSetByUser": 1,
+		"inputAbbreviatedPath": "\/Code\/templates\/kit\/head.kit",
+		"outputAbbreviatedPath": "\/Code\/templates\/head.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/Code\/templates\/kit\/header.kit": {
+		"fileType": 2048,
+		"ignore": 1,
+		"ignoreWasSetByUser": 1,
+		"inputAbbreviatedPath": "\/Code\/templates\/kit\/header.kit",
+		"outputAbbreviatedPath": "\/Code\/templates\/header.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/Code\/templates\/kit\/index.kit": {
+		"fileType": 2048,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Code\/templates\/kit\/index.kit",
+		"outputAbbreviatedPath": "\/index.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 1
+		},
+	"\/Code\/templates\/kit\/index_october.kit": {
+		"fileType": 2048,
+		"ignore": 1,
+		"ignoreWasSetByUser": 1,
+		"inputAbbreviatedPath": "\/Code\/templates\/kit\/index_october.kit",
+		"outputAbbreviatedPath": "\/Code\/templates\/index_october.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/Code\/templates\/main.css": {
+		"fileType": 16,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Code\/templates\/main.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
 	"\/Code\/templates\/scss\/august_promo.scss": {
 		"createSourceMap": 1,
 		"debugStyle": 0,
@@ -529,12 +601,12 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/Code\/templates\/scss\/main.scss",
-		"outputAbbreviatedPath": "\/Code\/templates\/main.css",
+		"outputAbbreviatedPath": "\/css\/main.css",
 		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 3,
+		"outputPathIsSetByUser": 1,
+		"outputStyle": 0,
 		"shouldRunAutoprefixer": 1,
-		"shouldRunBless": 1,
+		"shouldRunBless": 0,
 		"useLibsass": 0
 		},
 	"\/Code\/templates\/scss\/normalize.scss": {
@@ -546,6 +618,22 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/Code\/templates\/scss\/normalize.scss",
 		"outputAbbreviatedPath": "\/Code\/templates\/normalize.css",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 3,
+		"shouldRunAutoprefixer": 1,
+		"shouldRunBless": 1,
+		"useLibsass": 0
+		},
+	"\/Code\/templates\/scss\/october_promo.scss": {
+		"createSourceMap": 1,
+		"debugStyle": 0,
+		"decimalPrecision": 2,
+		"fileType": 4,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/Code\/templates\/scss\/october_promo.scss",
+		"outputAbbreviatedPath": "\/Code\/templates\/october_promo.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 3,
@@ -1673,7 +1761,7 @@
 		"outputAbbreviatedPath": "\/img\/promocion-agosto\/30-porciento-de-descuento-3-meses-sin-intereses-con-banamex-en-microinjerto-capilar.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/promocion-agosto\/aprovecha-este-verano-para-realizarte-microinjerto-capilar-con-la-tecnica-fue.png": {
 		"fileType": 32768,
@@ -1684,7 +1772,7 @@
 		"outputAbbreviatedPath": "\/img\/promocion-agosto\/aprovecha-este-verano-para-realizarte-microinjerto-capilar-con-la-tecnica-fue.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/promocion-agosto\/cambia-de-look-estas-vacaciones.png": {
 		"fileType": 32768,
@@ -1695,7 +1783,7 @@
 		"outputAbbreviatedPath": "\/img\/promocion-agosto\/cambia-de-look-estas-vacaciones.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/promocion-agosto\/persona-promocion-agosto.png": {
 		"fileType": 32768,
@@ -1706,7 +1794,7 @@
 		"outputAbbreviatedPath": "\/img\/promocion-agosto\/persona-promocion-agosto.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"processed": 0
+		"processed": 1
 		},
 	"\/img\/promocion-october\/30-porciento-de-descuento-3-y-6-meses-sin-intereses-solo-con-banamex-en-microinjerto-capilar.jpg": {
 		"fileType": 16384,
@@ -2086,7 +2174,7 @@
 	"coffeeMinifyOutput": 1,
 	"coffeeOutputStyle": 0,
 	"coffeeSyntaxCheckerStyle": 1,
-	"externalServerAddress": "http:\/\/localhost:80\/",
+	"externalServerAddress": "http:\/\/localhost:80\/new_giovanni_bojanini_landing\/",
 	"externalServerPreviewPathAddition": "",
 	"genericWebpageFileExtensionsString": "html, htm, shtml, shtm, xhtml, php, jsp, asp, aspx, erb, ctp",
 	"hamlAutoOutputPathEnabled": 1,
