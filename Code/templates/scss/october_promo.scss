@@ -1,0 +1,31 @@
+#home.contenedor{
+
+    .friends{
+        bottom: 0;
+        height: 934px;
+        right: -10%;
+        width: 427px;
+        img{}
+    }
+    @media only screen and (min-width: 94.75em) {
+
+        .friends{
+            bottom: 0;
+            right: 5%;
+            img{}
+        }
+    }
+    #october_2014_promotion_of_the_month{
+
+        .wrapper_information{
+            float: left !important;
+            margin: 0 0 0 20px;
+            width: 601px;
+            img{
+                clear: both;
+                display:block;
+                margin: 15px auto;
+            }
+        }
+    }
+}
