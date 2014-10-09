@@ -41,11 +41,11 @@ if ( ! empty( $_GET['action'] ) ) {
                             'mail'  => 'vdavila@cmvasfalto.com.mx', 
                             'name'  => 'Vico'), */
                         array(
-                            'mail'  => 'pgomez@cmv.com.mx', 
-                            'name'  => 'Paola'), 
-                        /*array(
-                            'mail'  => 'lgarrido@cdgb.com.mx',
-                            'name'  => 'Luis Garrido')*/
+                            'mail'  => 'dharjani@cmv.com.mx', 
+                            'name'  => 'Devki Harjani'), 
+                        array(
+                            'mail'  => 'dbermudez@cdgb.com.mx',
+                            'name'  => 'DBermudez')
                     );
                 
                 $doInsert   = new Review( $dbh, 'budget_request' );

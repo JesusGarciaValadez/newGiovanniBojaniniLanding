@@ -123,22 +123,6 @@
 	},
 	"buffers":
 	[
-		{
-			"file": "Code/templates/kit/index_october.kit",
-			"settings":
-			{
-				"buffer_size": 1635,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "Code/templates/kit/index.kit",
-			"settings":
-			{
-				"buffer_size": 346,
-				"line_ending": "Unix"
-			}
-		}
 	],
 	"build_system": "",
 	"command_palette":
@@ -192,14 +176,20 @@
 	},
 	"file_history":
 	[
-		"/Applications/MAMP/htdocs/new_giovanni_bojanini_landing/Code/templates/index_october.jade",
+		"/Applications/MAMP/htdocs/new_giovanni_bojanini_landing/Code/snippets/dispatcher.php",
+		"/Applications/MAMP/htdocs/new_giovanni_bojanini_landing/Code/templates/kit/index_october.kit",
 		"/Applications/MAMP/htdocs/new_giovanni_bojanini_landing/Code/templates/kit/autodiagnostic_module.kit",
-		"/Applications/MAMP/htdocs/new_giovanni_bojanini_landing/Code/templates/index.jade",
-		"/Applications/MAMP/htdocs/new_giovanni_bojanini_landing/Code/templates/kit/header.kit",
+		"/Applications/MAMP/htdocs/new_giovanni_bojanini_landing/index.html",
+		"/Applications/MAMP/htdocs/new_giovanni_bojanini_landing/Code/templates/scss/october_promo.scss",
+		"/Applications/MAMP/htdocs/new_giovanni_bojanini_landing/Code/templates/scss/home_contenedor.scss",
 		"/Applications/MAMP/htdocs/new_giovanni_bojanini_landing/Code/templates/kit/index.kit",
 		"/Applications/MAMP/htdocs/new_giovanni_bojanini_landing/Code/templates/kit/head.kit",
+		"/Applications/MAMP/htdocs/new_giovanni_bojanini_landing/css/main.css",
+		"/Applications/MAMP/htdocs/new_giovanni_bojanini_landing/Code/templates/kit/header.kit",
+		"/Applications/MAMP/htdocs/new_giovanni_bojanini_landing/Code/templates/scss/main.scss",
 		"/Applications/MAMP/htdocs/new_giovanni_bojanini_landing/Code/templates/kit/footer.kit",
-		"/Applications/MAMP/htdocs/new_giovanni_bojanini_landing/index.html",
+		"/Applications/MAMP/htdocs/new_giovanni_bojanini_landing/Code/templates/index_october.jade",
+		"/Applications/MAMP/htdocs/new_giovanni_bojanini_landing/Code/templates/index.jade",
 		"/Applications/MAMP/htdocs/new_giovanni_bojanini_landing/config.codekit",
 		"/Users/jgarcia/Library/Application Support/Sublime Text 2/Packages/Package Control/Package Control.sublime-settings",
 		"/Applications/MAMP/htdocs/giovanni_bojanini_new/Code/templates/sass/banners/change-your-look-octuber-2014.sass",
@@ -313,13 +303,7 @@
 		"/Applications/MAMP/htdocs/boletin_axa/Code/templates/kit/template-historic-blue-themed.kit",
 		"/Applications/MAMP/htdocs/boletin_axa/Code/chunks/template-parent-blue-themed.html",
 		"/Applications/MAMP/htdocs/boletin_axa/Code/templates/kit/dt_displayable_bulletin_blue_themed.kit",
-		"/Applications/MAMP/htdocs/boletin_axa/Code/templates/kit/dt_root_bulletin_parent_blue_themed.kit",
-		"/Applications/MAMP/htdocs/boletin_axa/Code/chunks/dt_displayable_bulletin.html",
-		"/Applications/MAMP/htdocs/boletin_axa/Code/templates/kit/dt_displayable_bulletin.kit",
-		"/Applications/MAMP/htdocs/boletin_axa/Code/templates/kit/dt_downloadable_bulletin_blue_themed.kit",
-		"/Applications/MAMP/htdocs/boletin_axa/Code/templates/kit/form-of-september-2014-bulletin.kit",
-		"/Applications/MAMP/htdocs/boletin_axa/Code/templates/kit/dt_nav_menu_blue_themed.kit",
-		"/Applications/MAMP/htdocs/minvielle_photography/Code/templates/javascript/main.js"
+		"/Applications/MAMP/htdocs/boletin_axa/Code/templates/kit/dt_root_bulletin_parent_blue_themed.kit"
 	],
 	"find":
 	{
@@ -414,60 +398,6 @@
 		{
 			"sheets":
 			[
-				{
-					"buffer": 0,
-					"file": "Code/templates/kit/index_october.kit",
-					"settings":
-					{
-						"buffer_size": 1635,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1565,
-								1545
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "Code/templates/kit/index.kit",
-					"settings":
-					{
-						"buffer_size": 346,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.tmLanguage"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"type": "text"
-				}
 			]
 		}
 	],
@@ -525,6 +455,10 @@
 		"selected_items":
 		[
 			[
+				"bole",
+				"/Applications/MAMP/htdocs/boletin_axa/boletinaxa.sublime-project"
+			],
+			[
 				"axa",
 				"/Applications/MAMP/htdocs/boletin_axa/landings/boletinaxalandings.sublime-project"
 			]
@@ -535,6 +469,6 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 166.0,
+	"side_bar_width": 290.0,
 	"status_bar_visible": true
 }
