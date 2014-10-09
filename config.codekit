@@ -1,10 +1,6 @@
 {
 "CodeKitInfo": "This is a CodeKit 2.x project configuration file. It is designed to sync project settings across multiple machines. MODIFYING THE CONTENTS OF THIS FILE IS A POOR LIFE DECISION. If you do so, you will likely cause CodeKit to crash. This file is not useful unless accompanied by the project that created it in CodeKit 2. This file is not backwards-compatible with CodeKit 1.x. For more information, see: http:\/\/incident57.com\/codekit",
-<<<<<<< HEAD
-"creatorBuild": "17682",
-=======
 "creatorBuild": "17945",
->>>>>>> 1e875a8dc1b4ef586efdfaffbdcb2c81f2308cb8
 "files": {
 	"\/404.html": {
 		"fileType": 8192,
@@ -219,48 +215,28 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-<<<<<<< HEAD
-	"\/Code\/templates\/footer.jade": {
-=======
 	"\/Code\/templates\/autodiagnostic_module.jade": {
->>>>>>> 1e875a8dc1b4ef586efdfaffbdcb2c81f2308cb8
 		"compileDebug": 1,
 		"fileType": 512,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-<<<<<<< HEAD
-		"inputAbbreviatedPath": "\/Code\/templates\/footer.jade",
-		"outputAbbreviatedPath": "\/footer.html",
-=======
 		"inputAbbreviatedPath": "\/Code\/templates\/autodiagnostic_module.jade",
 		"outputAbbreviatedPath": "\/Code\/autodiagnostic_module.html",
->>>>>>> 1e875a8dc1b4ef586efdfaffbdcb2c81f2308cb8
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0
+		"outputStyle": 1
 		},
-<<<<<<< HEAD
-	"\/Code\/templates\/head.jade": {
-=======
 	"\/Code\/templates\/footer.jade": {
->>>>>>> 1e875a8dc1b4ef586efdfaffbdcb2c81f2308cb8
 		"compileDebug": 1,
 		"fileType": 512,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-<<<<<<< HEAD
-		"inputAbbreviatedPath": "\/Code\/templates\/head.jade",
-		"outputAbbreviatedPath": "\/head.html",
-=======
 		"inputAbbreviatedPath": "\/Code\/templates\/footer.jade",
 		"outputAbbreviatedPath": "\/Code\/footer.html",
->>>>>>> 1e875a8dc1b4ef586efdfaffbdcb2c81f2308cb8
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0
+		"outputStyle": 1
 		},
-<<<<<<< HEAD
-=======
 	"\/Code\/templates\/head.jade": {
 		"compileDebug": 1,
 		"fileType": 512,
@@ -270,7 +246,7 @@
 		"outputAbbreviatedPath": "\/Code\/head.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0
+		"outputStyle": 1
 		},
 	"\/Code\/templates\/header.jade": {
 		"compileDebug": 1,
@@ -281,91 +257,83 @@
 		"outputAbbreviatedPath": "\/Code\/header.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0
+		"outputStyle": 1
 		},
->>>>>>> 1e875a8dc1b4ef586efdfaffbdcb2c81f2308cb8
 	"\/Code\/templates\/index.jade": {
 		"compileDebug": 1,
 		"fileType": 512,
 		"ignore": 0,
-		"ignoreWasSetByUser": 0,
+		"ignoreWasSetByUser": 1,
 		"inputAbbreviatedPath": "\/Code\/templates\/index.jade",
 		"outputAbbreviatedPath": "\/index.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 1,
-		"outputStyle": 0
+		"outputStyle": 1
 		},
 	"\/Code\/templates\/index_agosto.jade": {
 		"compileDebug": 1,
 		"fileType": 512,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
+		"ignore": 1,
+		"ignoreWasSetByUser": 1,
 		"inputAbbreviatedPath": "\/Code\/templates\/index_agosto.jade",
 		"outputAbbreviatedPath": "\/Code\/index_agosto.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0
+		"outputStyle": 1
 		},
 	"\/Code\/templates\/index_banamex.jade": {
 		"compileDebug": 1,
 		"fileType": 512,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
+		"ignore": 1,
+		"ignoreWasSetByUser": 1,
 		"inputAbbreviatedPath": "\/Code\/templates\/index_banamex.jade",
 		"outputAbbreviatedPath": "\/Code\/index_banamex.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0
+		"outputStyle": 1
 		},
-<<<<<<< HEAD
-=======
 	"\/Code\/templates\/index_junio.jade": {
 		"compileDebug": 1,
 		"fileType": 512,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
+		"ignore": 1,
+		"ignoreWasSetByUser": 1,
 		"inputAbbreviatedPath": "\/Code\/templates\/index_junio.jade",
 		"outputAbbreviatedPath": "\/Code\/index_junio.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0
+		"outputStyle": 1
 		},
 	"\/Code\/templates\/index_normal.jade": {
 		"compileDebug": 1,
 		"fileType": 512,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
+		"ignore": 1,
+		"ignoreWasSetByUser": 1,
 		"inputAbbreviatedPath": "\/Code\/templates\/index_normal.jade",
 		"outputAbbreviatedPath": "\/Code\/index_normal.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0
+		"outputStyle": 1
 		},
 	"\/Code\/templates\/index_october.jade": {
 		"compileDebug": 1,
 		"fileType": 512,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
+		"ignore": 1,
+		"ignoreWasSetByUser": 1,
 		"inputAbbreviatedPath": "\/Code\/templates\/index_october.jade",
 		"outputAbbreviatedPath": "\/Code\/index_october.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0
+		"outputStyle": 1
 		},
->>>>>>> 1e875a8dc1b4ef586efdfaffbdcb2c81f2308cb8
 	"\/Code\/templates\/js\/GBLanding.js": {
 		"fileType": 64,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/Code\/templates\/js\/GBLanding.js",
-<<<<<<< HEAD
-		"outputAbbreviatedPath": "\/js\/GBLanding-min.js",
-=======
-		"outputAbbreviatedPath": "\/Code\/templates\/js\/GBLanding-min.js",
->>>>>>> 1e875a8dc1b4ef586efdfaffbdcb2c81f2308cb8
+		"outputAbbreviatedPath": "\/Code\/templates\/GBLanding-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"syntaxCheckerStyle": 1
 		},
 	"\/Code\/templates\/js\/main.js": {
@@ -373,14 +341,10 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/Code\/templates\/js\/main.js",
-<<<<<<< HEAD
-		"outputAbbreviatedPath": "\/js\/main-min.js",
-=======
-		"outputAbbreviatedPath": "\/Code\/templates\/js\/main-min.js",
->>>>>>> 1e875a8dc1b4ef586efdfaffbdcb2c81f2308cb8
+		"outputAbbreviatedPath": "\/Code\/templates\/main-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"syntaxCheckerStyle": 1
 		},
 	"\/Code\/templates\/js\/plugins.js": {
@@ -388,14 +352,10 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/Code\/templates\/js\/plugins.js",
-<<<<<<< HEAD
-		"outputAbbreviatedPath": "\/js\/plugins-min.js",
-=======
-		"outputAbbreviatedPath": "\/Code\/templates\/js\/plugins-min.js",
->>>>>>> 1e875a8dc1b4ef586efdfaffbdcb2c81f2308cb8
+		"outputAbbreviatedPath": "\/Code\/templates\/plugins-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"syntaxCheckerStyle": 1
 		},
 	"\/Code\/templates\/js\/vendor\/additional-methods.js": {
@@ -403,14 +363,10 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/Code\/templates\/js\/vendor\/additional-methods.js",
-<<<<<<< HEAD
-		"outputAbbreviatedPath": "\/js\/additional-methods-min.js",
-=======
-		"outputAbbreviatedPath": "\/Code\/templates\/js\/vendor\/additional-methods-min.js",
->>>>>>> 1e875a8dc1b4ef586efdfaffbdcb2c81f2308cb8
+		"outputAbbreviatedPath": "\/Code\/templates\/js\/additional-methods-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"syntaxCheckerStyle": 1
 		},
 	"\/Code\/templates\/js\/vendor\/jquery.form.js": {
@@ -418,29 +374,21 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/Code\/templates\/js\/vendor\/jquery.form.js",
-<<<<<<< HEAD
-		"outputAbbreviatedPath": "\/js\/jquery.form-min.js",
-=======
-		"outputAbbreviatedPath": "\/Code\/templates\/js\/vendor\/jquery.form-min.js",
->>>>>>> 1e875a8dc1b4ef586efdfaffbdcb2c81f2308cb8
+		"outputAbbreviatedPath": "\/Code\/templates\/js\/jquery.form-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"syntaxCheckerStyle": 1
 		},
 	"\/Code\/templates\/js\/vendor\/jquery.scrollTo-1.4.3.1-min.js": {
 		"fileType": 64,
-		"ignore": 1,
+		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/Code\/templates\/js\/vendor\/jquery.scrollTo-1.4.3.1-min.js",
-<<<<<<< HEAD
-		"outputAbbreviatedPath": "\/js\/jquery.scrollTo-1.4.3.1-min-min.js",
-=======
-		"outputAbbreviatedPath": "\/Code\/templates\/js\/vendor\/jquery.scrollTo-1.4.3.1-min-min.js",
->>>>>>> 1e875a8dc1b4ef586efdfaffbdcb2c81f2308cb8
+		"outputAbbreviatedPath": "\/Code\/templates\/js\/jquery.scrollTo-1.4.3.1-min-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"syntaxCheckerStyle": 1
 		},
 	"\/Code\/templates\/js\/vendor\/jquery.scrollTo-1.4.3.1.js": {
@@ -448,14 +396,10 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/Code\/templates\/js\/vendor\/jquery.scrollTo-1.4.3.1.js",
-<<<<<<< HEAD
-		"outputAbbreviatedPath": "\/js\/jquery.scrollTo-1.4.3.1-min.js",
-=======
-		"outputAbbreviatedPath": "\/Code\/templates\/js\/vendor\/jquery.scrollTo-1.4.3.1-min.js",
->>>>>>> 1e875a8dc1b4ef586efdfaffbdcb2c81f2308cb8
+		"outputAbbreviatedPath": "\/Code\/templates\/js\/jquery.scrollTo-1.4.3.1-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"syntaxCheckerStyle": 1
 		},
 	"\/Code\/templates\/js\/vendor\/jquery.tools.custom.min.js": {
@@ -463,14 +407,10 @@
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/Code\/templates\/js\/vendor\/jquery.tools.custom.min.js",
-<<<<<<< HEAD
-		"outputAbbreviatedPath": "\/js\/jquery.tools.custom.min-min.js",
-=======
-		"outputAbbreviatedPath": "\/Code\/templates\/js\/vendor\/jquery.tools.custom.min-min.js",
->>>>>>> 1e875a8dc1b4ef586efdfaffbdcb2c81f2308cb8
+		"outputAbbreviatedPath": "\/Code\/templates\/js\/jquery.tools.custom.min-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"syntaxCheckerStyle": 1
 		},
 	"\/Code\/templates\/js\/vendor\/jquery.tools.min.js": {
@@ -478,14 +418,10 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/Code\/templates\/js\/vendor\/jquery.tools.min.js",
-<<<<<<< HEAD
-		"outputAbbreviatedPath": "\/js\/jquery.tools.min-min.js",
-=======
-		"outputAbbreviatedPath": "\/Code\/templates\/js\/vendor\/jquery.tools.min-min.js",
->>>>>>> 1e875a8dc1b4ef586efdfaffbdcb2c81f2308cb8
+		"outputAbbreviatedPath": "\/Code\/templates\/js\/jquery.tools.min-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"syntaxCheckerStyle": 1
 		},
 	"\/Code\/templates\/js\/vendor\/jquery.uniform.js": {
@@ -493,14 +429,10 @@
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/Code\/templates\/js\/vendor\/jquery.uniform.js",
-<<<<<<< HEAD
-		"outputAbbreviatedPath": "\/js\/jquery.uniform-min.js",
-=======
-		"outputAbbreviatedPath": "\/Code\/templates\/js\/vendor\/jquery.uniform-min.js",
->>>>>>> 1e875a8dc1b4ef586efdfaffbdcb2c81f2308cb8
+		"outputAbbreviatedPath": "\/Code\/templates\/js\/jquery.uniform-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"syntaxCheckerStyle": 1
 		},
 	"\/Code\/templates\/js\/vendor\/jquery.validate.js": {
@@ -508,14 +440,10 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/Code\/templates\/js\/vendor\/jquery.validate.js",
-<<<<<<< HEAD
-		"outputAbbreviatedPath": "\/js\/jquery.validate-min.js",
-=======
-		"outputAbbreviatedPath": "\/Code\/templates\/js\/vendor\/jquery.validate-min.js",
->>>>>>> 1e875a8dc1b4ef586efdfaffbdcb2c81f2308cb8
+		"outputAbbreviatedPath": "\/Code\/templates\/js\/jquery.validate-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"syntaxCheckerStyle": 1
 		},
 	"\/Code\/templates\/js\/vendor\/jquery.validate.min.js": {
@@ -523,23 +451,16 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/Code\/templates\/js\/vendor\/jquery.validate.min.js",
-<<<<<<< HEAD
-		"outputAbbreviatedPath": "\/js\/jquery.validate.min-min.js",
-=======
-		"outputAbbreviatedPath": "\/Code\/templates\/js\/vendor\/jquery.validate.min-min.js",
->>>>>>> 1e875a8dc1b4ef586efdfaffbdcb2c81f2308cb8
+		"outputAbbreviatedPath": "\/Code\/templates\/js\/jquery.validate.min-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"syntaxCheckerStyle": 1
 		},
-<<<<<<< HEAD
-	"\/Code\/templates\/scss\/main.scss": {
-=======
 	"\/Code\/templates\/scss\/august_promo.scss": {
 		"createSourceMap": 1,
 		"debugStyle": 0,
-		"decimalPrecision": 2,
+		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
@@ -555,7 +476,7 @@
 	"\/Code\/templates\/scss\/banamex_promo.scss": {
 		"createSourceMap": 1,
 		"debugStyle": 0,
-		"decimalPrecision": 2,
+		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
@@ -571,7 +492,7 @@
 	"\/Code\/templates\/scss\/home_contenedor.scss": {
 		"createSourceMap": 1,
 		"debugStyle": 0,
-		"decimalPrecision": 2,
+		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
@@ -585,10 +506,9 @@
 		"useLibsass": 0
 		},
 	"\/Code\/templates\/scss\/junio_promo.scss": {
->>>>>>> 1e875a8dc1b4ef586efdfaffbdcb2c81f2308cb8
 		"createSourceMap": 1,
 		"debugStyle": 0,
-		"decimalPrecision": 2,
+		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
@@ -604,14 +524,11 @@
 	"\/Code\/templates\/scss\/main.scss": {
 		"createSourceMap": 1,
 		"debugStyle": 0,
-		"decimalPrecision": 2,
+		"decimalPrecision": 5,
 		"fileType": 4,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/Code\/templates\/scss\/main.scss",
-<<<<<<< HEAD
-		"outputAbbreviatedPath": "\/css\/main.css",
-=======
 		"outputAbbreviatedPath": "\/Code\/templates\/main.css",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
@@ -623,13 +540,12 @@
 	"\/Code\/templates\/scss\/normalize.scss": {
 		"createSourceMap": 1,
 		"debugStyle": 0,
-		"decimalPrecision": 2,
+		"decimalPrecision": 5,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/Code\/templates\/scss\/normalize.scss",
 		"outputAbbreviatedPath": "\/Code\/templates\/normalize.css",
->>>>>>> 1e875a8dc1b4ef586efdfaffbdcb2c81f2308cb8
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 3,
@@ -637,24 +553,15 @@
 		"shouldRunBless": 1,
 		"useLibsass": 0
 		},
-<<<<<<< HEAD
-	"\/Code\/templates\/scss\/normalize.scss": {
-=======
 	"\/Code\/templates\/scss\/variables.scss": {
->>>>>>> 1e875a8dc1b4ef586efdfaffbdcb2c81f2308cb8
 		"createSourceMap": 1,
 		"debugStyle": 0,
-		"decimalPrecision": 2,
+		"decimalPrecision": 10,
 		"fileType": 4,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-<<<<<<< HEAD
-		"inputAbbreviatedPath": "\/Code\/templates\/scss\/normalize.scss",
-		"outputAbbreviatedPath": "\/css\/normalize.css",
-=======
 		"inputAbbreviatedPath": "\/Code\/templates\/scss\/variables.scss",
 		"outputAbbreviatedPath": "\/Code\/templates\/variables.css",
->>>>>>> 1e875a8dc1b4ef586efdfaffbdcb2c81f2308cb8
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 3,
@@ -671,16 +578,6 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/CONTRIBUTING.md",
 		"outputAbbreviatedPath": "\/CONTRIBUTING.html",
-<<<<<<< HEAD
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
-	"\/convertFont.php": {
-		"fileType": 8192,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/convertFont.php",
-=======
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
@@ -707,10 +604,10 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/css\/fonts\/fire-sans\/specimen_files\/easytabs.js",
-		"outputAbbreviatedPath": "\/css\/fonts\/fire-sans\/specimen_files\/easytabs-min.js",
+		"outputAbbreviatedPath": "\/css\/fonts\/fire-sans\/easytabs-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"syntaxCheckerStyle": 1
 		},
 	"\/css\/fonts\/fire-sans\/specimen_files\/firasansot-light-cleartype.png": {
@@ -774,10 +671,10 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/css\/fonts\/nobile\/specimen_files\/easytabs.js",
-		"outputAbbreviatedPath": "\/css\/fonts\/nobile\/specimen_files\/easytabs-min.js",
+		"outputAbbreviatedPath": "\/css\/fonts\/nobile\/easytabs-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"syntaxCheckerStyle": 1
 		},
 	"\/css\/fonts\/nobile\/specimen_files\/grid_12-825-55-15.css": {
@@ -843,10 +740,10 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/css\/fonts\/open-sans-condensed-bold\/specimen_files\/easytabs.js",
-		"outputAbbreviatedPath": "\/css\/fonts\/open-sans-condensed-bold\/specimen_files\/easytabs-min.js",
+		"outputAbbreviatedPath": "\/css\/fonts\/open-sans-condensed-bold\/easytabs-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"syntaxCheckerStyle": 1
 		},
 	"\/css\/fonts\/open-sans-condensed-bold\/specimen_files\/grid_12-825-55-15.css": {
@@ -901,10 +798,10 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/css\/fonts\/open-sans-condensed-light-italic\/specimen_files\/easytabs.js",
-		"outputAbbreviatedPath": "\/css\/fonts\/open-sans-condensed-light-italic\/specimen_files\/easytabs-min.js",
+		"outputAbbreviatedPath": "\/css\/fonts\/open-sans-condensed-light-italic\/easytabs-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"syntaxCheckerStyle": 1
 		},
 	"\/css\/fonts\/open-sans-condensed-light-italic\/specimen_files\/grid_12-825-55-15.css": {
@@ -959,10 +856,10 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/css\/fonts\/open-sans-condensed-light\/specimen_files\/easytabs.js",
-		"outputAbbreviatedPath": "\/css\/fonts\/open-sans-condensed-light\/specimen_files\/easytabs-min.js",
+		"outputAbbreviatedPath": "\/css\/fonts\/open-sans-condensed-light\/easytabs-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"syntaxCheckerStyle": 1
 		},
 	"\/css\/fonts\/open-sans-condensed-light\/specimen_files\/grid_12-825-55-15.css": {
@@ -1008,7 +905,6 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/css\/fonts\/open-sans-condensed\/How_to_use_webfonts.html",
->>>>>>> 1e875a8dc1b4ef586efdfaffbdcb2c81f2308cb8
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -1082,8 +978,6 @@
 		"initialSize": 921,
 		"inputAbbreviatedPath": "\/img\/background_lightbox.png",
 		"outputAbbreviatedPath": "\/img\/background_lightbox.png",
-<<<<<<< HEAD
-=======
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -1106,13 +1000,10 @@
 		"initialSize": 49455,
 		"inputAbbreviatedPath": "\/img\/banamex_promo\/BG.jpg",
 		"outputAbbreviatedPath": "\/img\/banamex_promo\/BG.jpg",
->>>>>>> 1e875a8dc1b4ef586efdfaffbdcb2c81f2308cb8
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-<<<<<<< HEAD
-=======
 	"\/img\/banamex_promo\/boja_header.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -1212,7 +1103,6 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
->>>>>>> 1e875a8dc1b4ef586efdfaffbdcb2c81f2308cb8
 	"\/img\/BG.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -1774,8 +1664,6 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-<<<<<<< HEAD
-=======
 	"\/img\/promocion-agosto\/30-porciento-de-descuento-3-meses-sin-intereses-con-banamex-en-microinjerto-capilar.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -1864,7 +1752,6 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
->>>>>>> 1e875a8dc1b4ef586efdfaffbdcb2c81f2308cb8
 	"\/img\/recuadro_grande.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -1953,24 +1840,15 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/index.html": {
-		"fileType": 8192,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/index.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
-		},
 	"\/js\/main.min.js": {
 		"fileType": 64,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/js\/main.min.js",
-		"outputAbbreviatedPath": "\/js\/main.min-min.js",
+		"outputAbbreviatedPath": "\/main.min-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"syntaxCheckerStyle": 1
 		},
 	"\/js\/plugins.min.js": {
@@ -1978,10 +1856,10 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/js\/plugins.min.js",
-		"outputAbbreviatedPath": "\/js\/plugins.min-min.js",
+		"outputAbbreviatedPath": "\/plugins.min-min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"syntaxCheckerStyle": 1
 		},
 	"\/js\/vendor\/jquery-1.8.3.min.js": {
@@ -1989,14 +1867,10 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/js\/vendor\/jquery-1.8.3.min.js",
-<<<<<<< HEAD
 		"outputAbbreviatedPath": "\/js\/jquery-1.8.3.min-min.js",
-=======
-		"outputAbbreviatedPath": "\/js\/vendor\/jquery-1.8.3.min-min.js",
->>>>>>> 1e875a8dc1b4ef586efdfaffbdcb2c81f2308cb8
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"syntaxCheckerStyle": 1
 		},
 	"\/js\/vendor\/jquery-1.9.0.min.js": {
@@ -2004,14 +1878,10 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/js\/vendor\/jquery-1.9.0.min.js",
-<<<<<<< HEAD
 		"outputAbbreviatedPath": "\/js\/jquery-1.9.0.min-min.js",
-=======
-		"outputAbbreviatedPath": "\/js\/vendor\/jquery-1.9.0.min-min.js",
->>>>>>> 1e875a8dc1b4ef586efdfaffbdcb2c81f2308cb8
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"syntaxCheckerStyle": 1
 		},
 	"\/js\/vendor\/modernizr-2.6.2.min.js": {
@@ -2019,14 +1889,10 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/js\/vendor\/modernizr-2.6.2.min.js",
-<<<<<<< HEAD
 		"outputAbbreviatedPath": "\/js\/modernizr-2.6.2.min-min.js",
-=======
-		"outputAbbreviatedPath": "\/js\/vendor\/modernizr-2.6.2.min-min.js",
->>>>>>> 1e875a8dc1b4ef586efdfaffbdcb2c81f2308cb8
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"syntaxCheckerStyle": 1
 		},
 	"\/js\/vendor\/prefixfree.min.js": {
@@ -2034,14 +1900,10 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/js\/vendor\/prefixfree.min.js",
-<<<<<<< HEAD
 		"outputAbbreviatedPath": "\/js\/prefixfree.min-min.js",
-=======
-		"outputAbbreviatedPath": "\/js\/vendor\/prefixfree.min-min.js",
->>>>>>> 1e875a8dc1b4ef586efdfaffbdcb2c81f2308cb8
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
-		"outputStyle": 0,
+		"outputStyle": 2,
 		"syntaxCheckerStyle": 1
 		},
 	"\/LICENSE.md": {
@@ -2081,7 +1943,7 @@
 	"iconImageName": "meme-facepalm"
 	},
 "projectSettings": {
-	"alwaysUseExternalServer": 1,
+	"alwaysUseExternalServer": 0,
 	"animateCSSInjections": 1,
 	"autoApplyPSLanguageSettingsStyle": 0,
 	"autoprefixerBrowserString": "> 1%, last 2 versions, Firefox ESR, Opera 12.1",
@@ -2089,14 +1951,10 @@
 	"browserRefreshDelay": 0,
 	"coffeeAutoOutputPathEnabled": 1,
 	"coffeeAutoOutputPathFilenamePattern": "*.js",
-<<<<<<< HEAD
-	"coffeeAutoOutputPathRelativePath": "js",
-=======
-	"coffeeAutoOutputPathRelativePath": "",
->>>>>>> 1e875a8dc1b4ef586efdfaffbdcb2c81f2308cb8
+	"coffeeAutoOutputPathRelativePath": "..\/",
 	"coffeeAutoOutputPathReplace1": "",
 	"coffeeAutoOutputPathReplace2": "",
-	"coffeeAutoOutputPathStyle": 0,
+	"coffeeAutoOutputPathStyle": 2,
 	"coffeeCreateSourceMap": 1,
 	"coffeeLintFlags2": {
 		"arrow_spacing": {
@@ -2219,16 +2077,12 @@
 	"coffeeMinifyOutput": 1,
 	"coffeeOutputStyle": 0,
 	"coffeeSyntaxCheckerStyle": 1,
-	"externalServerAddress": "http:\/\/localhost:80\/",
+	"externalServerAddress": "http:\/\/localhost:80",
 	"externalServerPreviewPathAddition": "",
 	"genericWebpageFileExtensionsString": "html, htm, shtml, shtm, xhtml, php, jsp, asp, aspx, erb, ctp",
 	"hamlAutoOutputPathEnabled": 1,
 	"hamlAutoOutputPathFilenamePattern": "*.html",
-<<<<<<< HEAD
-	"hamlAutoOutputPathRelativePath": "..\/",
-=======
 	"hamlAutoOutputPathRelativePath": "",
->>>>>>> 1e875a8dc1b4ef586efdfaffbdcb2c81f2308cb8
 	"hamlAutoOutputPathReplace1": "",
 	"hamlAutoOutputPathReplace2": "",
 	"hamlAutoOutputPathStyle": 0,
@@ -2246,28 +2100,17 @@
 	"jadeAutoOutputPathReplace2": "",
 	"jadeAutoOutputPathStyle": 2,
 	"jadeCompileDebug": 1,
-<<<<<<< HEAD
 	"jadeOutputStyle": 1,
 	"javascriptAutoOutputPathEnabled": 1,
 	"javascriptAutoOutputPathFilenamePattern": "*-min.js",
-	"javascriptAutoOutputPathRelativePath": "\/js",
-=======
-	"jadeOutputStyle": 0,
-	"javascriptAutoOutputPathEnabled": 1,
-	"javascriptAutoOutputPathFilenamePattern": "*-min.js",
-	"javascriptAutoOutputPathRelativePath": "\/min",
->>>>>>> 1e875a8dc1b4ef586efdfaffbdcb2c81f2308cb8
+	"javascriptAutoOutputPathRelativePath": "..\/",
 	"javascriptAutoOutputPathReplace1": "",
 	"javascriptAutoOutputPathReplace2": "",
-	"javascriptAutoOutputPathStyle": 0,
+	"javascriptAutoOutputPathStyle": 2,
 	"javascriptCreateSourceMap": 1,
-<<<<<<< HEAD
 	"javascriptOutputStyle": 2,
-=======
-	"javascriptOutputStyle": 0,
->>>>>>> 1e875a8dc1b4ef586efdfaffbdcb2c81f2308cb8
 	"javascriptSyntaxCheckerStyle": 1,
-	"jsCheckerReservedNamesString": "jQuery,_jQuery,_",
+	"jsCheckerReservedNamesString": "",
 	"jsHintFlags2": {
 		"asi": {
 			"active": 0,
@@ -2642,11 +2485,7 @@
 		},
 	"kitAutoOutputPathEnabled": 1,
 	"kitAutoOutputPathFilenamePattern": "*.html",
-<<<<<<< HEAD
-	"kitAutoOutputPathRelativePath": "",
-=======
 	"kitAutoOutputPathRelativePath": "..\/",
->>>>>>> 1e875a8dc1b4ef586efdfaffbdcb2c81f2308cb8
 	"kitAutoOutputPathReplace1": "",
 	"kitAutoOutputPathReplace2": "",
 	"kitAutoOutputPathStyle": 2,
@@ -2677,26 +2516,18 @@
 	"reloadFileURLs": 1,
 	"sassAutoOutputPathEnabled": 1,
 	"sassAutoOutputPathFilenamePattern": "*.css",
-<<<<<<< HEAD
-	"sassAutoOutputPathRelativePath": "css",
-=======
 	"sassAutoOutputPathRelativePath": "..\/",
->>>>>>> 1e875a8dc1b4ef586efdfaffbdcb2c81f2308cb8
 	"sassAutoOutputPathReplace1": "sass",
 	"sassAutoOutputPathReplace2": "css",
 	"sassAutoOutputPathStyle": 2,
 	"sassCreateSourceMap": 1,
 	"sassDebugStyle": 0,
-	"sassDecimalPrecision": 2,
+	"sassDecimalPrecision": 10,
 	"sassOutputStyle": 3,
 	"sassUseLibsass": 0,
 	"shouldRunAutoprefixer": 1,
 	"shouldRunBless": 1,
-<<<<<<< HEAD
-	"skippedItemsString": ".svn, .git, .hg, log, _logs, _cache, cache, logs",
-=======
 	"skippedItemsString": ".svn, .git, .hg, log, _logs, _cache, cache, logs, node_modules",
->>>>>>> 1e875a8dc1b4ef586efdfaffbdcb2c81f2308cb8
 	"slimAutoOutputPathEnabled": 1,
 	"slimAutoOutputPathFilenamePattern": "*.html",
 	"slimAutoOutputPathRelativePath": "",
@@ -2709,18 +2540,14 @@
 	"slimRailsCompatible": 0,
 	"stylusAutoOutputPathEnabled": 1,
 	"stylusAutoOutputPathFilenamePattern": "*.css",
-<<<<<<< HEAD
 	"stylusAutoOutputPathRelativePath": "..\/css",
-=======
-	"stylusAutoOutputPathRelativePath": "..\/",
->>>>>>> 1e875a8dc1b4ef586efdfaffbdcb2c81f2308cb8
 	"stylusAutoOutputPathReplace1": "stylus",
 	"stylusAutoOutputPathReplace2": "css",
 	"stylusAutoOutputPathStyle": 2,
 	"stylusCreateSourceMap": 0,
-	"stylusDebugStyle": 2,
-	"stylusImportCSS": 1,
-	"stylusOutputStyle": 1,
+	"stylusDebugStyle": 0,
+	"stylusImportCSS": 0,
+	"stylusOutputStyle": 0,
 	"stylusResolveRelativeURLS": 0,
 	"typescriptAutoOutputPathEnabled": 1,
 	"typescriptAutoOutputPathFilenamePattern": "*.js",

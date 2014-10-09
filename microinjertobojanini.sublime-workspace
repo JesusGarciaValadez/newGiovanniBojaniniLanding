@@ -173,6 +173,8 @@
 	"file_history":
 	[
 		"/Applications/MAMP/htdocs/new_giovanni_bojanini_landing/Code/templates/index.jade",
+		"/Applications/MAMP/htdocs/new_giovanni_bojanini_landing/Code/templates/index_junio.jade",
+		"/Applications/MAMP/htdocs/new_giovanni_bojanini_landing/microinjertobojanini.sublime-workspace",
 		"/Applications/MAMP/htdocs/new_giovanni_bojanini_landing/Code/templates/index_october.jade",
 		"/Applications/MAMP/htdocs/new_giovanni_bojanini_landing/index.html",
 		"/Applications/MAMP/htdocs/new_giovanni_bojanini_landing/config.codekit",
@@ -297,9 +299,7 @@
 		"/Applications/MAMP/htdocs/minvielle_photography/Code/templates/javascript/main.js",
 		"/Applications/MAMP/htdocs/equiver/Code/templates/javascript/Equiver.js",
 		"/Applications/MAMP/htdocs/equiver/Code/templates/sass/home.sass",
-		"/Applications/MAMP/htdocs/equiver/Code/templates/javascript/main.js",
-		"/Applications/MAMP/htdocs/equiver/Code/templates/kit/index.kit",
-		"/Applications/MAMP/htdocs/boletin_axa/Code/templates/lealtad/escoge-y-estrena.html"
+		"/Applications/MAMP/htdocs/equiver/Code/templates/javascript/main.js"
 	],
 	"find":
 	{
