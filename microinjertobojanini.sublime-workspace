@@ -127,16 +127,16 @@
 	"build_system": "",
 	"command_palette":
 	{
-		"height": 47.0,
+		"height": 287.0,
 		"selected_items":
 		[
 			[
-				"Package Control: remo",
-				"Package Control: Remove Package"
+				"Package Control: ",
+				"Package Control: Install Package"
 			],
 			[
-				"Package Control: ",
-				"Package Control: Disable Package"
+				"Package Control: remo",
+				"Package Control: Remove Package"
 			],
 			[
 				"encode",
@@ -159,7 +159,7 @@
 				"Snippet: #!/usr/bin/env"
 			]
 		],
-		"width": 371.0
+		"width": 449.0
 	},
 	"console":
 	{
@@ -176,6 +176,8 @@
 	},
 	"file_history":
 	[
+		"/Applications/MAMP/htdocs/new_giovanni_bojanini_landing/Code/templates/index.jade",
+		"/Applications/MAMP/htdocs/new_giovanni_bojanini_landing/Code/index.html",
 		"/Applications/MAMP/htdocs/new_giovanni_bojanini_landing/Code/snippets/dispatcher.php",
 		"/Applications/MAMP/htdocs/new_giovanni_bojanini_landing/Code/templates/kit/index_october.kit",
 		"/Applications/MAMP/htdocs/new_giovanni_bojanini_landing/Code/templates/kit/autodiagnostic_module.kit",
@@ -189,7 +191,6 @@
 		"/Applications/MAMP/htdocs/new_giovanni_bojanini_landing/Code/templates/scss/main.scss",
 		"/Applications/MAMP/htdocs/new_giovanni_bojanini_landing/Code/templates/kit/footer.kit",
 		"/Applications/MAMP/htdocs/new_giovanni_bojanini_landing/Code/templates/index_october.jade",
-		"/Applications/MAMP/htdocs/new_giovanni_bojanini_landing/Code/templates/index.jade",
 		"/Applications/MAMP/htdocs/new_giovanni_bojanini_landing/config.codekit",
 		"/Users/jgarcia/Library/Application Support/Sublime Text 2/Packages/Package Control/Package Control.sublime-settings",
 		"/Applications/MAMP/htdocs/giovanni_bojanini_new/Code/templates/sass/banners/change-your-look-octuber-2014.sass",
@@ -302,8 +303,7 @@
 		"/Applications/MAMP/htdocs/boletin_axa/Code/templates/kit/template-aditional-blue-themed.kit",
 		"/Applications/MAMP/htdocs/boletin_axa/Code/templates/kit/template-historic-blue-themed.kit",
 		"/Applications/MAMP/htdocs/boletin_axa/Code/chunks/template-parent-blue-themed.html",
-		"/Applications/MAMP/htdocs/boletin_axa/Code/templates/kit/dt_displayable_bulletin_blue_themed.kit",
-		"/Applications/MAMP/htdocs/boletin_axa/Code/templates/kit/dt_root_bulletin_parent_blue_themed.kit"
+		"/Applications/MAMP/htdocs/boletin_axa/Code/templates/kit/dt_displayable_bulletin_blue_themed.kit"
 	],
 	"find":
 	{
