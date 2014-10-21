@@ -176,6 +176,7 @@
 	},
 	"file_history":
 	[
+		"/Applications/MAMP/htdocs/new_giovanni_bojanini_landing/Code/templates/index.jade",
 		"/Applications/MAMP/htdocs/new_giovanni_bojanini_landing/Code/snippets/dispatcher.php",
 		"/Applications/MAMP/htdocs/new_giovanni_bojanini_landing/Code/templates/kit/index_october.kit",
 		"/Applications/MAMP/htdocs/new_giovanni_bojanini_landing/Code/templates/kit/autodiagnostic_module.kit",
@@ -189,7 +190,6 @@
 		"/Applications/MAMP/htdocs/new_giovanni_bojanini_landing/Code/templates/scss/main.scss",
 		"/Applications/MAMP/htdocs/new_giovanni_bojanini_landing/Code/templates/kit/footer.kit",
 		"/Applications/MAMP/htdocs/new_giovanni_bojanini_landing/Code/templates/index_october.jade",
-		"/Applications/MAMP/htdocs/new_giovanni_bojanini_landing/Code/templates/index.jade",
 		"/Applications/MAMP/htdocs/new_giovanni_bojanini_landing/config.codekit",
 		"/Users/jgarcia/Library/Application Support/Sublime Text 2/Packages/Package Control/Package Control.sublime-settings",
 		"/Applications/MAMP/htdocs/giovanni_bojanini_new/Code/templates/sass/banners/change-your-look-octuber-2014.sass",
@@ -454,6 +454,10 @@
 		"height": 500.0,
 		"selected_items":
 		[
+			[
+				"des",
+				"/Users/jgarcia/Documents/descubreonelandings.sublime-project"
+			],
 			[
 				"bole",
 				"/Applications/MAMP/htdocs/boletin_axa/boletinaxa.sublime-project"
