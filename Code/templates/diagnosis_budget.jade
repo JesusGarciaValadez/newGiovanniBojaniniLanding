@@ -1,0 +1,23 @@
+div.diagnosis_budget
+    h4.
+        Recibe tu <strong>presupuesto</strong>
+    form(action="Code/snippets/dispatcher.php?action=sendBudget" method="post" name="budget_form").budget_form
+        fieldset
+            div.text
+                input(type="text" name="budget_name" class="budget_name" placeholder="Nombre" value="")
+            div.text
+                input(type="text" name="budget_phone" class="budget_phone" placeholder="Teléfono" value="")
+            div.text
+                input(type="text" name="budget_mail" class="budget_mail" placeholder="Correo" value="")
+            div.submit
+                input(type="submit" class="submit_button" value="Enviar")
+    hr
+    div.schedule_your_date
+        img(src="img/agenda_tuCita.png" alt="agenda_tuCita" width="124" height="60").schedule
+    div.branch
+        h5.
+            Pabellón <strong>Bosques</strong>
+        p.
+            Av. Prolongaci&oacute;n Bosques de Reforma N&ordm; 1813, <br />piso 4, interior 401, Col. Bosques de las Lomas
+        p.branch_phone
+            <span>México, D.F.,</span> Tel. 2167<span>-</span>5210
